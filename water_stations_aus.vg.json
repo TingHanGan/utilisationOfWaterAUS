@@ -1,0 +1,34 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 500,
+    "title": "Water Stations around Australia",
+    "projection": {"type": "equirectangular"},
+    "layer": [
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/TingHanGan/utilisationOfWaterAUS/main/aus_map.json",
+          "format": {"type": "topojson", "feature": "austates"}
+        },
+        "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/TingHanGan/utilisationOfWaterAUS/main/Datasets/waterStations.csv"
+        },
+        "mark": {"type": "circle"},
+        "encoding": {
+            "tooltip": [
+                {"field": "Station Name", "type": "nominal", "title": "Station Name"},
+                {"field": "Data Owner", "type": "nomial", "title": "Water Station Owner"}
+              ],
+          "longitude": {"field": "Longitude", "type": "quantitative"},
+          "latitude": {"field": "Latitude", "type": "quantitative"},
+          "color": {
+            "field": "Location",
+            "scale": {"scheme": "yellowgreenblue"}
+          }
+        } 
+      }
+    ]
+  }
