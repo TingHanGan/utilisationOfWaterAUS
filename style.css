@@ -1,0 +1,11 @@
+/* Heading */
+#heading {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#sub {
+    font-size: 30px;
+    font-weight: bold;
+}
