@@ -1,9 +1,17 @@
-Region Code,Region,Commodity description,Estimate,Number of agricultural businesses,Type,Estimate2
-1,New South Wales,Water source - Total volume of water from all sources (ML) (b),1410463.68,12016.44,Water source,1646369.09
-2,Victoria,Water source - Total volume of water from all sources (ML) (b),1503186.47,12239.04,Water source,1760699.74
-3,Queensland,Water source - Total volume of water from all sources (ML) (b),1987653.18,10605.38,Water source,2121945.12
-4,South Australia,Water source - Total volume of water from all sources (ML) (b),795024.52,6164.13,Water source,878643.76
-5,Western Australia,Water source - Total volume of water from all sources (ML) (b),357614.25,5619.2,Water source,319556.38
-6,Tasmania,Water source - Total volume of water from all sources (ML) (b),361193.88,1917.57,Water source,425159.06
-7,Northern Territory,Water source - Total volume of water from all sources (ML) (b),49109.3,317.35,Water source,0
-8,Australian Capital Territory,Water source - Total volume of water from all sources (ML) (b),300.89,25.72,Water source,0
+Region Code,Region,Estimate,Type
+1,New South Wales,1410463.68,Water source
+2,Victoria,1503186.47,Water source
+3,Queensland,1987653.18,Water source
+4,South Australia,795024.52,Water source
+5,Western Australia,357614.25,Water source
+6,Tasmania,361193.88,Water source
+7,Northern Territory,49109.3,Water source
+8,Australian Capital Territory,300.89,Water source
+1,New South Wales,1646369.09,Water use
+2,Victoria,1760699.74,Water use
+3,Queensland,2121945.12,Water use
+4,South Australia,878643.76,Water use
+5,Western Australia,319556.38,Water use
+6,Tasmania,425159.06,Water use
+7,Northern Territory,0,Water use
+8,Australian Capital Territory,0,Water use
