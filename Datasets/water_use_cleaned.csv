@@ -1,391 +1,391 @@
-State,Code,Industry,Supuse,Product,Unit,Date,Value
-Australia,0,Total mining,Supply,Distributed,ML,2014,12708
-Australia,0,Total industry,Supply,Distributed,ML,2014,11909448
-Australia,0,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2014,289314
-Australia,0,Total industry,Supply,Reuse,ML,2014,326302
-Australia,0,Total mining,Supply,Return flows (a),ML,2014,402410
-Australia,0,Total manufacturing,Supply,Return flows (a),ML,2014,68518
-Australia,0,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,52252161
-Australia,0,Total industry,Supply,Return flows (a),ML,2014,52723090
-Australia,0,Total agriculture,Use,Self-extracted,ML,2014,3254809
-Australia,0,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,3254809
-Australia,0,Total mining,Use,Self-extracted,ML,2014,1117218
-Australia,0,Total manufacturing,Use,Self-extracted,ML,2014,323305
-Australia,0,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2014,62392649
-Australia,0,Total industry,Use,Self-extracted,ML,2014,67191146
-Australia,0,Total agriculture,Use,Distributed,ML,2014,7227137
-Australia,0,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2014,7273966
-Australia,0,Total mining,Use,Distributed,ML,2014,82288
-Australia,0,Total manufacturing,Use,Distributed,ML,2014,245035
-Australia,0,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2014,2113871
-Australia,0,Total industry,Use,Distributed,ML,2014,10220128
-Australia,0,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,2051195
-Australia,0,Total industry,Use,Wastewater,ML,2014,2051195
-Australia,0,Total agriculture,Use,Reuse,ML,2014,97109
-Australia,0,Total mining,Use,Reuse,ML,2014,3175
-Australia,0,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2014,103405
-Australia,0,Total industry,Use,Reuse,ML,2014,321652
-New South Wales,1,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,10548951
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,872404
-New South Wales,1,Total mining,Use,Self-extracted,ML,2014,116302
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2014,3102380
-New South Wales,1,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,817616
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2014,19869
-Victoria,2,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2014,92887
-Victoria,2,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,5073131
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,408472
-Victoria,2,Total mining,Use,Self-extracted,ML,2014,26168
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2014,2106496
-Victoria,2,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2014,477730
-Victoria,2,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,467298
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2014,38864
-Victoria,2,Total mining,Use,Reuse,ML,2014,792
-Queensland,3,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,1034632
-Queensland,3,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,1178912
-Queensland,3,Total mining,Use,Self-extracted,ML,2014,223513
-Queensland,3,Total mining,Use,Distributed,ML,2014,41946
-Queensland,3,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,378385
-South Australia,4,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2014,41759
-South Australia,4,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,87408
-South Australia,4,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,380938
-South Australia,4,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,116636
-South Australia,4,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2014,22032
-South Australia,4,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2014,12019
-Western Australia,5,Total mining,Supply,Distributed,ML,2014,8261
-Western Australia,5,Total mining,Supply,Reuse,ML,2014,16993
-Western Australia,5,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,2056882
-Western Australia,5,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,186202
-Western Australia,5,Total mining,Use,Self-extracted,ML,2014,641365
-Western Australia,5,Total mining,Use,Distributed,ML,2014,16514
-Western Australia,5,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,166852
-Western Australia,5,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2014,5068
-Tasmania,6,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,33402491
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,172943
-Tasmania,6,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2014,33481700
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2014,51266
-Tasmania,6,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,51009
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2014,4185
-Northern Territory,7,Total mining,Supply,Distributed,ML,2014,522
-Northern Territory,7,Total mining,Supply,Reuse,ML,2014,1084
-Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2014,1760
-Northern Territory,7,Total mining,Supply,Return flows (a),ML,2014,12746
-Northern Territory,7,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,54748
-Northern Territory,7,Total mining,Use,Self-extracted,ML,2014,36853
-Northern Territory,7,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,20428
-Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2014,3321
-Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,191
-Australian Capital Territory,8,Total mining,Use,Self-extracted,ML,2014,539
-Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2014,51
-Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,32971
-Australia,0,Total mining,Supply,Distributed,ML,2015,13482
-Australia,0,Total industry,Supply,Distributed,ML,2015,10609054
-Australia,0,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2015,294720
-Australia,0,Total industry,Supply,Reuse,ML,2015,333790
-Australia,0,Total mining,Supply,Return flows (a),ML,2015,406305
-Australia,0,Total manufacturing,Supply,Return flows (a),ML,2015,73669
-Australia,0,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,50789895
-Australia,0,Total industry,Supply,Return flows (a),ML,2015,51269869
-Australia,0,Total agriculture,Use,Self-extracted,ML,2015,3368672
-Australia,0,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,3368672
-Australia,0,Total mining,Use,Self-extracted,ML,2015,1121514
-Australia,0,Total manufacturing,Use,Self-extracted,ML,2015,311596
-Australia,0,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2015,59667778
-Australia,0,Total industry,Use,Self-extracted,ML,2015,64572068
-Australia,0,Total agriculture,Use,Distributed,ML,2015,6167495
-Australia,0,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2015,6204411
-Australia,0,Total mining,Use,Distributed,ML,2015,81693
-Australia,0,Total manufacturing,Use,Distributed,ML,2015,236204
-Australia,0,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2015,1829294
-Australia,0,Total industry,Use,Distributed,ML,2015,8863049
-Australia,0,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,2013917
-Australia,0,Total industry,Use,Wastewater,ML,2015,2013917
-Australia,0,Total agriculture,Use,Reuse,ML,2015,109180
-Australia,0,Total mining,Use,Reuse,ML,2015,4006
-Australia,0,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2015,90487
-Australia,0,Total industry,Use,Reuse,ML,2015,328415
-New South Wales,1,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,11070325
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,883657
-New South Wales,1,Total mining,Use,Self-extracted,ML,2015,116238
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2015,2187944
-New South Wales,1,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,797235
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2015,18558
-Victoria,2,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2015,96671
-Victoria,2,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,4994815
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,393637
-Victoria,2,Total mining,Use,Self-extracted,ML,2015,23001
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2015,2050339
-Victoria,2,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2015,459791
-Victoria,2,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,469470
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2015,47268
-Victoria,2,Total mining,Use,Reuse,ML,2015,792
-Queensland,3,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,993227
-Queensland,3,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,1206875
-Queensland,3,Total mining,Use,Self-extracted,ML,2015,229494
-Queensland,3,Total mining,Use,Distributed,ML,2015,33876
-Queensland,3,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,358142
-South Australia,4,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2015,41886
-South Australia,4,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,90804
-South Australia,4,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,433905
-South Australia,4,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,118526
-South Australia,4,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2015,24777
-South Australia,4,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2015,10250
-Western Australia,5,Total mining,Supply,Distributed,ML,2015,9091
-Western Australia,5,Total mining,Supply,Reuse,ML,2015,18620
-Western Australia,5,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,2150403
-Western Australia,5,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,209252
-Western Australia,5,Total mining,Use,Self-extracted,ML,2015,654527
-Western Australia,5,Total mining,Use,Distributed,ML,2015,21141
-Western Australia,5,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,166061
-Western Australia,5,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2015,5511
-Tasmania,6,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,31441417
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,200773
-Tasmania,6,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2015,31569238
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2015,97603
-Tasmania,6,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,50695
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2015,4500
-Northern Territory,7,Total mining,Supply,Distributed,ML,2015,482
-Northern Territory,7,Total mining,Supply,Reuse,ML,2015,990
-Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2015,1920
-Northern Territory,7,Total mining,Supply,Return flows (a),ML,2015,11200
-Northern Territory,7,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,40419
-Northern Territory,7,Total mining,Use,Self-extracted,ML,2015,32170
-Northern Territory,7,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,19934
-Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2015,3296
-Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,155
-Australian Capital Territory,8,Total mining,Use,Self-extracted,ML,2015,307
-Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2015,151
-Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,33854
-Australia,0,Total mining,Supply,Distributed,ML,2016,13671
-Australia,0,Total industry,Supply,Distributed,ML,2016,12283938
-Australia,0,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2016,273016
-Australia,0,Total industry,Supply,Reuse,ML,2016,312585
-Australia,0,Total mining,Supply,Return flows (a),ML,2016,426826
-Australia,0,Total manufacturing,Supply,Return flows (a),ML,2016,75632
-Australia,0,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,55999887
-Australia,0,Total industry,Supply,Return flows (a),ML,2016,56502345
-Australia,0,Total agriculture,Use,Self-extracted,ML,2016,3221235
-Australia,0,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,3221235
-Australia,0,Total mining,Use,Self-extracted,ML,2016,1157650
-Australia,0,Total manufacturing,Use,Self-extracted,ML,2016,308827
-Australia,0,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2016,66424714
-Australia,0,Total industry,Use,Self-extracted,ML,2016,71217063
-Australia,0,Total agriculture,Use,Distributed,ML,2016,7689574
-Australia,0,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2016,7738965
-Australia,0,Total mining,Use,Distributed,ML,2016,77612
-Australia,0,Total manufacturing,Use,Distributed,ML,2016,241105
-Australia,0,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2016,1988157
-Australia,0,Total industry,Use,Distributed,ML,2016,10562570
-Australia,0,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,2092724
-Australia,0,Total industry,Use,Wastewater,ML,2016,2092724
-Australia,0,Total agriculture,Use,Reuse,ML,2016,83266
-Australia,0,Total mining,Use,Reuse,ML,2016,3587
-Australia,0,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2016,108283
-Australia,0,Total industry,Use,Reuse,ML,2016,308600
-New South Wales,1,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,11881330
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,907174
-New South Wales,1,Total mining,Use,Self-extracted,ML,2016,134330
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2016,3600656
-New South Wales,1,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,807348
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2016,22680
-Victoria,2,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2016,93537
-Victoria,2,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,4903368
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,329337
-Victoria,2,Total mining,Use,Self-extracted,ML,2016,21603
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2016,2341122
-Victoria,2,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2016,456449
-Victoria,2,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,503480
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2016,28605
-Victoria,2,Total mining,Use,Reuse,ML,2016,475
-Queensland,3,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,906802
-Queensland,3,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,1244167
-Queensland,3,Total mining,Use,Self-extracted,ML,2016,220489
-Queensland,3,Total mining,Use,Distributed,ML,2016,39034
-Queensland,3,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,364350
-South Australia,4,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2016,33275
-South Australia,4,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,105526
-South Australia,4,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,290186
-South Australia,4,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,131884
-South Australia,4,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2016,15890
-South Australia,4,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2016,11995
-Western Australia,5,Total mining,Supply,Distributed,ML,2016,9685
-Western Australia,5,Total mining,Supply,Reuse,ML,2016,19828
-Western Australia,5,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,2112941
-Western Australia,5,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,202031
-Western Australia,5,Total mining,Use,Self-extracted,ML,2016,691601
-Western Australia,5,Total mining,Use,Distributed,ML,2016,18461
-Western Australia,5,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,167658
-Western Australia,5,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2016,5512
-Tasmania,6,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,36032079
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,158908
-Tasmania,6,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2016,36140969
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2016,85347
-Tasmania,6,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,56212
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2016,4100
-Northern Territory,7,Total mining,Supply,Distributed,ML,2016,357
-Northern Territory,7,Total mining,Supply,Reuse,ML,2016,595
-Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2016,917
-Northern Territory,7,Total mining,Supply,Return flows (a),ML,2016,8328
-Northern Territory,7,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,89044
-Northern Territory,7,Total mining,Use,Self-extracted,ML,2016,23966
-Northern Territory,7,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,25298
-Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2016,3392
-Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,387
-Australian Capital Territory,8,Total mining,Use,Self-extracted,ML,2016,110
-Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2016,82
-Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,36494
-Australia,0,Total mining,Supply,Distributed,ML,2017,14063
-Australia,0,Total industry,Supply,Distributed,ML,2017,12624630
-Australia,0,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2017,277361
-Australia,0,Total industry,Supply,Reuse,ML,2017,318069
-Australia,0,Total mining,Supply,Return flows (a),ML,2017,407997
-Australia,0,Total manufacturing,Supply,Return flows (a),ML,2017,75458
-Australia,0,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,55338423
-Australia,0,Total industry,Supply,Return flows (a),ML,2017,55821878
-Australia,0,Total agriculture,Use,Self-extracted,ML,2017,3381388
-Australia,0,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,3381388
-Australia,0,Total mining,Use,Self-extracted,ML,2017,1105156
-Australia,0,Total manufacturing,Use,Self-extracted,ML,2017,333861
-Australia,0,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2017,66238630
-Australia,0,Total industry,Use,Self-extracted,ML,2017,71171840
-Australia,0,Total agriculture,Use,Distributed,ML,2017,7820362
-Australia,0,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2017,7875984
-Australia,0,Total mining,Use,Distributed,ML,2017,99135
-Australia,0,Total manufacturing,Use,Distributed,ML,2017,241479
-Australia,0,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2017,2051845
-Australia,0,Total industry,Use,Distributed,ML,2017,10828129
-Australia,0,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,1951554
-Australia,0,Total industry,Use,Wastewater,ML,2017,1951554
-Australia,0,Total agriculture,Use,Reuse,ML,2017,103929
-Australia,0,Total mining,Use,Reuse,ML,2017,2479
-Australia,0,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2017,99642
-Australia,0,Total industry,Use,Reuse,ML,2017,312981
-New South Wales,1,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,10483595
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,966336
-New South Wales,1,Total mining,Use,Self-extracted,ML,2017,128915
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2017,3871937
-New South Wales,1,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,664435
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2017,29517
-Victoria,2,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2017,94900
-Victoria,2,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,4788341
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,376065
-Victoria,2,Total mining,Use,Self-extracted,ML,2017,21937
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2017,2186713
-Victoria,2,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2017,515628
-Victoria,2,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,492191
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2017,28999
-Victoria,2,Total mining,Use,Reuse,ML,2017,621
-Queensland,3,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,1001967
-Queensland,3,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,1317648
-Queensland,3,Total mining,Use,Self-extracted,ML,2017,214401
-Queensland,3,Total mining,Use,Distributed,ML,2017,46272
-Queensland,3,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,384520
-South Australia,4,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2017,36720
-South Australia,4,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,104422
-South Australia,4,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,296738
-South Australia,4,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,133610
-South Australia,4,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2017,26652
-South Australia,4,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2017,3462
-Western Australia,5,Total mining,Supply,Distributed,ML,2017,9564
-Western Australia,5,Total mining,Supply,Reuse,ML,2017,19678
-Western Australia,5,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,2202389
-Western Australia,5,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,172667
-Western Australia,5,Total mining,Use,Self-extracted,ML,2017,653186
-Western Australia,5,Total mining,Use,Distributed,ML,2017,18040
-Western Australia,5,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,168374
-Western Australia,5,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2017,3825
-Tasmania,6,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,36704648
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,170821
-Tasmania,6,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2017,36842573
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2017,98905
-Tasmania,6,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,51382
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2017,4855
-Northern Territory,7,Total mining,Supply,Distributed,ML,2017,345
-Northern Territory,7,Total mining,Supply,Reuse,ML,2017,574
-Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2017,1220
-Northern Territory,7,Total mining,Supply,Return flows (a),ML,2017,7626
-Northern Territory,7,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,80926
-Northern Territory,7,Total mining,Use,Self-extracted,ML,2017,21941
-Northern Territory,7,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,23691
-Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2017,3132
-Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,187
-Australian Capital Territory,8,Total mining,Use,Self-extracted,ML,2017,106
-Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2017,104
-Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,33351
-Australia,0,Total mining,Supply,Distributed,ML,2018,14919
-Australia,0,Total industry,Supply,Distributed,ML,2018,9963338
-Australia,0,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2018,281393
-Australia,0,Total industry,Supply,Reuse,ML,2018,324425
-Australia,0,Total mining,Supply,Return flows (a),ML,2018,396196
-Australia,0,Total manufacturing,Supply,Return flows (a),ML,2018,79262
-Australia,0,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,53052788
-Australia,0,Total industry,Supply,Return flows (a),ML,2018,53528246
-Australia,0,Total agriculture,Use,Self-extracted,ML,2018,3113376
-Australia,0,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,3113376
-Australia,0,Total mining,Use,Self-extracted,ML,2018,1070358
-Australia,0,Total manufacturing,Use,Self-extracted,ML,2018,366948
-Australia,0,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2018,61304897
-Australia,0,Total industry,Use,Self-extracted,ML,2018,65967787
-Australia,0,Total agriculture,Use,Distributed,ML,2018,5444590
-Australia,0,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2018,5525576
-Australia,0,Total mining,Use,Distributed,ML,2018,101065
-Australia,0,Total manufacturing,Use,Distributed,ML,2018,237549
-Australia,0,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2018,1727904
-Australia,0,Total industry,Use,Distributed,ML,2018,8153301
-Australia,0,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,1993495
-Australia,0,Total industry,Use,Wastewater,ML,2018,1993495
-Australia,0,Total agriculture,Use,Reuse,ML,2018,97324
-Australia,0,Total mining,Use,Reuse,ML,2018,3842
-Australia,0,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2018,95246
-Australia,0,Total industry,Use,Reuse,ML,2018,318529
-New South Wales,1,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,8196762
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,934511
-New South Wales,1,Total mining,Use,Self-extracted,ML,2018,120422
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2018,2032253
-New South Wales,1,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,746220
-New South Wales,1,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2018,22601
-Victoria,2,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2018,95920
-Victoria,2,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,4816110
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,403077
-Victoria,2,Total mining,Use,Self-extracted,ML,2018,19917
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2018,1661510
-Victoria,2,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2018,401590
-Victoria,2,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,482345
-Victoria,2,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2018,29527
-Victoria,2,Total mining,Use,Reuse,ML,2018,924
-Queensland,3,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,981374
-Queensland,3,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,970696
-Queensland,3,Total mining,Use,Self-extracted,ML,2018,206698
-Queensland,3,Total mining,Use,Distributed,ML,2018,52859
-Queensland,3,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,371191
-South Australia,4,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2018,40222
-South Australia,4,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,70767
-South Australia,4,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,339562
-South Australia,4,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,119957
-South Australia,4,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2018,29393
-South Australia,4,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2018,3950
-Western Australia,5,Total mining,Supply,Distributed,ML,2018,10201
-Western Australia,5,Total mining,Supply,Reuse,ML,2018,21093
-Western Australia,5,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,2187565
-Western Australia,5,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,227885
-Western Australia,5,Total mining,Use,Self-extracted,ML,2018,637758
-Western Australia,5,Total mining,Use,Distributed,ML,2018,17362
-Western Australia,5,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,168245
-Western Australia,5,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2018,3376
-Tasmania,6,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,36754992
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,179506
-Tasmania,6,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2018,36906989
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2018,108016
-Tasmania,6,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,51173
-Tasmania,6,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2018,3116
-Northern Territory,7,Total mining,Supply,Distributed,ML,2018,493
-Northern Territory,7,Total mining,Supply,Reuse,ML,2018,822
-Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2018,1152
-Northern Territory,7,Total mining,Supply,Return flows (a),ML,2018,9968
-Northern Territory,7,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,57979
-Northern Territory,7,Total mining,Use,Self-extracted,ML,2018,28639
-Northern Territory,7,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,21157
-Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2018,2253
-Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,160
-Australian Capital Territory,8,Total mining,Use,Self-extracted,ML,2018,114
-Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2018,73
-Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,33207
+State,Code,Industry,Supuse,Unit,Date,Value
+Australia,0,Total mining,Supply,ML,2014,12708
+Australia,0,Total industry,Supply,ML,2014,11909448
+Australia,0,"Total Electricity, gas, water and waste services",Supply,ML,2014,289314
+Australia,0,Total industry,Supply,ML,2014,326302
+Australia,0,Total mining,Supply,ML,2014,402410
+Australia,0,Total manufacturing,Supply,ML,2014,68518
+Australia,0,"Total Electricity, gas, water and waste services",Supply,ML,2014,52252161
+Australia,0,Total industry,Supply,ML,2014,52723090
+Australia,0,Total agriculture,Use,ML,2014,3254809
+Australia,0,"Total Agriculture, forestry and fishing",Use,ML,2014,3254809
+Australia,0,Total mining,Use,ML,2014,1117218
+Australia,0,Total manufacturing,Use,ML,2014,323305
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2014,62392649
+Australia,0,Total industry,Use,ML,2014,67191146
+Australia,0,Total agriculture,Use,ML,2014,7227137
+Australia,0,"Total Agriculture, forestry and fishing",Use,ML,2014,7273966
+Australia,0,Total mining,Use,ML,2014,82288
+Australia,0,Total manufacturing,Use,ML,2014,245035
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2014,2113871
+Australia,0,Total industry,Use,ML,2014,10220128
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2014,2051195
+Australia,0,Total industry,Use,ML,2014,2051195
+Australia,0,Total agriculture,Use,ML,2014,97109
+Australia,0,Total mining,Use,ML,2014,3175
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2014,103405
+Australia,0,Total industry,Use,ML,2014,321652
+New South Wales,1,"Total Electricity, gas, water and waste services",Supply,ML,2014,10548951
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2014,872404
+New South Wales,1,Total mining,Use,ML,2014,116302
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2014,3102380
+New South Wales,1,"Total Electricity, gas, water and waste services",Use,ML,2014,817616
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2014,19869
+Victoria,2,"Total Electricity, gas, water and waste services",Supply,ML,2014,92887
+Victoria,2,"Total Electricity, gas, water and waste services",Supply,ML,2014,5073131
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2014,408472
+Victoria,2,Total mining,Use,ML,2014,26168
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2014,2106496
+Victoria,2,"Total Electricity, gas, water and waste services",Use,ML,2014,477730
+Victoria,2,"Total Electricity, gas, water and waste services",Use,ML,2014,467298
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2014,38864
+Victoria,2,Total mining,Use,ML,2014,792
+Queensland,3,"Total Electricity, gas, water and waste services",Supply,ML,2014,1034632
+Queensland,3,"Total Agriculture, forestry and fishing",Use,ML,2014,1178912
+Queensland,3,Total mining,Use,ML,2014,223513
+Queensland,3,Total mining,Use,ML,2014,41946
+Queensland,3,"Total Electricity, gas, water and waste services",Use,ML,2014,378385
+South Australia,4,"Total Electricity, gas, water and waste services",Supply,ML,2014,41759
+South Australia,4,"Total Electricity, gas, water and waste services",Supply,ML,2014,87408
+South Australia,4,"Total Agriculture, forestry and fishing",Use,ML,2014,380938
+South Australia,4,"Total Electricity, gas, water and waste services",Use,ML,2014,116636
+South Australia,4,"Total Agriculture, forestry and fishing",Use,ML,2014,22032
+South Australia,4,"Total Electricity, gas, water and waste services",Use,ML,2014,12019
+Western Australia,5,Total mining,Supply,ML,2014,8261
+Western Australia,5,Total mining,Supply,ML,2014,16993
+Western Australia,5,"Total Electricity, gas, water and waste services",Supply,ML,2014,2056882
+Western Australia,5,"Total Agriculture, forestry and fishing",Use,ML,2014,186202
+Western Australia,5,Total mining,Use,ML,2014,641365
+Western Australia,5,Total mining,Use,ML,2014,16514
+Western Australia,5,"Total Electricity, gas, water and waste services",Use,ML,2014,166852
+Western Australia,5,"Total Electricity, gas, water and waste services",Use,ML,2014,5068
+Tasmania,6,"Total Electricity, gas, water and waste services",Supply,ML,2014,33402491
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2014,172943
+Tasmania,6,"Total Electricity, gas, water and waste services",Use,ML,2014,33481700
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2014,51266
+Tasmania,6,"Total Electricity, gas, water and waste services",Use,ML,2014,51009
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2014,4185
+Northern Territory,7,Total mining,Supply,ML,2014,522
+Northern Territory,7,Total mining,Supply,ML,2014,1084
+Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,ML,2014,1760
+Northern Territory,7,Total mining,Supply,ML,2014,12746
+Northern Territory,7,"Total Agriculture, forestry and fishing",Use,ML,2014,54748
+Northern Territory,7,Total mining,Use,ML,2014,36853
+Northern Territory,7,"Total Electricity, gas, water and waste services",Use,ML,2014,20428
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,ML,2014,3321
+Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,ML,2014,191
+Australian Capital Territory,8,Total mining,Use,ML,2014,539
+Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,ML,2014,51
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,ML,2014,32971
+Australia,0,Total mining,Supply,ML,2015,13482
+Australia,0,Total industry,Supply,ML,2015,10609054
+Australia,0,"Total Electricity, gas, water and waste services",Supply,ML,2015,294720
+Australia,0,Total industry,Supply,ML,2015,333790
+Australia,0,Total mining,Supply,ML,2015,406305
+Australia,0,Total manufacturing,Supply,ML,2015,73669
+Australia,0,"Total Electricity, gas, water and waste services",Supply,ML,2015,50789895
+Australia,0,Total industry,Supply,ML,2015,51269869
+Australia,0,Total agriculture,Use,ML,2015,3368672
+Australia,0,"Total Agriculture, forestry and fishing",Use,ML,2015,3368672
+Australia,0,Total mining,Use,ML,2015,1121514
+Australia,0,Total manufacturing,Use,ML,2015,311596
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2015,59667778
+Australia,0,Total industry,Use,ML,2015,64572068
+Australia,0,Total agriculture,Use,ML,2015,6167495
+Australia,0,"Total Agriculture, forestry and fishing",Use,ML,2015,6204411
+Australia,0,Total mining,Use,ML,2015,81693
+Australia,0,Total manufacturing,Use,ML,2015,236204
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2015,1829294
+Australia,0,Total industry,Use,ML,2015,8863049
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2015,2013917
+Australia,0,Total industry,Use,ML,2015,2013917
+Australia,0,Total agriculture,Use,ML,2015,109180
+Australia,0,Total mining,Use,ML,2015,4006
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2015,90487
+Australia,0,Total industry,Use,ML,2015,328415
+New South Wales,1,"Total Electricity, gas, water and waste services",Supply,ML,2015,11070325
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2015,883657
+New South Wales,1,Total mining,Use,ML,2015,116238
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2015,2187944
+New South Wales,1,"Total Electricity, gas, water and waste services",Use,ML,2015,797235
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2015,18558
+Victoria,2,"Total Electricity, gas, water and waste services",Supply,ML,2015,96671
+Victoria,2,"Total Electricity, gas, water and waste services",Supply,ML,2015,4994815
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2015,393637
+Victoria,2,Total mining,Use,ML,2015,23001
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2015,2050339
+Victoria,2,"Total Electricity, gas, water and waste services",Use,ML,2015,459791
+Victoria,2,"Total Electricity, gas, water and waste services",Use,ML,2015,469470
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2015,47268
+Victoria,2,Total mining,Use,ML,2015,792
+Queensland,3,"Total Electricity, gas, water and waste services",Supply,ML,2015,993227
+Queensland,3,"Total Agriculture, forestry and fishing",Use,ML,2015,1206875
+Queensland,3,Total mining,Use,ML,2015,229494
+Queensland,3,Total mining,Use,ML,2015,33876
+Queensland,3,"Total Electricity, gas, water and waste services",Use,ML,2015,358142
+South Australia,4,"Total Electricity, gas, water and waste services",Supply,ML,2015,41886
+South Australia,4,"Total Electricity, gas, water and waste services",Supply,ML,2015,90804
+South Australia,4,"Total Agriculture, forestry and fishing",Use,ML,2015,433905
+South Australia,4,"Total Electricity, gas, water and waste services",Use,ML,2015,118526
+South Australia,4,"Total Agriculture, forestry and fishing",Use,ML,2015,24777
+South Australia,4,"Total Electricity, gas, water and waste services",Use,ML,2015,10250
+Western Australia,5,Total mining,Supply,ML,2015,9091
+Western Australia,5,Total mining,Supply,ML,2015,18620
+Western Australia,5,"Total Electricity, gas, water and waste services",Supply,ML,2015,2150403
+Western Australia,5,"Total Agriculture, forestry and fishing",Use,ML,2015,209252
+Western Australia,5,Total mining,Use,ML,2015,654527
+Western Australia,5,Total mining,Use,ML,2015,21141
+Western Australia,5,"Total Electricity, gas, water and waste services",Use,ML,2015,166061
+Western Australia,5,"Total Electricity, gas, water and waste services",Use,ML,2015,5511
+Tasmania,6,"Total Electricity, gas, water and waste services",Supply,ML,2015,31441417
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2015,200773
+Tasmania,6,"Total Electricity, gas, water and waste services",Use,ML,2015,31569238
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2015,97603
+Tasmania,6,"Total Electricity, gas, water and waste services",Use,ML,2015,50695
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2015,4500
+Northern Territory,7,Total mining,Supply,ML,2015,482
+Northern Territory,7,Total mining,Supply,ML,2015,990
+Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,ML,2015,1920
+Northern Territory,7,Total mining,Supply,ML,2015,11200
+Northern Territory,7,"Total Agriculture, forestry and fishing",Use,ML,2015,40419
+Northern Territory,7,Total mining,Use,ML,2015,32170
+Northern Territory,7,"Total Electricity, gas, water and waste services",Use,ML,2015,19934
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,ML,2015,3296
+Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,ML,2015,155
+Australian Capital Territory,8,Total mining,Use,ML,2015,307
+Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,ML,2015,151
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,ML,2015,33854
+Australia,0,Total mining,Supply,ML,2016,13671
+Australia,0,Total industry,Supply,ML,2016,12283938
+Australia,0,"Total Electricity, gas, water and waste services",Supply,ML,2016,273016
+Australia,0,Total industry,Supply,ML,2016,312585
+Australia,0,Total mining,Supply,ML,2016,426826
+Australia,0,Total manufacturing,Supply,ML,2016,75632
+Australia,0,"Total Electricity, gas, water and waste services",Supply,ML,2016,55999887
+Australia,0,Total industry,Supply,ML,2016,56502345
+Australia,0,Total agriculture,Use,ML,2016,3221235
+Australia,0,"Total Agriculture, forestry and fishing",Use,ML,2016,3221235
+Australia,0,Total mining,Use,ML,2016,1157650
+Australia,0,Total manufacturing,Use,ML,2016,308827
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2016,66424714
+Australia,0,Total industry,Use,ML,2016,71217063
+Australia,0,Total agriculture,Use,ML,2016,7689574
+Australia,0,"Total Agriculture, forestry and fishing",Use,ML,2016,7738965
+Australia,0,Total mining,Use,ML,2016,77612
+Australia,0,Total manufacturing,Use,ML,2016,241105
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2016,1988157
+Australia,0,Total industry,Use,ML,2016,10562570
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2016,2092724
+Australia,0,Total industry,Use,ML,2016,2092724
+Australia,0,Total agriculture,Use,ML,2016,83266
+Australia,0,Total mining,Use,ML,2016,3587
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2016,108283
+Australia,0,Total industry,Use,ML,2016,308600
+New South Wales,1,"Total Electricity, gas, water and waste services",Supply,ML,2016,11881330
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2016,907174
+New South Wales,1,Total mining,Use,ML,2016,134330
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2016,3600656
+New South Wales,1,"Total Electricity, gas, water and waste services",Use,ML,2016,807348
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2016,22680
+Victoria,2,"Total Electricity, gas, water and waste services",Supply,ML,2016,93537
+Victoria,2,"Total Electricity, gas, water and waste services",Supply,ML,2016,4903368
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2016,329337
+Victoria,2,Total mining,Use,ML,2016,21603
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2016,2341122
+Victoria,2,"Total Electricity, gas, water and waste services",Use,ML,2016,456449
+Victoria,2,"Total Electricity, gas, water and waste services",Use,ML,2016,503480
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2016,28605
+Victoria,2,Total mining,Use,ML,2016,475
+Queensland,3,"Total Electricity, gas, water and waste services",Supply,ML,2016,906802
+Queensland,3,"Total Agriculture, forestry and fishing",Use,ML,2016,1244167
+Queensland,3,Total mining,Use,ML,2016,220489
+Queensland,3,Total mining,Use,ML,2016,39034
+Queensland,3,"Total Electricity, gas, water and waste services",Use,ML,2016,364350
+South Australia,4,"Total Electricity, gas, water and waste services",Supply,ML,2016,33275
+South Australia,4,"Total Electricity, gas, water and waste services",Supply,ML,2016,105526
+South Australia,4,"Total Agriculture, forestry and fishing",Use,ML,2016,290186
+South Australia,4,"Total Electricity, gas, water and waste services",Use,ML,2016,131884
+South Australia,4,"Total Agriculture, forestry and fishing",Use,ML,2016,15890
+South Australia,4,"Total Electricity, gas, water and waste services",Use,ML,2016,11995
+Western Australia,5,Total mining,Supply,ML,2016,9685
+Western Australia,5,Total mining,Supply,ML,2016,19828
+Western Australia,5,"Total Electricity, gas, water and waste services",Supply,ML,2016,2112941
+Western Australia,5,"Total Agriculture, forestry and fishing",Use,ML,2016,202031
+Western Australia,5,Total mining,Use,ML,2016,691601
+Western Australia,5,Total mining,Use,ML,2016,18461
+Western Australia,5,"Total Electricity, gas, water and waste services",Use,ML,2016,167658
+Western Australia,5,"Total Electricity, gas, water and waste services",Use,ML,2016,5512
+Tasmania,6,"Total Electricity, gas, water and waste services",Supply,ML,2016,36032079
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2016,158908
+Tasmania,6,"Total Electricity, gas, water and waste services",Use,ML,2016,36140969
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2016,85347
+Tasmania,6,"Total Electricity, gas, water and waste services",Use,ML,2016,56212
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2016,4100
+Northern Territory,7,Total mining,Supply,ML,2016,357
+Northern Territory,7,Total mining,Supply,ML,2016,595
+Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,ML,2016,917
+Northern Territory,7,Total mining,Supply,ML,2016,8328
+Northern Territory,7,"Total Agriculture, forestry and fishing",Use,ML,2016,89044
+Northern Territory,7,Total mining,Use,ML,2016,23966
+Northern Territory,7,"Total Electricity, gas, water and waste services",Use,ML,2016,25298
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,ML,2016,3392
+Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,ML,2016,387
+Australian Capital Territory,8,Total mining,Use,ML,2016,110
+Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,ML,2016,82
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,ML,2016,36494
+Australia,0,Total mining,Supply,ML,2017,14063
+Australia,0,Total industry,Supply,ML,2017,12624630
+Australia,0,"Total Electricity, gas, water and waste services",Supply,ML,2017,277361
+Australia,0,Total industry,Supply,ML,2017,318069
+Australia,0,Total mining,Supply,ML,2017,407997
+Australia,0,Total manufacturing,Supply,ML,2017,75458
+Australia,0,"Total Electricity, gas, water and waste services",Supply,ML,2017,55338423
+Australia,0,Total industry,Supply,ML,2017,55821878
+Australia,0,Total agriculture,Use,ML,2017,3381388
+Australia,0,"Total Agriculture, forestry and fishing",Use,ML,2017,3381388
+Australia,0,Total mining,Use,ML,2017,1105156
+Australia,0,Total manufacturing,Use,ML,2017,333861
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2017,66238630
+Australia,0,Total industry,Use,ML,2017,71171840
+Australia,0,Total agriculture,Use,ML,2017,7820362
+Australia,0,"Total Agriculture, forestry and fishing",Use,ML,2017,7875984
+Australia,0,Total mining,Use,ML,2017,99135
+Australia,0,Total manufacturing,Use,ML,2017,241479
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2017,2051845
+Australia,0,Total industry,Use,ML,2017,10828129
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2017,1951554
+Australia,0,Total industry,Use,ML,2017,1951554
+Australia,0,Total agriculture,Use,ML,2017,103929
+Australia,0,Total mining,Use,ML,2017,2479
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2017,99642
+Australia,0,Total industry,Use,ML,2017,312981
+New South Wales,1,"Total Electricity, gas, water and waste services",Supply,ML,2017,10483595
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2017,966336
+New South Wales,1,Total mining,Use,ML,2017,128915
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2017,3871937
+New South Wales,1,"Total Electricity, gas, water and waste services",Use,ML,2017,664435
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2017,29517
+Victoria,2,"Total Electricity, gas, water and waste services",Supply,ML,2017,94900
+Victoria,2,"Total Electricity, gas, water and waste services",Supply,ML,2017,4788341
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2017,376065
+Victoria,2,Total mining,Use,ML,2017,21937
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2017,2186713
+Victoria,2,"Total Electricity, gas, water and waste services",Use,ML,2017,515628
+Victoria,2,"Total Electricity, gas, water and waste services",Use,ML,2017,492191
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2017,28999
+Victoria,2,Total mining,Use,ML,2017,621
+Queensland,3,"Total Electricity, gas, water and waste services",Supply,ML,2017,1001967
+Queensland,3,"Total Agriculture, forestry and fishing",Use,ML,2017,1317648
+Queensland,3,Total mining,Use,ML,2017,214401
+Queensland,3,Total mining,Use,ML,2017,46272
+Queensland,3,"Total Electricity, gas, water and waste services",Use,ML,2017,384520
+South Australia,4,"Total Electricity, gas, water and waste services",Supply,ML,2017,36720
+South Australia,4,"Total Electricity, gas, water and waste services",Supply,ML,2017,104422
+South Australia,4,"Total Agriculture, forestry and fishing",Use,ML,2017,296738
+South Australia,4,"Total Electricity, gas, water and waste services",Use,ML,2017,133610
+South Australia,4,"Total Agriculture, forestry and fishing",Use,ML,2017,26652
+South Australia,4,"Total Electricity, gas, water and waste services",Use,ML,2017,3462
+Western Australia,5,Total mining,Supply,ML,2017,9564
+Western Australia,5,Total mining,Supply,ML,2017,19678
+Western Australia,5,"Total Electricity, gas, water and waste services",Supply,ML,2017,2202389
+Western Australia,5,"Total Agriculture, forestry and fishing",Use,ML,2017,172667
+Western Australia,5,Total mining,Use,ML,2017,653186
+Western Australia,5,Total mining,Use,ML,2017,18040
+Western Australia,5,"Total Electricity, gas, water and waste services",Use,ML,2017,168374
+Western Australia,5,"Total Electricity, gas, water and waste services",Use,ML,2017,3825
+Tasmania,6,"Total Electricity, gas, water and waste services",Supply,ML,2017,36704648
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2017,170821
+Tasmania,6,"Total Electricity, gas, water and waste services",Use,ML,2017,36842573
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2017,98905
+Tasmania,6,"Total Electricity, gas, water and waste services",Use,ML,2017,51382
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2017,4855
+Northern Territory,7,Total mining,Supply,ML,2017,345
+Northern Territory,7,Total mining,Supply,ML,2017,574
+Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,ML,2017,1220
+Northern Territory,7,Total mining,Supply,ML,2017,7626
+Northern Territory,7,"Total Agriculture, forestry and fishing",Use,ML,2017,80926
+Northern Territory,7,Total mining,Use,ML,2017,21941
+Northern Territory,7,"Total Electricity, gas, water and waste services",Use,ML,2017,23691
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,ML,2017,3132
+Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,ML,2017,187
+Australian Capital Territory,8,Total mining,Use,ML,2017,106
+Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,ML,2017,104
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,ML,2017,33351
+Australia,0,Total mining,Supply,ML,2018,14919
+Australia,0,Total industry,Supply,ML,2018,9963338
+Australia,0,"Total Electricity, gas, water and waste services",Supply,ML,2018,281393
+Australia,0,Total industry,Supply,ML,2018,324425
+Australia,0,Total mining,Supply,ML,2018,396196
+Australia,0,Total manufacturing,Supply,ML,2018,79262
+Australia,0,"Total Electricity, gas, water and waste services",Supply,ML,2018,53052788
+Australia,0,Total industry,Supply,ML,2018,53528246
+Australia,0,Total agriculture,Use,ML,2018,3113376
+Australia,0,"Total Agriculture, forestry and fishing",Use,ML,2018,3113376
+Australia,0,Total mining,Use,ML,2018,1070358
+Australia,0,Total manufacturing,Use,ML,2018,366948
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2018,61304897
+Australia,0,Total industry,Use,ML,2018,65967787
+Australia,0,Total agriculture,Use,ML,2018,5444590
+Australia,0,"Total Agriculture, forestry and fishing",Use,ML,2018,5525576
+Australia,0,Total mining,Use,ML,2018,101065
+Australia,0,Total manufacturing,Use,ML,2018,237549
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2018,1727904
+Australia,0,Total industry,Use,ML,2018,8153301
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2018,1993495
+Australia,0,Total industry,Use,ML,2018,1993495
+Australia,0,Total agriculture,Use,ML,2018,97324
+Australia,0,Total mining,Use,ML,2018,3842
+Australia,0,"Total Electricity, gas, water and waste services",Use,ML,2018,95246
+Australia,0,Total industry,Use,ML,2018,318529
+New South Wales,1,"Total Electricity, gas, water and waste services",Supply,ML,2018,8196762
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2018,934511
+New South Wales,1,Total mining,Use,ML,2018,120422
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2018,2032253
+New South Wales,1,"Total Electricity, gas, water and waste services",Use,ML,2018,746220
+New South Wales,1,"Total Agriculture, forestry and fishing",Use,ML,2018,22601
+Victoria,2,"Total Electricity, gas, water and waste services",Supply,ML,2018,95920
+Victoria,2,"Total Electricity, gas, water and waste services",Supply,ML,2018,4816110
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2018,403077
+Victoria,2,Total mining,Use,ML,2018,19917
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2018,1661510
+Victoria,2,"Total Electricity, gas, water and waste services",Use,ML,2018,401590
+Victoria,2,"Total Electricity, gas, water and waste services",Use,ML,2018,482345
+Victoria,2,"Total Agriculture, forestry and fishing",Use,ML,2018,29527
+Victoria,2,Total mining,Use,ML,2018,924
+Queensland,3,"Total Electricity, gas, water and waste services",Supply,ML,2018,981374
+Queensland,3,"Total Agriculture, forestry and fishing",Use,ML,2018,970696
+Queensland,3,Total mining,Use,ML,2018,206698
+Queensland,3,Total mining,Use,ML,2018,52859
+Queensland,3,"Total Electricity, gas, water and waste services",Use,ML,2018,371191
+South Australia,4,"Total Electricity, gas, water and waste services",Supply,ML,2018,40222
+South Australia,4,"Total Electricity, gas, water and waste services",Supply,ML,2018,70767
+South Australia,4,"Total Agriculture, forestry and fishing",Use,ML,2018,339562
+South Australia,4,"Total Electricity, gas, water and waste services",Use,ML,2018,119957
+South Australia,4,"Total Agriculture, forestry and fishing",Use,ML,2018,29393
+South Australia,4,"Total Electricity, gas, water and waste services",Use,ML,2018,3950
+Western Australia,5,Total mining,Supply,ML,2018,10201
+Western Australia,5,Total mining,Supply,ML,2018,21093
+Western Australia,5,"Total Electricity, gas, water and waste services",Supply,ML,2018,2187565
+Western Australia,5,"Total Agriculture, forestry and fishing",Use,ML,2018,227885
+Western Australia,5,Total mining,Use,ML,2018,637758
+Western Australia,5,Total mining,Use,ML,2018,17362
+Western Australia,5,"Total Electricity, gas, water and waste services",Use,ML,2018,168245
+Western Australia,5,"Total Electricity, gas, water and waste services",Use,ML,2018,3376
+Tasmania,6,"Total Electricity, gas, water and waste services",Supply,ML,2018,36754992
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2018,179506
+Tasmania,6,"Total Electricity, gas, water and waste services",Use,ML,2018,36906989
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2018,108016
+Tasmania,6,"Total Electricity, gas, water and waste services",Use,ML,2018,51173
+Tasmania,6,"Total Agriculture, forestry and fishing",Use,ML,2018,3116
+Northern Territory,7,Total mining,Supply,ML,2018,493
+Northern Territory,7,Total mining,Supply,ML,2018,822
+Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,ML,2018,1152
+Northern Territory,7,Total mining,Supply,ML,2018,9968
+Northern Territory,7,"Total Agriculture, forestry and fishing",Use,ML,2018,57979
+Northern Territory,7,Total mining,Use,ML,2018,28639
+Northern Territory,7,"Total Electricity, gas, water and waste services",Use,ML,2018,21157
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,ML,2018,2253
+Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,ML,2018,160
+Australian Capital Territory,8,Total mining,Use,ML,2018,114
+Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,ML,2018,73
+Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,ML,2018,33207
