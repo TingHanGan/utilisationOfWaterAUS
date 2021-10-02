@@ -1,2591 +1,841 @@
 State,Code,Industry,Supply use,Product,Unit,Date,Value
-Australia,0,Environment,Supply,Self-extracted,ML,2014,67191146
 Australia,0,Total,Supply,Self-extracted,ML,2014,67191146
-Australia,0,Metal ore mining,Supply,Distributed,ML,2014,11539
 Australia,0,Total mining,Supply,Distributed,ML,2014,12708
-Australia,0,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2014,11884859
 Australia,0,Total industry,Supply,Distributed,ML,2014,11909448
 Australia,0,Total,Supply,Distributed,ML,2014,11909448
 Australia,0,Total,Supply,Wastewater,ML,2014,2051195
-Australia,0,Coal mining,Supply,Reuse,ML,2014,5241
-Australia,0,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2014,288767
 Australia,0,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2014,289314
 Australia,0,Total industry,Supply,Reuse,ML,2014,326302
 Australia,0,Total,Supply,Reuse,ML,2014,326302
-Australia,0,Coal mining,Supply,Return flows (a),ML,2014,73374
-Australia,0,Oil and gas extraction,Supply,Return flows (a),ML,2014,49795
-Australia,0,Metal ore mining,Supply,Return flows (a),ML,2014,238640
 Australia,0,Total mining,Supply,Return flows (a),ML,2014,402410
-Australia,0,"Food, beverage and tobacco product manufacturing",Supply,Return flows (a),ML,2014,17899
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Supply,Return flows (a),ML,2014,451
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Supply,Return flows (a),ML,2014,12027
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Supply,Return flows (a),ML,2014,5688
-Australia,0,Furniture and other manufacturing,Supply,Return flows (a),ML,2014,8
 Australia,0,Total manufacturing,Supply,Return flows (a),ML,2014,68518
-Australia,0,Electricity and gas supply,Supply,Return flows (a),ML,2014,50449729
-Australia,0,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2014,1802388
-Australia,0,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2014,44
 Australia,0,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,52252161
 Australia,0,Total industry,Supply,Return flows (a),ML,2014,52723090
 Australia,0,Total,Supply,Return flows (a),ML,2014,52723090
-Australia,0,Fruit and Tree Nut Growing,Use,Self-extracted,ML,2014,226515
-Australia,0,Other Crop Growing,Use,Self-extracted,ML,2014,995335
-Australia,0,Dairy cattle Farming,Use,Self-extracted,ML,2014,411186
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2014,1343149
 Australia,0,Total agriculture,Use,Self-extracted,ML,2014,3254809
 Australia,0,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,3254809
-Australia,0,Coal mining,Use,Self-extracted,ML,2014,165291
-Australia,0,Oil and gas extraction,Use,Self-extracted,ML,2014,134218
-Australia,0,Metal ore mining,Use,Self-extracted,ML,2014,696817
-Australia,0,Non-metallic mineral mining and quarrying,Use,Self-extracted,ML,2014,65812
-Australia,0,Exploration and other mining support services,Use,Self-extracted,ML,2014,55080
 Australia,0,Total mining,Use,Self-extracted,ML,2014,1117218
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Self-extracted,ML,2014,205608
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Self-extracted,ML,2014,272
-Australia,0,"Wood, pulp, paper and converted paper product manufacturing",Use,Self-extracted,ML,2014,28479
-Australia,0,"Petroleum, coal, basic chemical and chemical product manufacturing",Use,Self-extracted,ML,2014,18135
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Use,Self-extracted,ML,2014,14432
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Self-extracted,ML,2014,56001
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Self-extracted,ML,2014,320
-Australia,0,Furniture and other manufacturing,Use,Self-extracted,ML,2014,54
 Australia,0,Total manufacturing,Use,Self-extracted,ML,2014,323305
-Australia,0,Electricity and gas supply,Use,Self-extracted,ML,2014,50507406
-Australia,0,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2014,11884859
-Australia,0,"Waste collection, treatment and disposal services",Use,Self-extracted,ML,2014,383
 Australia,0,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2014,62392649
-Australia,0,Other industries,Use,Self-extracted,ML,2014,103165
 Australia,0,Total industry,Use,Self-extracted,ML,2014,67191146
 Australia,0,Total,Use,Self-extracted,ML,2014,67191146
-Australia,0,Fruit and Tree Nut Growing,Use,Distributed,ML,2014,1069556
-Australia,0,Other Crop Growing,Use,Distributed,ML,2014,1757754
-Australia,0,Dairy cattle Farming,Use,Distributed,ML,2014,1371460
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2014,2761781
 Australia,0,Total agriculture,Use,Distributed,ML,2014,7227137
 Australia,0,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2014,7273966
-Australia,0,Coal mining,Use,Distributed,ML,2014,28740
-Australia,0,Metal ore mining,Use,Distributed,ML,2014,47500
-Australia,0,Exploration and other mining support services,Use,Distributed,ML,2014,942
 Australia,0,Total mining,Use,Distributed,ML,2014,82288
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Distributed,ML,2014,121007
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Distributed,ML,2014,1608
-Australia,0,"Wood, pulp, paper and converted paper product manufacturing",Use,Distributed,ML,2014,28726
-Australia,0,Printing (including the reproduction of recorded media) manufacturing,Use,Distributed,ML,2014,1464
-Australia,0,"Petroleum, coal, basic chemical and chemical product manufacturing",Use,Distributed,ML,2014,29283
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Use,Distributed,ML,2014,13278
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Distributed,ML,2014,43197
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Distributed,ML,2014,5502
-Australia,0,Furniture and other manufacturing,Use,Distributed,ML,2014,969
 Australia,0,Total manufacturing,Use,Distributed,ML,2014,245035
-Australia,0,"Waste collection, treatment and disposal services",Use,Distributed,ML,2014,4145
 Australia,0,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2014,2113871
-Australia,0,Other industries,Use,Distributed,ML,2014,504968
 Australia,0,Total industry,Use,Distributed,ML,2014,10220128
-Australia,0,Households,Use,Distributed,ML,2014,1689320
 Australia,0,Total,Use,Distributed,ML,2014,11909448
-Australia,0,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2014,2051195
 Australia,0,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,2051195
 Australia,0,Total industry,Use,Wastewater,ML,2014,2051195
 Australia,0,Total,Use,Wastewater,ML,2014,2051195
-Australia,0,Fruit and Tree Nut Growing,Use,Reuse,ML,2014,14293
-Australia,0,Other Crop Growing,Use,Reuse,ML,2014,20541
-Australia,0,Dairy cattle Farming,Use,Reuse,ML,2014,23079
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2014,21949
 Australia,0,Total agriculture,Use,Reuse,ML,2014,97109
 Australia,0,Total mining,Use,Reuse,ML,2014,3175
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Reuse,ML,2014,1886
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Reuse,ML,2014,293
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Reuse,ML,2014,10923
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Reuse,ML,2014,59
 Australia,0,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2014,103405
 Australia,0,Total industry,Use,Reuse,ML,2014,321652
-Australia,0,Households,Use,Reuse,ML,2014,4650
 Australia,0,Total,Use,Reuse,ML,2014,326302
-Australia,0,Environment,Use,Return flows (a),ML,2014,52723090
 Australia,0,Total,Use,Return flows (a),ML,2014,52723090
-New South Wales,1,Environment,Supply,Self-extracted,ML,2014,15787608
 New South Wales,1,Total,Supply,Self-extracted,ML,2014,15787608
-New South Wales,1,Coal mining,Supply,Distributed,ML,2014,529
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2014,4891047
-New South Wales,1,Total Industry,Supply,Distributed,ML,2014,4894430
 New South Wales,1,Total,Supply,Distributed,ML,2014,4894430
 New South Wales,1,Total,Supply,Wastewater,ML,2014,817616
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2014,63579
-New South Wales,1,Total Industry,Supply,Reuse,ML,2014,67574
 New South Wales,1,Total,Supply,Reuse,ML,2014,67574
-New South Wales,1,Coal mining,Supply,Return flows (a),ML,2014,37460
-New South Wales,1,Electricity and gas supply,Supply,Return flows (a),ML,2014,9817630
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2014,731302
-New South Wales,1,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2014,19
 New South Wales,1,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,10548951
-New South Wales,1,Total Industry,Supply,Return flows (a),ML,2014,10607141
 New South Wales,1,Total,Supply,Return flows (a),ML,2014,10607141
-New South Wales,1,Fruit and tree nut growing,Use,Self-extracted,ML,2014,22153
-New South Wales,1,Other crop growing,Use,Self-extracted,ML,2014,325207
-New South Wales,1,Dairy cattle farming,Use,Self-extracted,ML,2014,35209
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2014,470404
-New South Wales,1,Total Agriculture,Use,Self-extracted,ML,2014,872404
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,872404
-New South Wales,1,Coal mining,Use,Self-extracted,ML,2014,84386
 New South Wales,1,Total mining,Use,Self-extracted,ML,2014,116302
-New South Wales,1,Manufacturing,Use,Self-extracted,ML,2014,38091
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2014,4891047
-New South Wales,1,Total Industry,Use,Self-extracted,ML,2014,15787608
 New South Wales,1,Total,Use,Self-extracted,ML,2014,15787608
-New South Wales,1,Fruit and tree nut growing,Use,Distributed,ML,2014,288207
-New South Wales,1,Other crop growing,Use,Distributed,ML,2014,596854
-New South Wales,1,Dairy cattle farming,Use,Distributed,ML,2014,180394
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2014,1962557
-New South Wales,1,Total Agriculture,Use,Distributed,ML,2014,3102380
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2014,3102380
-New South Wales,1,Coal mining,Use,Distributed,ML,2014,11653
-New South Wales,1,Manufacturing,Use,Distributed,ML,2014,49569
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Distributed,ML,2014,965027
-New South Wales,1,"Waste collection, treatment and disposal services",Use,Distributed,ML,2014,2749
-New South Wales,1,Total Industry,Use,Distributed,ML,2014,4363066
-New South Wales,1,Households,Use,Distributed,ML,2014,531364
 New South Wales,1,Total,Use,Distributed,ML,2014,4894430
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2014,817616
 New South Wales,1,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,817616
-New South Wales,1,Total Industry,Use,Wastewater,ML,2014,817616
 New South Wales,1,Total,Use,Wastewater,ML,2014,817616
-New South Wales,1,Fruit and tree nut growing,Use,Reuse,ML,2014,878
-New South Wales,1,Dairy cattle farming,Use,Reuse,ML,2014,1790
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2014,5588
-New South Wales,1,Total Agriculture,Use,Reuse,ML,2014,19869
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2014,19869
-New South Wales,1,Manufacturing,Use,Reuse,ML,2014,10391
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Reuse,ML,2014,18173
-New South Wales,1,Total Industry,Use,Reuse,ML,2014,65436
-New South Wales,1,Households,Use,Reuse,ML,2014,2138
 New South Wales,1,Total,Use,Reuse,ML,2014,67574
-New South Wales,1,Environment,Use,Return flows (a),ML,2014,10607141
 New South Wales,1,Total,Use,Return flows (a),ML,2014,10607141
-Victoria,2,Environment,Supply,Self-extracted,ML,2014,8386303
 Victoria,2,Total,Supply,Self-extracted,ML,2014,8386303
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2014,3123198
-Victoria,2,Total Industry,Supply,Distributed,ML,2014,3125008
 Victoria,2,Total,Supply,Distributed,ML,2014,3125008
 Victoria,2,Total,Supply,Wastewater,ML,2014,467298
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2014,92834
 Victoria,2,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2014,92887
-Victoria,2,Total Industry,Supply,Reuse,ML,2014,94740
 Victoria,2,Total,Supply,Reuse,ML,2014,94740
-Victoria,2,Oil and gas extraction,Supply,Return flows (a),ML,2014,7108
-Victoria,2,Electricity and gas supply,Supply,Return flows (a),ML,2014,4703909
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2014,369222
 Victoria,2,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,5073131
-Victoria,2,Total Industry,Supply,Return flows (a),ML,2014,5091205
 Victoria,2,Total,Supply,Return flows (a),ML,2014,5091205
-Victoria,2,Mushroom and vegetable growing,Use,Self-extracted,ML,2014,37482
-Victoria,2,Fruit and tree nut growing,Use,Self-extracted,ML,2014,15667
-Victoria,2,Other crop growing,Use,Self-extracted,ML,2014,6485
-Victoria,2,Dairy cattle farming,Use,Self-extracted,ML,2014,188183
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2014,155980
-Victoria,2,Total Agriculture,Use,Self-extracted,ML,2014,408472
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,408472
 Victoria,2,Total mining,Use,Self-extracted,ML,2014,26168
-Victoria,2,Manufacturing,Use,Self-extracted,ML,2014,88658
-Victoria,2,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2014,3123198
-Victoria,2,Total Industry,Use,Self-extracted,ML,2014,8386303
 Victoria,2,Total,Use,Self-extracted,ML,2014,8386303
-Victoria,2,Fruit and tree nut growing,Use,Distributed,ML,2014,478320
-Victoria,2,Other crop growing,Use,Distributed,ML,2014,31674
-Victoria,2,Dairy cattle farming,Use,Distributed,ML,2014,1105387
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2014,450047
-Victoria,2,Total Agriculture,Use,Distributed,ML,2014,2106358
-Victoria,2,Aquaculture,Use,Distributed,ML,2014,74
-Victoria,2,Forestry and logging,Use,Distributed,ML,2014,64
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2014,2106496
-Victoria,2,Oil and gas extraction,Use,Distributed,ML,2014,31
-Victoria,2,Manufacturing,Use,Distributed,ML,2014,80868
-Victoria,2,Electricity and gas supply,Use,Distributed,ML,2014,42186
-Victoria,2,"Water supply, sewerage and drainage services",Use,Distributed,ML,2014,435268
-Victoria,2,"Waste collection, treatment and disposal services",Use,Distributed,ML,2014,276
 Victoria,2,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2014,477730
-Victoria,2,Total Industry,Use,Distributed,ML,2014,2752938
-Victoria,2,Households,Use,Distributed,ML,2014,372071
 Victoria,2,Total,Use,Distributed,ML,2014,3125008
-Victoria,2,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2014,467298
 Victoria,2,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,467298
-Victoria,2,Total Industry,Use,Wastewater,ML,2014,467298
 Victoria,2,Total,Use,Wastewater,ML,2014,467298
-Victoria,2,Nursery and floriculture production,Use,Reuse,ML,2014,1479
-Victoria,2,Fruit and tree nut growing,Use,Reuse,ML,2014,2037
-Victoria,2,Dairy cattle farming,Use,Reuse,ML,2014,20464
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2014,10979
-Victoria,2,Total Agriculture,Use,Reuse,ML,2014,38864
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2014,38864
 Victoria,2,Total mining,Use,Reuse,ML,2014,792
-Victoria,2,Total Industry,Use,Reuse,ML,2014,92996
-Victoria,2,Households,Use,Reuse,ML,2014,1744
 Victoria,2,Total,Use,Reuse,ML,2014,94740
-Victoria,2,Environment,Use,Return flows (a),ML,2014,5091205
 Victoria,2,Total,Use,Return flows (a),ML,2014,5091205
-Queensland,3,Environment,Supply,Self-extracted,ML,2014,4735338
 Queensland,3,Total,Supply,Self-extracted,ML,2014,4735338
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2014,2513774
-Queensland,3,Total Industry,Supply,Distributed,ML,2014,2516550
 Queensland,3,Total,Supply,Distributed,ML,2014,2516550
 Queensland,3,Total,Supply,Wastewater,ML,2014,378385
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2014,57638
-Queensland,3,Total Industry,Supply,Reuse,ML,2014,67401
 Queensland,3,Total,Supply,Reuse,ML,2014,67401
-Queensland,3,Coal mining,Supply,Return flows (a),ML,2014,28295
-Queensland,3,Oil and gas extraction,Supply,Return flows (a),ML,2014,21157
-Queensland,3,Electricity and gas supply,Supply,Return flows (a),ML,2014,713259
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2014,321373
 Queensland,3,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,1034632
-Queensland,3,Total Industry,Supply,Return flows (a),ML,2014,1135378
 Queensland,3,Total,Supply,Return flows (a),ML,2014,1135378
-Queensland,3,Mushroom and vegetable growing,Use,Self-extracted,ML,2014,66576
-Queensland,3,Fruit and tree nut growing,Use,Self-extracted,ML,2014,59375
-Queensland,3,Other crop growing,Use,Self-extracted,ML,2014,662368
-Queensland,3,Poultry farming,Use,Self-extracted,ML,2014,4981
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2014,343521
-Queensland,3,Total Agriculture,Use,Self-extracted,ML,2014,1178912
 Queensland,3,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,1178912
-Queensland,3,Coal mining,Use,Self-extracted,ML,2014,63740
-Queensland,3,Oil and gas extraction,Use,Self-extracted,ML,2014,57027
 Queensland,3,Total mining,Use,Self-extracted,ML,2014,223513
-Queensland,3,Manufacturing,Use,Self-extracted,ML,2014,88161
-Queensland,3,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2014,2513774
-Queensland,3,Total Industry,Use,Self-extracted,ML,2014,4735338
 Queensland,3,Total,Use,Self-extracted,ML,2014,4735338
-Queensland,3,Mushroom and vegetable growing,Use,Distributed,ML,2014,73187
-Queensland,3,Fruit and tree nut growing,Use,Distributed,ML,2014,117153
-Queensland,3,Other crop growing,Use,Distributed,ML,2014,1129119
-Queensland,3,Poultry farming,Use,Distributed,ML,2014,4487
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2014,218022
-Queensland,3,Total Agriculture,Use,Distributed,ML,2014,1556684
-Queensland,3,Coal mining,Use,Distributed,ML,2014,17042
-Queensland,3,Oil and gas extraction,Use,Distributed,ML,2014,178
 Queensland,3,Total mining,Use,Distributed,ML,2014,41946
-Queensland,3,Manufacturing,Use,Distributed,ML,2014,76763
-Queensland,3,Total Industry,Use,Distributed,ML,2014,2186108
-Queensland,3,Households,Use,Distributed,ML,2014,330442
 Queensland,3,Total,Use,Distributed,ML,2014,2516550
-Queensland,3,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2014,378385
 Queensland,3,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,378385
-Queensland,3,Total Industry,Use,Wastewater,ML,2014,378385
 Queensland,3,Total,Use,Wastewater,ML,2014,378385
-Queensland,3,Nursery and floriculture production,Use,Reuse,ML,2014,47
-Queensland,3,Mushroom and vegetable growing,Use,Reuse,ML,2014,116
-Queensland,3,Fruit and tree nut growing,Use,Reuse,ML,2014,161
-Queensland,3,Other crop growing,Use,Reuse,ML,2014,8813
-Queensland,3,Dairy cattle farming,Use,Reuse,ML,2014,1
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2014,1730
-Queensland,3,Total Agriculture,Use,Reuse,ML,2014,10867
-Queensland,3,Other industries,Use,Reuse,ML,2014,22436
-Queensland,3,Total Industry,Use,Reuse,ML,2014,67064
 Queensland,3,Total,Use,Reuse,ML,2014,67401
-Queensland,3,Environment,Use,Return flows (a),ML,2014,1135378
 Queensland,3,Total,Use,Return flows (a),ML,2014,1135378
-South Australia,4,Environment,Supply,Self-extracted,ML,2014,967461
 South Australia,4,Total,Supply,Self-extracted,ML,2014,967461
-South Australia,4,Coal mining,Supply,Distributed,ML,2014,3
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2014,504178
-South Australia,4,Total Industry,Supply,Distributed,ML,2014,504832
 South Australia,4,Total,Supply,Distributed,ML,2014,504832
 South Australia,4,Total,Supply,Wastewater,ML,2014,116636
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2014,41759
 South Australia,4,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2014,41759
-South Australia,4,Total Industry,Supply,Reuse,ML,2014,43972
 South Australia,4,Total,Supply,Reuse,ML,2014,43972
-South Australia,4,Coal mining,Supply,Return flows (a),ML,2014,238
-South Australia,4,Oil and gas extraction,Supply,Return flows (a),ML,2014,6201
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2014,80925
 South Australia,4,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,87408
-South Australia,4,Total Industry,Supply,Return flows (a),ML,2014,106277
 South Australia,4,Total,Supply,Return flows (a),ML,2014,106277
-South Australia,4,Fruit and tree nut growing,Use,Self-extracted,ML,2014,78968
-South Australia,4,Other crop growing,Use,Self-extracted,ML,2014,919
-South Australia,4,Dairy cattle farming,Use,Self-extracted,ML,2014,62073
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2014,188531
-South Australia,4,Total Agriculture,Use,Self-extracted,ML,2014,380938
 South Australia,4,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,380938
-South Australia,4,Manufacturing,Use,Self-extracted,ML,2014,20880
-South Australia,4,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2014,504178
-South Australia,4,Other industries,Use,Self-extracted,ML,2014,6044
-South Australia,4,Total Industry,Use,Self-extracted,ML,2014,967461
 South Australia,4,Total,Use,Self-extracted,ML,2014,967461
-South Australia,4,Fruit and tree nut growing,Use,Distributed,ML,2014,175232
-South Australia,4,Other crop growing,Use,Distributed,ML,2014,65
-South Australia,4,Dairy cattle farming,Use,Distributed,ML,2014,46296
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2014,52111
-South Australia,4,Total Agriculture,Use,Distributed,ML,2014,291636
-South Australia,4,Manufacturing,Use,Distributed,ML,2014,14077
-South Australia,4,Electricity and gas supply,Use,Distributed,ML,2014,408
-South Australia,4,"Water supply, sewerage and drainage services",Use,Distributed,ML,2014,34890
-South Australia,4,Other industries,Use,Distributed,ML,2014,35920
-South Australia,4,Total Industry,Use,Distributed,ML,2014,381269
-South Australia,4,Households,Use,Distributed,ML,2014,123563
 South Australia,4,Total,Use,Distributed,ML,2014,504832
-South Australia,4,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2014,116636
 South Australia,4,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,116636
-South Australia,4,Total Industry,Use,Wastewater,ML,2014,116636
 South Australia,4,Total,Use,Wastewater,ML,2014,116636
-South Australia,4,Nursery and floriculture production,Use,Reuse,ML,2014,1365
-South Australia,4,Mushroom and vegetable growing,Use,Reuse,ML,2014,9687
-South Australia,4,Fruit and tree nut growing,Use,Reuse,ML,2014,10867
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2014,113
-South Australia,4,Total Agriculture,Use,Reuse,ML,2014,22032
 South Australia,4,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2014,22032
-South Australia,4,Manufacturing,Use,Reuse,ML,2014,569
-South Australia,4,"Water supply, sewerage and drainage services",Use,Reuse,ML,2014,12019
 South Australia,4,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2014,12019
-South Australia,4,Total Industry,Use,Reuse,ML,2014,43581
-South Australia,4,Households,Use,Reuse,ML,2014,391
 South Australia,4,Total,Use,Reuse,ML,2014,43972
-South Australia,4,Environment,Use,Return flows (a),ML,2014,106277
 South Australia,4,Total,Use,Return flows (a),ML,2014,106277
-Western Australia,5,Environment,Supply,Self-extracted,ML,2014,3393573
 Western Australia,5,Total,Supply,Self-extracted,ML,2014,3393573
-Western Australia,5,Coal mining,Supply,Distributed,ML,2014,91
 Western Australia,5,Total mining,Supply,Distributed,ML,2014,8261
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2014,624024
-Western Australia,5,Total Industry,Supply,Distributed,ML,2014,632341
 Western Australia,5,Total,Supply,Distributed,ML,2014,632341
 Western Australia,5,Total,Supply,Wastewater,ML,2014,166852
 Western Australia,5,Total mining,Supply,Reuse,ML,2014,16993
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2014,22869
-Western Australia,5,Total Industry,Supply,Reuse,ML,2014,40419
 Western Australia,5,Total,Supply,Reuse,ML,2014,40419
-Western Australia,5,Coal mining,Supply,Return flows (a),ML,2014,7350
-Western Australia,5,Oil and gas extraction,Supply,Return flows (a),ML,2014,14189
-Western Australia,5,Electricity and gas supply,Supply,Return flows (a),ML,2014,1851635
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2014,205246
 Western Australia,5,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,2056882
-Western Australia,5,Total Industry,Supply,Return flows (a),ML,2014,2284871
 Western Australia,5,Total,Supply,Return flows (a),ML,2014,2284871
-Western Australia,5,Mushroom and vegetable growing,Use,Self-extracted,ML,2014,40235
-Western Australia,5,Fruit and tree nut growing,Use,Self-extracted,ML,2014,33520
-Western Australia,5,Other crop growing,Use,Self-extracted,ML,2014,73
-Western Australia,5,Dairy cattle farming,Use,Self-extracted,ML,2014,8063
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2014,95881
-Western Australia,5,Total Agriculture,Use,Self-extracted,ML,2014,186202
 Western Australia,5,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,186202
-Western Australia,5,Oil and gas extraction,Use,Self-extracted,ML,2014,38245
 Western Australia,5,Total mining,Use,Self-extracted,ML,2014,641365
-Western Australia,5,Manufacturing,Use,Self-extracted,ML,2014,58405
-Western Australia,5,Electricity and gas supply,Use,Self-extracted,ML,2014,1862645
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2014,624024
-Western Australia,5,Total Industry,Use,Self-extracted,ML,2014,3393573
 Western Australia,5,Total,Use,Self-extracted,ML,2014,3393573
-Western Australia,5,Nursery and floriculture production,Use,Distributed,ML,2014,1518
-Western Australia,5,Fruit and tree nut growing,Use,Distributed,ML,2014,9090
-Western Australia,5,Dairy cattle farming,Use,Distributed,ML,2014,7337
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2014,60497
-Western Australia,5,Total Agriculture,Use,Distributed,ML,2014,118761
-Western Australia,5,Coal mining,Use,Distributed,ML,2014,5
-Western Australia,5,Oil and gas extraction,Use,Distributed,ML,2014,428
 Western Australia,5,Total mining,Use,Distributed,ML,2014,16514
-Western Australia,5,Manufacturing,Use,Distributed,ML,2014,5028
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Distributed,ML,2014,124624
-Western Australia,5,Other industries,Use,Distributed,ML,2014,78396
-Western Australia,5,Total Industry,Use,Distributed,ML,2014,390179
-Western Australia,5,Households,Use,Distributed,ML,2014,242162
 Western Australia,5,Total,Use,Distributed,ML,2014,632341
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2014,166852
 Western Australia,5,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,166852
-Western Australia,5,Total Industry,Use,Wastewater,ML,2014,166852
 Western Australia,5,Total,Use,Wastewater,ML,2014,166852
-Western Australia,5,Nursery and floriculture production,Use,Reuse,ML,2014,25
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2014,23
-Western Australia,5,Total Agriculture,Use,Reuse,ML,2014,382
-Western Australia,5,Manufacturing,Use,Reuse,ML,2014,7132
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Reuse,ML,2014,5068
 Western Australia,5,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2014,5068
-Western Australia,5,Total Industry,Use,Reuse,ML,2014,40379
 Western Australia,5,Total,Use,Reuse,ML,2014,40419
-Western Australia,5,Environment,Use,Return flows (a),ML,2014,2284871
 Western Australia,5,Total,Use,Return flows (a),ML,2014,2284871
-Tasmania,6,Environment,Supply,Self-extracted,ML,2014,33708632
 Tasmania,6,Total,Supply,Self-extracted,ML,2014,33708632
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2014,125051
-Tasmania,6,Total Industry,Supply,Distributed,ML,2014,132177
 Tasmania,6,Total,Supply,Distributed,ML,2014,132177
 Tasmania,6,Total,Supply,Wastewater,ML,2014,51009
-Tasmania,6,Manufacturing,Supply,Reuse,ML,2014,17
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2014,5007
-Tasmania,6,Total Industry,Supply,Reuse,ML,2014,6031
 Tasmania,6,Total,Supply,Reuse,ML,2014,6031
-Tasmania,6,Coal mining,Supply,Return flows (a),ML,2014,32
-Tasmania,6,Electricity and gas supply,Supply,Return flows (a),ML,2014,33356468
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2014,46002
 Tasmania,6,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2014,33402491
-Tasmania,6,Total Industry,Supply,Return flows (a),ML,2014,33436794
 Tasmania,6,Total,Supply,Return flows (a),ML,2014,33436794
-Tasmania,6,Mushroom and vegetable growing,Use,Self-extracted,ML,2014,28291
-Tasmania,6,Fruit and tree nut growing,Use,Self-extracted,ML,2014,3291
-Tasmania,6,Other crop growing,Use,Self-extracted,ML,2014,246
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2014,56936
-Tasmania,6,Total Agriculture,Use,Self-extracted,ML,2014,172943
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,172943
-Tasmania,6,Manufacturing,Use,Self-extracted,ML,2014,29022
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2014,125051
 Tasmania,6,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2014,33481700
-Tasmania,6,Total Industry,Use,Self-extracted,ML,2014,33708632
 Tasmania,6,Total,Use,Self-extracted,ML,2014,33708632
-Tasmania,6,Fruit and tree nut growing,Use,Distributed,ML,2014,1555
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2014,18538
-Tasmania,6,Total Agriculture,Use,Distributed,ML,2014,51266
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2014,51266
-Tasmania,6,Manufacturing,Use,Distributed,ML,2014,18730
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Distributed,ML,2014,23877
-Tasmania,6,Total Industry,Use,Distributed,ML,2014,99232
-Tasmania,6,Households,Use,Distributed,ML,2014,32944
 Tasmania,6,Total,Use,Distributed,ML,2014,132177
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2014,51009
 Tasmania,6,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,51009
-Tasmania,6,Total Industry,Use,Wastewater,ML,2014,51009
 Tasmania,6,Total,Use,Wastewater,ML,2014,51009
-Tasmania,6,Fruit and tree nut growing,Use,Reuse,ML,2014,29
-Tasmania,6,Dairy cattle farming,Use,Reuse,ML,2014,816
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2014,2607
-Tasmania,6,Total Agriculture,Use,Reuse,ML,2014,4185
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2014,4185
-Tasmania,6,Total Industry,Use,Reuse,ML,2014,6031
 Tasmania,6,Total,Use,Reuse,ML,2014,6031
-Tasmania,6,Environment,Use,Return flows (a),ML,2014,33436794
 Tasmania,6,Total,Use,Return flows (a),ML,2014,33436794
-Northern Territory,7,Environment,Supply,Self-extracted,ML,2014,168759
 Northern Territory,7,Total,Supply,Self-extracted,ML,2014,168759
 Northern Territory,7,Total mining,Supply,Distributed,ML,2014,522
-Northern Territory,7,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2014,61445
-Northern Territory,7,Total Industry,Supply,Distributed,ML,2014,61969
 Northern Territory,7,Total,Supply,Distributed,ML,2014,61969
 Northern Territory,7,Total,Supply,Wastewater,ML,2014,20428
 Northern Territory,7,Total mining,Supply,Reuse,ML,2014,1084
-Northern Territory,7,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2014,1760
 Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2014,1760
-Northern Territory,7,Total Industry,Supply,Reuse,ML,2014,2844
 Northern Territory,7,Total,Supply,Reuse,ML,2014,2844
 Northern Territory,7,Total mining,Supply,Return flows (a),ML,2014,12746
-Northern Territory,7,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2014,3
-Northern Territory,7,Total Industry,Supply,Return flows (a),ML,2014,31774
 Northern Territory,7,Total,Supply,Return flows (a),ML,2014,31774
-Northern Territory,7,Fruit and tree nut growing,Use,Self-extracted,ML,2014,13542
-Northern Territory,7,Other crop growing,Use,Self-extracted,ML,2014,32
-Northern Territory,7,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2014,31716
-Northern Territory,7,Total Agriculture,Use,Self-extracted,ML,2014,54748
 Northern Territory,7,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,54748
 Northern Territory,7,Total mining,Use,Self-extracted,ML,2014,36853
-Northern Territory,7,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2014,61445
-Northern Territory,7,Total Industry,Use,Self-extracted,ML,2014,168759
 Northern Territory,7,Total,Use,Self-extracted,ML,2014,168759
-Northern Territory,7,Total Industry,Use,Distributed,ML,2014,34653
-Northern Territory,7,Households,Use,Distributed,ML,2014,27317
 Northern Territory,7,Total,Use,Distributed,ML,2014,61969
-Northern Territory,7,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2014,20428
 Northern Territory,7,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,20428
-Northern Territory,7,Total Industry,Use,Wastewater,ML,2014,20428
 Northern Territory,7,Total,Use,Wastewater,ML,2014,20428
-Northern Territory,7,Total Industry,Use,Reuse,ML,2014,2844
 Northern Territory,7,Total,Use,Reuse,ML,2014,2844
-Northern Territory,7,Environment,Use,Return flows (a),ML,2014,31774
 Northern Territory,7,Total,Use,Return flows (a),ML,2014,31774
-Australian Capital Territory,8,Environment,Supply,Self-extracted,ML,2014,43473
 Australian Capital Territory,8,Total,Supply,Self-extracted,ML,2014,43473
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2014,42141
-Australian Capital Territory,8,Total Industry,Supply,Distributed,ML,2014,42141
 Australian Capital Territory,8,Total,Supply,Distributed,ML,2014,42141
 Australian Capital Territory,8,Total,Supply,Wastewater,ML,2014,32971
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2014,3321
 Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2014,3321
-Australian Capital Territory,8,Total Industry,Supply,Reuse,ML,2014,3321
 Australian Capital Territory,8,Total,Supply,Reuse,ML,2014,3321
-Australian Capital Territory,8,Total Industry,Supply,Return flows (a),ML,2014,29650
 Australian Capital Territory,8,Total,Supply,Return flows (a),ML,2014,29650
-Australian Capital Territory,8,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2014,180
-Australian Capital Territory,8,Total Agriculture,Use,Self-extracted,ML,2014,191
 Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2014,191
 Australian Capital Territory,8,Total mining,Use,Self-extracted,ML,2014,539
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2014,42141
-Australian Capital Territory,8,Total Industry,Use,Self-extracted,ML,2014,43473
 Australian Capital Territory,8,Total,Use,Self-extracted,ML,2014,43473
-Australian Capital Territory,8,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2014,10
-Australian Capital Territory,8,Total Agriculture,Use,Distributed,ML,2014,51
 Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2014,51
-Australian Capital Territory,8,Total Industry,Use,Distributed,ML,2014,12683
-Australian Capital Territory,8,Households,Use,Distributed,ML,2014,29458
 Australian Capital Territory,8,Total,Use,Distributed,ML,2014,42141
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2014,32971
 Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2014,32971
-Australian Capital Territory,8,Total Industry,Use,Wastewater,ML,2014,32971
 Australian Capital Territory,8,Total,Use,Wastewater,ML,2014,32971
-Australian Capital Territory,8,Total Industry,Use,Reuse,ML,2014,3321
 Australian Capital Territory,8,Total,Use,Reuse,ML,2014,3321
-Australian Capital Territory,8,Environment,Use,Return flows (a),ML,2014,29650
 Australian Capital Territory,8,Total,Use,Return flows (a),ML,2014,29650
-Australia,0,Environment,Supply,Self-extracted,ML,2015,64572068
 Australia,0,Total,Supply,Self-extracted,ML,2015,64572068
-Australia,0,Metal ore mining,Supply,Distributed,ML,2015,12241
 Australia,0,Total mining,Supply,Distributed,ML,2015,13482
-Australia,0,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2015,10583523
 Australia,0,Total industry,Supply,Distributed,ML,2015,10609054
 Australia,0,Total,Supply,Distributed,ML,2015,10609054
 Australia,0,Total,Supply,Wastewater,ML,2015,2013917
-Australia,0,Coal mining,Supply,Reuse,ML,2015,5560
-Australia,0,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2015,294161
 Australia,0,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2015,294720
 Australia,0,Total industry,Supply,Reuse,ML,2015,333790
 Australia,0,Total,Supply,Reuse,ML,2015,333790
-Australia,0,Coal mining,Supply,Return flows (a),ML,2015,78614
-Australia,0,Oil and gas extraction,Supply,Return flows (a),ML,2015,47566
-Australia,0,Metal ore mining,Supply,Return flows (a),ML,2015,247134
 Australia,0,Total mining,Supply,Return flows (a),ML,2015,406305
-Australia,0,"Food, beverage and tobacco product manufacturing",Supply,Return flows (a),ML,2015,20567
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Supply,Return flows (a),ML,2015,451
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Supply,Return flows (a),ML,2015,15373
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Supply,Return flows (a),ML,2015,5407
-Australia,0,Furniture and other manufacturing,Supply,Return flows (a),ML,2015,7
 Australia,0,Total manufacturing,Supply,Return flows (a),ML,2015,73669
-Australia,0,Electricity and gas supply,Supply,Return flows (a),ML,2015,49028119
-Australia,0,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2015,1761731
-Australia,0,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2015,45
 Australia,0,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,50789895
 Australia,0,Total industry,Supply,Return flows (a),ML,2015,51269869
 Australia,0,Total,Supply,Return flows (a),ML,2015,51269869
-Australia,0,Fruit and Tree Nut Growing,Use,Self-extracted,ML,2015,250334
-Australia,0,Other Crop Growing,Use,Self-extracted,ML,2015,1133266
-Australia,0,Dairy cattle Farming,Use,Self-extracted,ML,2015,435311
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2015,1243409
 Australia,0,Total agriculture,Use,Self-extracted,ML,2015,3368672
 Australia,0,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,3368672
-Australia,0,Coal mining,Use,Self-extracted,ML,2015,177095
-Australia,0,Oil and gas extraction,Use,Self-extracted,ML,2015,128209
-Australia,0,Metal ore mining,Use,Self-extracted,ML,2015,715381
-Australia,0,Non-metallic mineral mining and quarrying,Use,Self-extracted,ML,2015,52001
-Australia,0,Exploration and other mining support services,Use,Self-extracted,ML,2015,48827
 Australia,0,Total mining,Use,Self-extracted,ML,2015,1121514
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Self-extracted,ML,2015,191530
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Self-extracted,ML,2015,272
-Australia,0,"Wood, pulp, paper and converted paper product manufacturing",Use,Self-extracted,ML,2015,32898
-Australia,0,"Petroleum, coal, basic chemical and chemical product manufacturing",Use,Self-extracted,ML,2015,14916
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Use,Self-extracted,ML,2015,18448
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Self-extracted,ML,2015,53212
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Self-extracted,ML,2015,262
-Australia,0,Furniture and other manufacturing,Use,Self-extracted,ML,2015,53
 Australia,0,Total manufacturing,Use,Self-extracted,ML,2015,311596
-Australia,0,Electricity and gas supply,Use,Self-extracted,ML,2015,49083923
-Australia,0,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2015,10583523
-Australia,0,"Waste collection, treatment and disposal services",Use,Self-extracted,ML,2015,332
 Australia,0,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2015,59667778
-Australia,0,Other industries,Use,Self-extracted,ML,2015,102509
 Australia,0,Total industry,Use,Self-extracted,ML,2015,64572068
 Australia,0,Total,Use,Self-extracted,ML,2015,64572068
-Australia,0,Fruit and Tree Nut Growing,Use,Distributed,ML,2015,1271795
-Australia,0,Other Crop Growing,Use,Distributed,ML,2015,1738309
-Australia,0,Dairy cattle Farming,Use,Distributed,ML,2015,1123124
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2015,1727976
 Australia,0,Total agriculture,Use,Distributed,ML,2015,6167495
 Australia,0,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2015,6204411
-Australia,0,Coal mining,Use,Distributed,ML,2015,33307
-Australia,0,Metal ore mining,Use,Distributed,ML,2015,38884
-Australia,0,Exploration and other mining support services,Use,Distributed,ML,2015,813
 Australia,0,Total mining,Use,Distributed,ML,2015,81693
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Distributed,ML,2015,117267
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Distributed,ML,2015,2019
-Australia,0,"Wood, pulp, paper and converted paper product manufacturing",Use,Distributed,ML,2015,34313
-Australia,0,Printing (including the reproduction of recorded media) manufacturing,Use,Distributed,ML,2015,2203
-Australia,0,"Petroleum, coal, basic chemical and chemical product manufacturing",Use,Distributed,ML,2015,24985
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Use,Distributed,ML,2015,14369
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Distributed,ML,2015,33031
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Distributed,ML,2015,6758
-Australia,0,Furniture and other manufacturing,Use,Distributed,ML,2015,1259
 Australia,0,Total manufacturing,Use,Distributed,ML,2015,236204
-Australia,0,"Waste collection, treatment and disposal services",Use,Distributed,ML,2015,4104
 Australia,0,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2015,1829294
-Australia,0,Other industries,Use,Distributed,ML,2015,511448
 Australia,0,Total industry,Use,Distributed,ML,2015,8863049
-Australia,0,Households,Use,Distributed,ML,2015,1746005
 Australia,0,Total,Use,Distributed,ML,2015,10609054
-Australia,0,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2015,2013917
 Australia,0,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,2013917
 Australia,0,Total industry,Use,Wastewater,ML,2015,2013917
 Australia,0,Total,Use,Wastewater,ML,2015,2013917
-Australia,0,Fruit and Tree Nut Growing,Use,Reuse,ML,2015,14588
-Australia,0,Other Crop Growing,Use,Reuse,ML,2015,19199
-Australia,0,Dairy cattle Farming,Use,Reuse,ML,2015,19607
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2015,33054
 Australia,0,Total agriculture,Use,Reuse,ML,2015,109180
 Australia,0,Total mining,Use,Reuse,ML,2015,4006
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Reuse,ML,2015,2171
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Reuse,ML,2015,383
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Reuse,ML,2015,10783
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Reuse,ML,2015,19
 Australia,0,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2015,90487
 Australia,0,Total industry,Use,Reuse,ML,2015,328415
-Australia,0,Households,Use,Reuse,ML,2015,5375
 Australia,0,Total,Use,Reuse,ML,2015,333790
-Australia,0,Environment,Use,Return flows (a),ML,2015,51269869
 Australia,0,Total,Use,Return flows (a),ML,2015,51269869
-New South Wales,1,Environment,Supply,Self-extracted,ML,2015,15197073
 New South Wales,1,Total,Supply,Self-extracted,ML,2015,15197073
-New South Wales,1,Coal mining,Supply,Distributed,ML,2015,549
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2015,3751998
-New South Wales,1,Total Industry,Supply,Distributed,ML,2015,3755430
 New South Wales,1,Total,Supply,Distributed,ML,2015,3755430
 New South Wales,1,Total,Supply,Wastewater,ML,2015,797235
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2015,63355
-New South Wales,1,Total Industry,Supply,Reuse,ML,2015,67403
 New South Wales,1,Total,Supply,Reuse,ML,2015,67403
-New South Wales,1,Coal mining,Supply,Return flows (a),ML,2015,38674
-New South Wales,1,Electricity and gas supply,Supply,Return flows (a),ML,2015,10358192
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2015,712112
-New South Wales,1,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2015,22
 New South Wales,1,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,11070325
-New South Wales,1,Total Industry,Supply,Return flows (a),ML,2015,11132293
 New South Wales,1,Total,Supply,Return flows (a),ML,2015,11132293
-New South Wales,1,Fruit and tree nut growing,Use,Self-extracted,ML,2015,26659
-New South Wales,1,Other crop growing,Use,Self-extracted,ML,2015,415690
-New South Wales,1,Dairy cattle farming,Use,Self-extracted,ML,2015,43054
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2015,373520
-New South Wales,1,Total Agriculture,Use,Self-extracted,ML,2015,883657
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,883657
-New South Wales,1,Coal mining,Use,Self-extracted,ML,2015,87121
 New South Wales,1,Total mining,Use,Self-extracted,ML,2015,116238
-New South Wales,1,Manufacturing,Use,Self-extracted,ML,2015,41040
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2015,3751998
-New South Wales,1,Total Industry,Use,Self-extracted,ML,2015,15197073
 New South Wales,1,Total,Use,Self-extracted,ML,2015,15197073
-New South Wales,1,Fruit and tree nut growing,Use,Distributed,ML,2015,257312
-New South Wales,1,Other crop growing,Use,Distributed,ML,2015,652731
-New South Wales,1,Dairy cattle farming,Use,Distributed,ML,2015,134254
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2015,1069557
-New South Wales,1,Total Agriculture,Use,Distributed,ML,2015,2187944
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2015,2187944
-New South Wales,1,Coal mining,Use,Distributed,ML,2015,15272
-New South Wales,1,Manufacturing,Use,Distributed,ML,2015,50931
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Distributed,ML,2015,761401
-New South Wales,1,"Waste collection, treatment and disposal services",Use,Distributed,ML,2015,2637
-New South Wales,1,Total Industry,Use,Distributed,ML,2015,3215446
-New South Wales,1,Households,Use,Distributed,ML,2015,539984
 New South Wales,1,Total,Use,Distributed,ML,2015,3755430
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2015,797235
 New South Wales,1,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,797235
-New South Wales,1,Total Industry,Use,Wastewater,ML,2015,797235
 New South Wales,1,Total,Use,Wastewater,ML,2015,797235
-New South Wales,1,Fruit and tree nut growing,Use,Reuse,ML,2015,517
-New South Wales,1,Dairy cattle farming,Use,Reuse,ML,2015,2195
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2015,8148
-New South Wales,1,Total Agriculture,Use,Reuse,ML,2015,18558
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2015,18558
-New South Wales,1,Manufacturing,Use,Reuse,ML,2015,11107
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Reuse,ML,2015,17635
-New South Wales,1,Total Industry,Use,Reuse,ML,2015,64849
-New South Wales,1,Households,Use,Reuse,ML,2015,2554
 New South Wales,1,Total,Use,Reuse,ML,2015,67403
-New South Wales,1,Environment,Use,Return flows (a),ML,2015,11132293
 New South Wales,1,Total,Use,Return flows (a),ML,2015,11132293
-Victoria,2,Environment,Supply,Self-extracted,ML,2015,8247982
 Victoria,2,Total,Supply,Self-extracted,ML,2015,8247982
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2015,3081502
-Victoria,2,Total Industry,Supply,Distributed,ML,2015,3083414
 Victoria,2,Total,Supply,Distributed,ML,2015,3083414
 Victoria,2,Total,Supply,Wastewater,ML,2015,469470
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2015,96610
 Victoria,2,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2015,96671
-Victoria,2,Total Industry,Supply,Reuse,ML,2015,98530
 Victoria,2,Total,Supply,Reuse,ML,2015,98530
-Victoria,2,Oil and gas extraction,Supply,Return flows (a),ML,2015,6426
-Victoria,2,Electricity and gas supply,Supply,Return flows (a),ML,2015,4628756
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2015,366059
 Victoria,2,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,4994815
-Victoria,2,Total Industry,Supply,Return flows (a),ML,2015,5012694
 Victoria,2,Total,Supply,Return flows (a),ML,2015,5012694
-Victoria,2,Mushroom and vegetable growing,Use,Self-extracted,ML,2015,39647
-Victoria,2,Fruit and tree nut growing,Use,Self-extracted,ML,2015,27881
-Victoria,2,Other crop growing,Use,Self-extracted,ML,2015,5450
-Victoria,2,Dairy cattle farming,Use,Self-extracted,ML,2015,196862
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2015,118944
-Victoria,2,Total Agriculture,Use,Self-extracted,ML,2015,393637
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,393637
 Victoria,2,Total mining,Use,Self-extracted,ML,2015,23001
-Victoria,2,Manufacturing,Use,Self-extracted,ML,2015,82756
-Victoria,2,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2015,3081502
-Victoria,2,Total Industry,Use,Self-extracted,ML,2015,8247982
 Victoria,2,Total,Use,Self-extracted,ML,2015,8247982
-Victoria,2,Fruit and tree nut growing,Use,Distributed,ML,2015,657508
-Victoria,2,Other crop growing,Use,Distributed,ML,2015,29807
-Victoria,2,Dairy cattle farming,Use,Distributed,ML,2015,907670
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2015,374793
-Victoria,2,Total Agriculture,Use,Distributed,ML,2015,2050207
-Victoria,2,Aquaculture,Use,Distributed,ML,2015,83
-Victoria,2,Forestry and logging,Use,Distributed,ML,2015,49
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2015,2050339
-Victoria,2,Oil and gas extraction,Use,Distributed,ML,2015,214
-Victoria,2,Manufacturing,Use,Distributed,ML,2015,76994
-Victoria,2,Electricity and gas supply,Use,Distributed,ML,2015,40394
-Victoria,2,"Water supply, sewerage and drainage services",Use,Distributed,ML,2015,419102
-Victoria,2,"Waste collection, treatment and disposal services",Use,Distributed,ML,2015,295
 Victoria,2,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2015,459791
-Victoria,2,Total Industry,Use,Distributed,ML,2015,2686547
-Victoria,2,Households,Use,Distributed,ML,2015,396867
 Victoria,2,Total,Use,Distributed,ML,2015,3083414
-Victoria,2,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2015,469470
 Victoria,2,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,469470
-Victoria,2,Total Industry,Use,Wastewater,ML,2015,469470
 Victoria,2,Total,Use,Wastewater,ML,2015,469470
-Victoria,2,Nursery and floriculture production,Use,Reuse,ML,2015,2394
-Victoria,2,Fruit and tree nut growing,Use,Reuse,ML,2015,2701
-Victoria,2,Dairy cattle farming,Use,Reuse,ML,2015,15436
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2015,20154
-Victoria,2,Total Agriculture,Use,Reuse,ML,2015,47268
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2015,47268
 Victoria,2,Total mining,Use,Reuse,ML,2015,792
-Victoria,2,Total Industry,Use,Reuse,ML,2015,96491
-Victoria,2,Households,Use,Reuse,ML,2015,2039
 Victoria,2,Total,Use,Reuse,ML,2015,98530
-Victoria,2,Environment,Use,Return flows (a),ML,2015,5012694
 Victoria,2,Total,Use,Return flows (a),ML,2015,5012694
-Queensland,3,Environment,Supply,Self-extracted,ML,2015,4570269
 Queensland,3,Total,Supply,Self-extracted,ML,2015,4570269
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2015,2339670
-Queensland,3,Total Industry,Supply,Distributed,ML,2015,2342502
 Queensland,3,Total,Supply,Distributed,ML,2015,2342502
 Queensland,3,Total,Supply,Wastewater,ML,2015,358142
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2015,57479
-Queensland,3,Total Industry,Supply,Reuse,ML,2015,67776
 Queensland,3,Total,Supply,Reuse,ML,2015,67776
-Queensland,3,Coal mining,Supply,Return flows (a),ML,2015,31616
-Queensland,3,Oil and gas extraction,Supply,Return flows (a),ML,2015,21048
-Queensland,3,Electricity and gas supply,Supply,Return flows (a),ML,2015,691693
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2015,301534
 Queensland,3,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,993227
-Queensland,3,Total Industry,Supply,Return flows (a),ML,2015,1098049
 Queensland,3,Total,Supply,Return flows (a),ML,2015,1098049
-Queensland,3,Mushroom and vegetable growing,Use,Self-extracted,ML,2015,62759
-Queensland,3,Fruit and tree nut growing,Use,Self-extracted,ML,2015,72153
-Queensland,3,Other crop growing,Use,Self-extracted,ML,2015,693576
-Queensland,3,Poultry farming,Use,Self-extracted,ML,2015,5213
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2015,339407
-Queensland,3,Total Agriculture,Use,Self-extracted,ML,2015,1206875
 Queensland,3,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,1206875
-Queensland,3,Coal mining,Use,Self-extracted,ML,2015,71223
-Queensland,3,Oil and gas extraction,Use,Self-extracted,ML,2015,56733
 Queensland,3,Total mining,Use,Self-extracted,ML,2015,229494
-Queensland,3,Manufacturing,Use,Self-extracted,ML,2015,84975
-Queensland,3,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2015,2339670
-Queensland,3,Total Industry,Use,Self-extracted,ML,2015,4570269
 Queensland,3,Total,Use,Self-extracted,ML,2015,4570269
-Queensland,3,Mushroom and vegetable growing,Use,Distributed,ML,2015,70642
-Queensland,3,Fruit and tree nut growing,Use,Distributed,ML,2015,114488
-Queensland,3,Other crop growing,Use,Distributed,ML,2015,1044714
-Queensland,3,Poultry farming,Use,Distributed,ML,2015,1657
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2015,135321
-Queensland,3,Total Agriculture,Use,Distributed,ML,2015,1390551
-Queensland,3,Coal mining,Use,Distributed,ML,2015,17991
-Queensland,3,Oil and gas extraction,Use,Distributed,ML,2015,325
 Queensland,3,Total mining,Use,Distributed,ML,2015,33876
-Queensland,3,Manufacturing,Use,Distributed,ML,2015,72674
-Queensland,3,Total Industry,Use,Distributed,ML,2015,2003870
-Queensland,3,Households,Use,Distributed,ML,2015,338632
 Queensland,3,Total,Use,Distributed,ML,2015,2342502
-Queensland,3,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2015,358142
 Queensland,3,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,358142
-Queensland,3,Total Industry,Use,Wastewater,ML,2015,358142
 Queensland,3,Total,Use,Wastewater,ML,2015,358142
-Queensland,3,Nursery and floriculture production,Use,Reuse,ML,2015,37
-Queensland,3,Mushroom and vegetable growing,Use,Reuse,ML,2015,66
-Queensland,3,Fruit and tree nut growing,Use,Reuse,ML,2015,160
-Queensland,3,Other crop growing,Use,Reuse,ML,2015,11290
-Queensland,3,Dairy cattle farming,Use,Reuse,ML,2015,123
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2015,868
-Queensland,3,Total Agriculture,Use,Reuse,ML,2015,12544
-Queensland,3,Other industries,Use,Reuse,ML,2015,23859
-Queensland,3,Total Industry,Use,Reuse,ML,2015,67448
 Queensland,3,Total,Use,Reuse,ML,2015,67776
-Queensland,3,Environment,Use,Return flows (a),ML,2015,1098049
 Queensland,3,Total,Use,Return flows (a),ML,2015,1098049
-South Australia,4,Environment,Supply,Self-extracted,ML,2015,1054241
 South Australia,4,Total,Supply,Self-extracted,ML,2015,1054241
-South Australia,4,Coal mining,Supply,Distributed,ML,2015,3
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2015,542433
-South Australia,4,Total Industry,Supply,Distributed,ML,2015,543093
 South Australia,4,Total,Supply,Distributed,ML,2015,543093
 South Australia,4,Total,Supply,Wastewater,ML,2015,118526
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2015,41886
 South Australia,4,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2015,41886
-South Australia,4,Total Industry,Supply,Reuse,ML,2015,44164
 South Australia,4,Total,Supply,Reuse,ML,2015,44164
-South Australia,4,Coal mining,Supply,Return flows (a),ML,2015,230
-South Australia,4,Oil and gas extraction,Supply,Return flows (a),ML,2015,5579
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2015,84582
 South Australia,4,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,90804
-South Australia,4,Total Industry,Supply,Return flows (a),ML,2015,109085
 South Australia,4,Total,Supply,Return flows (a),ML,2015,109085
-South Australia,4,Fruit and tree nut growing,Use,Self-extracted,ML,2015,70826
-South Australia,4,Other crop growing,Use,Self-extracted,ML,2015,11230
-South Australia,4,Dairy cattle farming,Use,Self-extracted,ML,2015,60828
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2015,234786
-South Australia,4,Total Agriculture,Use,Self-extracted,ML,2015,433905
 South Australia,4,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,433905
-South Australia,4,Manufacturing,Use,Self-extracted,ML,2015,18004
-South Australia,4,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2015,542433
-South Australia,4,Other industries,Use,Self-extracted,ML,2015,6599
-South Australia,4,Total Industry,Use,Self-extracted,ML,2015,1054241
 South Australia,4,Total,Use,Self-extracted,ML,2015,1054241
-South Australia,4,Fruit and tree nut growing,Use,Distributed,ML,2015,234916
-South Australia,4,Other crop growing,Use,Distributed,ML,2015,5573
-South Australia,4,Dairy cattle farming,Use,Distributed,ML,2015,13862
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2015,56560
-South Australia,4,Total Agriculture,Use,Distributed,ML,2015,329899
-South Australia,4,Manufacturing,Use,Distributed,ML,2015,14526
-South Australia,4,Electricity and gas supply,Use,Distributed,ML,2015,740
-South Australia,4,"Water supply, sewerage and drainage services",Use,Distributed,ML,2015,21214
-South Australia,4,Other industries,Use,Distributed,ML,2015,39179
-South Australia,4,Total Industry,Use,Distributed,ML,2015,409902
-South Australia,4,Households,Use,Distributed,ML,2015,133190
 South Australia,4,Total,Use,Distributed,ML,2015,543093
-South Australia,4,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2015,118526
 South Australia,4,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,118526
-South Australia,4,Total Industry,Use,Wastewater,ML,2015,118526
 South Australia,4,Total,Use,Wastewater,ML,2015,118526
-South Australia,4,Nursery and floriculture production,Use,Reuse,ML,2015,625
-South Australia,4,Mushroom and vegetable growing,Use,Reuse,ML,2015,12376
-South Australia,4,Fruit and tree nut growing,Use,Reuse,ML,2015,11182
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2015,528
-South Australia,4,Total Agriculture,Use,Reuse,ML,2015,24777
 South Australia,4,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2015,24777
-South Australia,4,Manufacturing,Use,Reuse,ML,2015,571
-South Australia,4,"Water supply, sewerage and drainage services",Use,Reuse,ML,2015,10250
 South Australia,4,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2015,10250
-South Australia,4,Total Industry,Use,Reuse,ML,2015,43743
-South Australia,4,Households,Use,Reuse,ML,2015,421
 South Australia,4,Total,Use,Reuse,ML,2015,44164
-South Australia,4,Environment,Use,Return flows (a),ML,2015,109085
 South Australia,4,Total,Use,Return flows (a),ML,2015,109085
-Western Australia,5,Environment,Supply,Self-extracted,ML,2015,3488198
 Western Australia,5,Total,Supply,Self-extracted,ML,2015,3488198
-Western Australia,5,Coal mining,Supply,Distributed,ML,2015,97
 Western Australia,5,Total mining,Supply,Distributed,ML,2015,9091
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2015,590532
-Western Australia,5,Total Industry,Supply,Distributed,ML,2015,599679
 Western Australia,5,Total,Supply,Distributed,ML,2015,599679
 Western Australia,5,Total,Supply,Wastewater,ML,2015,166061
 Western Australia,5,Total mining,Supply,Reuse,ML,2015,18620
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2015,24000
-Western Australia,5,Total Industry,Supply,Reuse,ML,2015,43172
 Western Australia,5,Total,Supply,Reuse,ML,2015,43172
-Western Australia,5,Coal mining,Supply,Return flows (a),ML,2015,8066
-Western Australia,5,Oil and gas extraction,Supply,Return flows (a),ML,2015,13587
-Western Australia,5,Electricity and gas supply,Supply,Return flows (a),ML,2015,1946611
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2015,203792
 Western Australia,5,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,2150403
-Western Australia,5,Total Industry,Supply,Return flows (a),ML,2015,2385653
 Western Australia,5,Total,Supply,Return flows (a),ML,2015,2385653
-Western Australia,5,Mushroom and vegetable growing,Use,Self-extracted,ML,2015,57178
-Western Australia,5,Fruit and tree nut growing,Use,Self-extracted,ML,2015,40854
-Western Australia,5,Other crop growing,Use,Self-extracted,ML,2015,2535
-Western Australia,5,Dairy cattle farming,Use,Self-extracted,ML,2015,18018
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2015,81343
-Western Australia,5,Total Agriculture,Use,Self-extracted,ML,2015,209252
 Western Australia,5,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,209252
-Western Australia,5,Oil and gas extraction,Use,Self-extracted,ML,2015,36622
 Western Australia,5,Total mining,Use,Self-extracted,ML,2015,654527
-Western Australia,5,Manufacturing,Use,Self-extracted,ML,2015,55554
-Western Australia,5,Electricity and gas supply,Use,Self-extracted,ML,2015,1957744
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2015,590532
-Western Australia,5,Total Industry,Use,Self-extracted,ML,2015,3488198
 Western Australia,5,Total,Use,Self-extracted,ML,2015,3488198
-Western Australia,5,Nursery and floriculture production,Use,Distributed,ML,2015,1032
-Western Australia,5,Fruit and tree nut growing,Use,Distributed,ML,2015,5431
-Western Australia,5,Dairy cattle farming,Use,Distributed,ML,2015,18005
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2015,46642
-Western Australia,5,Total Agriculture,Use,Distributed,ML,2015,111141
-Western Australia,5,Coal mining,Use,Distributed,ML,2015,10
-Western Australia,5,Oil and gas extraction,Use,Distributed,ML,2015,1465
 Western Australia,5,Total mining,Use,Distributed,ML,2015,21141
-Western Australia,5,Manufacturing,Use,Distributed,ML,2015,5570
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Distributed,ML,2015,102287
-Western Australia,5,Other industries,Use,Distributed,ML,2015,77798
-Western Australia,5,Total Industry,Use,Distributed,ML,2015,354886
-Western Australia,5,Households,Use,Distributed,ML,2015,244793
 Western Australia,5,Total,Use,Distributed,ML,2015,599679
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2015,166061
 Western Australia,5,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,166061
-Western Australia,5,Total Industry,Use,Wastewater,ML,2015,166061
 Western Australia,5,Total,Use,Wastewater,ML,2015,166061
-Western Australia,5,Nursery and floriculture production,Use,Reuse,ML,2015,2
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2015,18
-Western Australia,5,Total Agriculture,Use,Reuse,ML,2015,413
-Western Australia,5,Manufacturing,Use,Reuse,ML,2015,7787
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Reuse,ML,2015,5511
 Western Australia,5,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2015,5511
-Western Australia,5,Total Industry,Use,Reuse,ML,2015,43139
 Western Australia,5,Total,Use,Reuse,ML,2015,43172
-Western Australia,5,Environment,Use,Return flows (a),ML,2015,2385653
 Western Australia,5,Total,Use,Return flows (a),ML,2015,2385653
-Tasmania,6,Environment,Supply,Self-extracted,ML,2015,31820078
 Tasmania,6,Total,Supply,Self-extracted,ML,2015,31820078
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2015,172807
-Tasmania,6,Total Industry,Supply,Distributed,ML,2015,179870
 Tasmania,6,Total,Supply,Distributed,ML,2015,179870
 Tasmania,6,Total,Supply,Wastewater,ML,2015,50695
-Tasmania,6,Manufacturing,Supply,Reuse,ML,2015,14
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2015,5615
-Tasmania,6,Total Industry,Supply,Reuse,ML,2015,6539
 Tasmania,6,Total,Supply,Reuse,ML,2015,6539
-Tasmania,6,Coal mining,Supply,Return flows (a),ML,2015,28
-Tasmania,6,Electricity and gas supply,Supply,Return flows (a),ML,2015,31396322
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2015,45080
 Tasmania,6,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2015,31441417
-Tasmania,6,Total Industry,Supply,Return flows (a),ML,2015,31471951
 Tasmania,6,Total,Supply,Return flows (a),ML,2015,31471951
-Tasmania,6,Mushroom and vegetable growing,Use,Self-extracted,ML,2015,32766
-Tasmania,6,Fruit and tree nut growing,Use,Self-extracted,ML,2015,5636
-Tasmania,6,Other crop growing,Use,Self-extracted,ML,2015,4771
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2015,67624
-Tasmania,6,Total Agriculture,Use,Self-extracted,ML,2015,200773
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,200773
-Tasmania,6,Manufacturing,Use,Self-extracted,ML,2015,29165
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2015,172807
 Tasmania,6,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2015,31569238
-Tasmania,6,Total Industry,Use,Self-extracted,ML,2015,31820078
 Tasmania,6,Total,Use,Self-extracted,ML,2015,31820078
-Tasmania,6,Fruit and tree nut growing,Use,Distributed,ML,2015,2139
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2015,44993
-Tasmania,6,Total Agriculture,Use,Distributed,ML,2015,97603
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2015,97603
-Tasmania,6,Manufacturing,Use,Distributed,ML,2015,15509
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Distributed,ML,2015,24127
-Tasmania,6,Total Industry,Use,Distributed,ML,2015,146002
-Tasmania,6,Households,Use,Distributed,ML,2015,33868
 Tasmania,6,Total,Use,Distributed,ML,2015,179870
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2015,50695
 Tasmania,6,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,50695
-Tasmania,6,Total Industry,Use,Wastewater,ML,2015,50695
 Tasmania,6,Total,Use,Wastewater,ML,2015,50695
-Tasmania,6,Fruit and tree nut growing,Use,Reuse,ML,2015,28
-Tasmania,6,Dairy cattle farming,Use,Reuse,ML,2015,1759
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2015,2218
-Tasmania,6,Total Agriculture,Use,Reuse,ML,2015,4500
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2015,4500
-Tasmania,6,Total Industry,Use,Reuse,ML,2015,6539
 Tasmania,6,Total,Use,Reuse,ML,2015,6539
-Tasmania,6,Environment,Use,Return flows (a),ML,2015,31471951
 Tasmania,6,Total,Use,Return flows (a),ML,2015,31471951
-Northern Territory,7,Environment,Supply,Self-extracted,ML,2015,147802
 Northern Territory,7,Total,Supply,Self-extracted,ML,2015,147802
 Northern Territory,7,Total mining,Supply,Distributed,ML,2015,482
-Northern Territory,7,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2015,59298
-Northern Territory,7,Total Industry,Supply,Distributed,ML,2015,59782
 Northern Territory,7,Total,Supply,Distributed,ML,2015,59782
 Northern Territory,7,Total,Supply,Wastewater,ML,2015,19934
 Northern Territory,7,Total mining,Supply,Reuse,ML,2015,990
-Northern Territory,7,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2015,1920
 Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2015,1920
-Northern Territory,7,Total Industry,Supply,Reuse,ML,2015,2910
 Northern Territory,7,Total,Supply,Reuse,ML,2015,2910
 Northern Territory,7,Total mining,Supply,Return flows (a),ML,2015,11200
-Northern Territory,7,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2015,8
-Northern Territory,7,Total Industry,Supply,Return flows (a),ML,2015,29585
 Northern Territory,7,Total,Supply,Return flows (a),ML,2015,29585
-Northern Territory,7,Fruit and tree nut growing,Use,Self-extracted,ML,2015,6325
-Northern Territory,7,Other crop growing,Use,Self-extracted,ML,2015,14
-Northern Territory,7,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2015,27640
-Northern Territory,7,Total Agriculture,Use,Self-extracted,ML,2015,40419
 Northern Territory,7,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,40419
 Northern Territory,7,Total mining,Use,Self-extracted,ML,2015,32170
-Northern Territory,7,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2015,59298
-Northern Territory,7,Total Industry,Use,Self-extracted,ML,2015,147802
 Northern Territory,7,Total,Use,Self-extracted,ML,2015,147802
-Northern Territory,7,Total Industry,Use,Distributed,ML,2015,32384
-Northern Territory,7,Households,Use,Distributed,ML,2015,27398
 Northern Territory,7,Total,Use,Distributed,ML,2015,59782
-Northern Territory,7,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2015,19934
 Northern Territory,7,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,19934
-Northern Territory,7,Total Industry,Use,Wastewater,ML,2015,19934
 Northern Territory,7,Total,Use,Wastewater,ML,2015,19934
-Northern Territory,7,Total Industry,Use,Reuse,ML,2015,2910
 Northern Territory,7,Total,Use,Reuse,ML,2015,2910
-Northern Territory,7,Environment,Use,Return flows (a),ML,2015,29585
 Northern Territory,7,Total,Use,Return flows (a),ML,2015,29585
-Australian Capital Territory,8,Environment,Supply,Self-extracted,ML,2015,46426
 Australian Capital Territory,8,Total,Supply,Self-extracted,ML,2015,46426
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2015,45283
-Australian Capital Territory,8,Total Industry,Supply,Distributed,ML,2015,45283
 Australian Capital Territory,8,Total,Supply,Distributed,ML,2015,45283
 Australian Capital Territory,8,Total,Supply,Wastewater,ML,2015,33854
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2015,3296
 Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2015,3296
-Australian Capital Territory,8,Total Industry,Supply,Reuse,ML,2015,3296
 Australian Capital Territory,8,Total,Supply,Reuse,ML,2015,3296
-Australian Capital Territory,8,Total Industry,Supply,Return flows (a),ML,2015,30558
 Australian Capital Territory,8,Total,Supply,Return flows (a),ML,2015,30558
-Australian Capital Territory,8,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2015,145
-Australian Capital Territory,8,Total Agriculture,Use,Self-extracted,ML,2015,155
 Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2015,155
 Australian Capital Territory,8,Total mining,Use,Self-extracted,ML,2015,307
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2015,45283
-Australian Capital Territory,8,Total Industry,Use,Self-extracted,ML,2015,46426
 Australian Capital Territory,8,Total,Use,Self-extracted,ML,2015,46426
-Australian Capital Territory,8,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2015,110
-Australian Capital Territory,8,Total Agriculture,Use,Distributed,ML,2015,151
 Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2015,151
-Australian Capital Territory,8,Total Industry,Use,Distributed,ML,2015,14011
-Australian Capital Territory,8,Households,Use,Distributed,ML,2015,31272
 Australian Capital Territory,8,Total,Use,Distributed,ML,2015,45283
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2015,33854
 Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2015,33854
-Australian Capital Territory,8,Total Industry,Use,Wastewater,ML,2015,33854
 Australian Capital Territory,8,Total,Use,Wastewater,ML,2015,33854
-Australian Capital Territory,8,Total Industry,Use,Reuse,ML,2015,3296
 Australian Capital Territory,8,Total,Use,Reuse,ML,2015,3296
-Australian Capital Territory,8,Environment,Use,Return flows (a),ML,2015,30558
 Australian Capital Territory,8,Total,Use,Return flows (a),ML,2015,30558
-Australia,0,Environment,Supply,Self-extracted,ML,2016,71217063
 Australia,0,Total,Supply,Self-extracted,ML,2016,71217063
-Australia,0,Metal ore mining,Supply,Distributed,ML,2016,12413
 Australia,0,Total mining,Supply,Distributed,ML,2016,13671
-Australia,0,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2016,12258157
 Australia,0,Total industry,Supply,Distributed,ML,2016,12283938
 Australia,0,Total,Supply,Distributed,ML,2016,12283938
 Australia,0,Total,Supply,Wastewater,ML,2016,2092724
-Australia,0,Coal mining,Supply,Reuse,ML,2016,5638
-Australia,0,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2016,272452
 Australia,0,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2016,273016
 Australia,0,Total industry,Supply,Reuse,ML,2016,312585
 Australia,0,Total,Supply,Reuse,ML,2016,312585
-Australia,0,Coal mining,Supply,Return flows (a),ML,2016,86832
-Australia,0,Oil and gas extraction,Supply,Return flows (a),ML,2016,45677
-Australia,0,Metal ore mining,Supply,Return flows (a),ML,2016,269113
 Australia,0,Total mining,Supply,Return flows (a),ML,2016,426826
-Australia,0,"Food, beverage and tobacco product manufacturing",Supply,Return flows (a),ML,2016,20094
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Supply,Return flows (a),ML,2016,441
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Supply,Return flows (a),ML,2016,18018
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Supply,Return flows (a),ML,2016,5234
-Australia,0,Furniture and other manufacturing,Supply,Return flows (a),ML,2016,7
 Australia,0,Total manufacturing,Supply,Return flows (a),ML,2016,75632
-Australia,0,Electricity and gas supply,Supply,Return flows (a),ML,2016,54111348
-Australia,0,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2016,1888494
-Australia,0,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2016,45
 Australia,0,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,55999887
 Australia,0,Total industry,Supply,Return flows (a),ML,2016,56502345
 Australia,0,Total,Supply,Return flows (a),ML,2016,56502345
-Australia,0,Fruit and Tree Nut Growing,Use,Self-extracted,ML,2016,214811
-Australia,0,Other Crop Growing,Use,Self-extracted,ML,2016,1224794
-Australia,0,Dairy cattle Farming,Use,Self-extracted,ML,2016,357619
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2016,1149963
 Australia,0,Total agriculture,Use,Self-extracted,ML,2016,3221235
 Australia,0,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,3221235
-Australia,0,Coal mining,Use,Self-extracted,ML,2016,195608
-Australia,0,Oil and gas extraction,Use,Self-extracted,ML,2016,123117
-Australia,0,Metal ore mining,Use,Self-extracted,ML,2016,779004
-Australia,0,Non-metallic mineral mining and quarrying,Use,Self-extracted,ML,2016,47978
-Australia,0,Exploration and other mining support services,Use,Self-extracted,ML,2016,11944
 Australia,0,Total mining,Use,Self-extracted,ML,2016,1157650
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Self-extracted,ML,2016,187125
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Self-extracted,ML,2016,266
-Australia,0,"Wood, pulp, paper and converted paper product manufacturing",Use,Self-extracted,ML,2016,32731
-Australia,0,"Petroleum, coal, basic chemical and chemical product manufacturing",Use,Self-extracted,ML,2016,15266
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Use,Self-extracted,ML,2016,21620
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Self-extracted,ML,2016,51509
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Self-extracted,ML,2016,257
-Australia,0,Furniture and other manufacturing,Use,Self-extracted,ML,2016,52
 Australia,0,Total manufacturing,Use,Self-extracted,ML,2016,308827
-Australia,0,Electricity and gas supply,Use,Self-extracted,ML,2016,54166315
-Australia,0,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2016,12258157
-Australia,0,"Waste collection, treatment and disposal services",Use,Self-extracted,ML,2016,242
 Australia,0,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2016,66424714
-Australia,0,Other industries,Use,Self-extracted,ML,2016,104637
 Australia,0,Total industry,Use,Self-extracted,ML,2016,71217063
 Australia,0,Total,Use,Self-extracted,ML,2016,71217063
-Australia,0,Fruit and Tree Nut Growing,Use,Distributed,ML,2016,1227431
-Australia,0,Other Crop Growing,Use,Distributed,ML,2016,2278128
-Australia,0,Dairy cattle Farming,Use,Distributed,ML,2016,1256773
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2016,2641290
 Australia,0,Total agriculture,Use,Distributed,ML,2016,7689574
 Australia,0,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2016,7738965
-Australia,0,Coal mining,Use,Distributed,ML,2016,28490
-Australia,0,Metal ore mining,Use,Distributed,ML,2016,42410
-Australia,0,Exploration and other mining support services,Use,Distributed,ML,2016,801
 Australia,0,Total mining,Use,Distributed,ML,2016,77612
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Distributed,ML,2016,110885
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Distributed,ML,2016,2146
-Australia,0,"Wood, pulp, paper and converted paper product manufacturing",Use,Distributed,ML,2016,37431
-Australia,0,Printing (including the reproduction of recorded media) manufacturing,Use,Distributed,ML,2016,1593
-Australia,0,"Petroleum, coal, basic chemical and chemical product manufacturing",Use,Distributed,ML,2016,27475
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Use,Distributed,ML,2016,12791
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Distributed,ML,2016,40888
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Distributed,ML,2016,6614
-Australia,0,Furniture and other manufacturing,Use,Distributed,ML,2016,1281
 Australia,0,Total manufacturing,Use,Distributed,ML,2016,241105
-Australia,0,"Waste collection, treatment and disposal services",Use,Distributed,ML,2016,4137
 Australia,0,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2016,1988157
-Australia,0,Other industries,Use,Distributed,ML,2016,516731
 Australia,0,Total industry,Use,Distributed,ML,2016,10562570
-Australia,0,Households,Use,Distributed,ML,2016,1721368
 Australia,0,Total,Use,Distributed,ML,2016,12283938
-Australia,0,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2016,2092724
 Australia,0,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,2092724
 Australia,0,Total industry,Use,Wastewater,ML,2016,2092724
 Australia,0,Total,Use,Wastewater,ML,2016,2092724
-Australia,0,Fruit and Tree Nut Growing,Use,Reuse,ML,2016,9758
-Australia,0,Other Crop Growing,Use,Reuse,ML,2016,16578
-Australia,0,Dairy cattle Farming,Use,Reuse,ML,2016,12589
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2016,30264
 Australia,0,Total agriculture,Use,Reuse,ML,2016,83266
 Australia,0,Total mining,Use,Reuse,ML,2016,3587
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Reuse,ML,2016,1080
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Reuse,ML,2016,260
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Reuse,ML,2016,5774
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Reuse,ML,2016,38
 Australia,0,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2016,108283
 Australia,0,Total industry,Use,Reuse,ML,2016,308600
-Australia,0,Households,Use,Reuse,ML,2016,3985
 Australia,0,Total,Use,Reuse,ML,2016,312585
-Australia,0,Environment,Use,Return flows (a),ML,2016,56502345
 Australia,0,Total,Use,Return flows (a),ML,2016,56502345
-New South Wales,1,Environment,Supply,Self-extracted,ML,2016,17659892
 New South Wales,1,Total,Supply,Self-extracted,ML,2016,17659892
-New South Wales,1,Coal mining,Supply,Distributed,ML,2016,558
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2016,5400525
-New South Wales,1,Total Industry,Supply,Distributed,ML,2016,5403841
 New South Wales,1,Total,Supply,Distributed,ML,2016,5403841
 New South Wales,1,Total,Supply,Wastewater,ML,2016,807348
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2016,60406
-New South Wales,1,Total Industry,Supply,Reuse,ML,2016,64606
 New South Wales,1,Total,Supply,Reuse,ML,2016,64606
-New South Wales,1,Coal mining,Supply,Return flows (a),ML,2016,44762
-New South Wales,1,Electricity and gas supply,Supply,Return flows (a),ML,2016,11129805
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2016,751514
-New South Wales,1,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2016,11
 New South Wales,1,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,11881330
-New South Wales,1,Total Industry,Supply,Return flows (a),ML,2016,11952866
 New South Wales,1,Total,Supply,Return flows (a),ML,2016,11952866
-New South Wales,1,Fruit and tree nut growing,Use,Self-extracted,ML,2016,38332
-New South Wales,1,Other crop growing,Use,Self-extracted,ML,2016,463868
-New South Wales,1,Dairy cattle farming,Use,Self-extracted,ML,2016,32641
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2016,349516
-New South Wales,1,Total Agriculture,Use,Self-extracted,ML,2016,907174
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,907174
-New South Wales,1,Coal mining,Use,Self-extracted,ML,2016,100836
 New South Wales,1,Total mining,Use,Self-extracted,ML,2016,134330
-New South Wales,1,Manufacturing,Use,Self-extracted,ML,2016,41544
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2016,5400525
-New South Wales,1,Total Industry,Use,Self-extracted,ML,2016,17659892
 New South Wales,1,Total,Use,Self-extracted,ML,2016,17659892
-New South Wales,1,Fruit and tree nut growing,Use,Distributed,ML,2016,252217
-New South Wales,1,Other crop growing,Use,Distributed,ML,2016,1222499
-New South Wales,1,Dairy cattle farming,Use,Distributed,ML,2016,95294
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2016,1946116
-New South Wales,1,Total Agriculture,Use,Distributed,ML,2016,3600656
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2016,3600656
-New South Wales,1,Coal mining,Use,Distributed,ML,2016,8488
-New South Wales,1,Manufacturing,Use,Distributed,ML,2016,56657
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Distributed,ML,2016,930447
-New South Wales,1,"Waste collection, treatment and disposal services",Use,Distributed,ML,2016,2670
-New South Wales,1,Total Industry,Use,Distributed,ML,2016,4847140
-New South Wales,1,Households,Use,Distributed,ML,2016,556701
 New South Wales,1,Total,Use,Distributed,ML,2016,5403841
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2016,807348
 New South Wales,1,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,807348
-New South Wales,1,Total Industry,Use,Wastewater,ML,2016,807348
 New South Wales,1,Total,Use,Wastewater,ML,2016,807348
-New South Wales,1,Fruit and tree nut growing,Use,Reuse,ML,2016,1483
-New South Wales,1,Dairy cattle farming,Use,Reuse,ML,2016,1191
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2016,12959
-New South Wales,1,Total Agriculture,Use,Reuse,ML,2016,22680
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2016,22680
-New South Wales,1,Manufacturing,Use,Reuse,ML,2016,6919
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Reuse,ML,2016,17555
-New South Wales,1,Total Industry,Use,Reuse,ML,2016,62224
-New South Wales,1,Households,Use,Reuse,ML,2016,2382
 New South Wales,1,Total,Use,Reuse,ML,2016,64606
-New South Wales,1,Environment,Use,Return flows (a),ML,2016,11952866
 New South Wales,1,Total,Use,Return flows (a),ML,2016,11952866
-Victoria,2,Environment,Supply,Self-extracted,ML,2016,8321263
 Victoria,2,Total,Supply,Self-extracted,ML,2016,8321263
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2016,3354219
-Victoria,2,Total Industry,Supply,Distributed,ML,2016,3355931
 Victoria,2,Total,Supply,Distributed,ML,2016,3355931
 Victoria,2,Total,Supply,Wastewater,ML,2016,503480
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2016,93484
 Victoria,2,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2016,93537
-Victoria,2,Total Industry,Supply,Reuse,ML,2016,95116
 Victoria,2,Total,Supply,Reuse,ML,2016,95116
-Victoria,2,Oil and gas extraction,Supply,Return flows (a),ML,2016,4593
-Victoria,2,Electricity and gas supply,Supply,Return flows (a),ML,2016,4496752
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2016,406611
 Victoria,2,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,4903368
-Victoria,2,Total Industry,Supply,Return flows (a),ML,2016,4920849
 Victoria,2,Total,Supply,Return flows (a),ML,2016,4920849
-Victoria,2,Mushroom and vegetable growing,Use,Self-extracted,ML,2016,30345
-Victoria,2,Fruit and tree nut growing,Use,Self-extracted,ML,2016,13231
-Victoria,2,Other crop growing,Use,Self-extracted,ML,2016,4329
-Victoria,2,Dairy cattle farming,Use,Self-extracted,ML,2016,185652
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2016,87660
-Victoria,2,Total Agriculture,Use,Self-extracted,ML,2016,329337
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,329337
 Victoria,2,Total mining,Use,Self-extracted,ML,2016,21603
-Victoria,2,Manufacturing,Use,Self-extracted,ML,2016,80782
-Victoria,2,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2016,3354219
-Victoria,2,Total Industry,Use,Self-extracted,ML,2016,8321263
 Victoria,2,Total,Use,Self-extracted,ML,2016,8321263
-Victoria,2,Fruit and tree nut growing,Use,Distributed,ML,2016,690584
-Victoria,2,Other crop growing,Use,Distributed,ML,2016,41112
-Victoria,2,Dairy cattle farming,Use,Distributed,ML,2016,1080645
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2016,443139
-Victoria,2,Total Agriculture,Use,Distributed,ML,2016,2340980
-Victoria,2,Aquaculture,Use,Distributed,ML,2016,86
-Victoria,2,Forestry and logging,Use,Distributed,ML,2016,56
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2016,2341122
-Victoria,2,Oil and gas extraction,Use,Distributed,ML,2016,85
-Victoria,2,Manufacturing,Use,Distributed,ML,2016,75520
-Victoria,2,Electricity and gas supply,Use,Distributed,ML,2016,39358
-Victoria,2,"Water supply, sewerage and drainage services",Use,Distributed,ML,2016,416784
-Victoria,2,"Waste collection, treatment and disposal services",Use,Distributed,ML,2016,307
 Victoria,2,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2016,456449
-Victoria,2,Total Industry,Use,Distributed,ML,2016,2968019
-Victoria,2,Households,Use,Distributed,ML,2016,387912
 Victoria,2,Total,Use,Distributed,ML,2016,3355931
-Victoria,2,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2016,503480
 Victoria,2,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,503480
-Victoria,2,Total Industry,Use,Wastewater,ML,2016,503480
 Victoria,2,Total,Use,Wastewater,ML,2016,503480
-Victoria,2,Nursery and floriculture production,Use,Reuse,ML,2016,1447
-Victoria,2,Fruit and tree nut growing,Use,Reuse,ML,2016,439
-Victoria,2,Dairy cattle farming,Use,Reuse,ML,2016,9686
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2016,13170
-Victoria,2,Total Agriculture,Use,Reuse,ML,2016,28605
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2016,28605
 Victoria,2,Total mining,Use,Reuse,ML,2016,475
-Victoria,2,Total Industry,Use,Reuse,ML,2016,93904
-Victoria,2,Households,Use,Reuse,ML,2016,1212
 Victoria,2,Total,Use,Reuse,ML,2016,95116
-Victoria,2,Environment,Use,Return flows (a),ML,2016,4920849
 Victoria,2,Total,Use,Return flows (a),ML,2016,4920849
-Queensland,3,Environment,Supply,Self-extracted,ML,2016,4352351
 Queensland,3,Total,Supply,Self-extracted,ML,2016,4352351
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2016,2199580
-Queensland,3,Total Industry,Supply,Distributed,ML,2016,2202284
 Queensland,3,Total,Supply,Distributed,ML,2016,2202284
 Queensland,3,Total,Supply,Wastewater,ML,2016,364350
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2016,53045
-Queensland,3,Total Industry,Supply,Reuse,ML,2016,63241
 Queensland,3,Total,Supply,Reuse,ML,2016,63241
-Queensland,3,Coal mining,Supply,Return flows (a),ML,2016,33803
-Queensland,3,Oil and gas extraction,Supply,Return flows (a),ML,2016,20243
-Queensland,3,Electricity and gas supply,Supply,Return flows (a),ML,2016,594633
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2016,312157
 Queensland,3,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,906802
-Queensland,3,Total Industry,Supply,Return flows (a),ML,2016,1003938
 Queensland,3,Total,Supply,Return flows (a),ML,2016,1003938
-Queensland,3,Mushroom and vegetable growing,Use,Self-extracted,ML,2016,71604
-Queensland,3,Fruit and tree nut growing,Use,Self-extracted,ML,2016,60960
-Queensland,3,Other crop growing,Use,Self-extracted,ML,2016,739522
-Queensland,3,Poultry farming,Use,Self-extracted,ML,2016,2575
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2016,337268
-Queensland,3,Total Agriculture,Use,Self-extracted,ML,2016,1244167
 Queensland,3,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,1244167
-Queensland,3,Coal mining,Use,Self-extracted,ML,2016,76148
-Queensland,3,Oil and gas extraction,Use,Self-extracted,ML,2016,54562
 Queensland,3,Total mining,Use,Self-extracted,ML,2016,220489
-Queensland,3,Manufacturing,Use,Self-extracted,ML,2016,75277
-Queensland,3,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2016,2199580
-Queensland,3,Total Industry,Use,Self-extracted,ML,2016,4352351
 Queensland,3,Total,Use,Self-extracted,ML,2016,4352351
-Queensland,3,Mushroom and vegetable growing,Use,Distributed,ML,2016,54128
-Queensland,3,Fruit and tree nut growing,Use,Distributed,ML,2016,89376
-Queensland,3,Other crop growing,Use,Distributed,ML,2016,1011107
-Queensland,3,Poultry farming,Use,Distributed,ML,2016,5323
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2016,117501
-Queensland,3,Total Agriculture,Use,Distributed,ML,2016,1289730
-Queensland,3,Coal mining,Use,Distributed,ML,2016,19993
-Queensland,3,Oil and gas extraction,Use,Distributed,ML,2016,467
 Queensland,3,Total mining,Use,Distributed,ML,2016,39034
-Queensland,3,Manufacturing,Use,Distributed,ML,2016,74842
-Queensland,3,Total Industry,Use,Distributed,ML,2016,1864896
-Queensland,3,Households,Use,Distributed,ML,2016,337388
 Queensland,3,Total,Use,Distributed,ML,2016,2202284
-Queensland,3,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2016,364350
 Queensland,3,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,364350
-Queensland,3,Total Industry,Use,Wastewater,ML,2016,364350
 Queensland,3,Total,Use,Wastewater,ML,2016,364350
-Queensland,3,Nursery and floriculture production,Use,Reuse,ML,2016,184
-Queensland,3,Mushroom and vegetable growing,Use,Reuse,ML,2016,92
-Queensland,3,Fruit and tree nut growing,Use,Reuse,ML,2016,161
-Queensland,3,Other crop growing,Use,Reuse,ML,2016,9153
-Queensland,3,Dairy cattle farming,Use,Reuse,ML,2016,26
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2016,2019
-Queensland,3,Total Agriculture,Use,Reuse,ML,2016,11634
-Queensland,3,Other industries,Use,Reuse,ML,2016,23620
-Queensland,3,Total Industry,Use,Reuse,ML,2016,63083
 Queensland,3,Total,Use,Reuse,ML,2016,63241
-Queensland,3,Environment,Use,Return flows (a),ML,2016,1003938
 Queensland,3,Total,Use,Return flows (a),ML,2016,1003938
-South Australia,4,Environment,Supply,Self-extracted,ML,2016,802857
 South Australia,4,Total,Supply,Self-extracted,ML,2016,802857
-South Australia,4,Coal mining,Supply,Distributed,ML,2016,1
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2016,445154
-South Australia,4,Total Industry,Supply,Distributed,ML,2016,445640
 South Australia,4,Total,Supply,Distributed,ML,2016,445640
 South Australia,4,Total,Supply,Wastewater,ML,2016,131884
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2016,33275
 South Australia,4,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2016,33275
-South Australia,4,Total Industry,Supply,Reuse,ML,2016,35561
 South Australia,4,Total,Supply,Reuse,ML,2016,35561
-South Australia,4,Coal mining,Supply,Return flows (a),ML,2016,74
-South Australia,4,Oil and gas extraction,Supply,Return flows (a),ML,2016,6878
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2016,105526
 South Australia,4,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,105526
-South Australia,4,Total Industry,Supply,Return flows (a),ML,2016,122291
 South Australia,4,Total,Supply,Return flows (a),ML,2016,122291
-South Australia,4,Fruit and tree nut growing,Use,Self-extracted,ML,2016,45662
-South Australia,4,Other crop growing,Use,Self-extracted,ML,2016,11244
-South Australia,4,Dairy cattle farming,Use,Self-extracted,ML,2016,30569
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2016,156060
-South Australia,4,Total Agriculture,Use,Self-extracted,ML,2016,290186
 South Australia,4,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,290186
-South Australia,4,Manufacturing,Use,Self-extracted,ML,2016,22512
-South Australia,4,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2016,445154
-South Australia,4,Other industries,Use,Self-extracted,ML,2016,5382
-South Australia,4,Total Industry,Use,Self-extracted,ML,2016,802857
 South Australia,4,Total,Use,Self-extracted,ML,2016,802857
-South Australia,4,Fruit and tree nut growing,Use,Distributed,ML,2016,188999
-South Australia,4,Other crop growing,Use,Distributed,ML,2016,3410
-South Australia,4,Dairy cattle farming,Use,Distributed,ML,2016,17546
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2016,31681
-South Australia,4,Total Agriculture,Use,Distributed,ML,2016,254964
-South Australia,4,Manufacturing,Use,Distributed,ML,2016,12897
-South Australia,4,Electricity and gas supply,Use,Distributed,ML,2016,347
-South Australia,4,"Water supply, sewerage and drainage services",Use,Distributed,ML,2016,26349
-South Australia,4,Other industries,Use,Distributed,ML,2016,31913
-South Australia,4,Total Industry,Use,Distributed,ML,2016,330190
-South Australia,4,Households,Use,Distributed,ML,2016,115451
 South Australia,4,Total,Use,Distributed,ML,2016,445640
-South Australia,4,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2016,131884
 South Australia,4,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,131884
-South Australia,4,Total Industry,Use,Wastewater,ML,2016,131884
 South Australia,4,Total,Use,Wastewater,ML,2016,131884
-South Australia,4,Nursery and floriculture production,Use,Reuse,ML,2016,379
-South Australia,4,Mushroom and vegetable growing,Use,Reuse,ML,2016,6979
-South Australia,4,Fruit and tree nut growing,Use,Reuse,ML,2016,7667
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2016,104
-South Australia,4,Total Agriculture,Use,Reuse,ML,2016,15890
 South Australia,4,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2016,15890
-South Australia,4,Manufacturing,Use,Reuse,ML,2016,518
-South Australia,4,"Water supply, sewerage and drainage services",Use,Reuse,ML,2016,11995
 South Australia,4,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2016,11995
-South Australia,4,Total Industry,Use,Reuse,ML,2016,35328
-South Australia,4,Households,Use,Reuse,ML,2016,233
 South Australia,4,Total,Use,Reuse,ML,2016,35561
-South Australia,4,Environment,Use,Return flows (a),ML,2016,122291
 South Australia,4,Total,Use,Return flows (a),ML,2016,122291
-Western Australia,5,Environment,Supply,Self-extracted,ML,2016,3494080
 Western Australia,5,Total,Supply,Self-extracted,ML,2016,3494080
-Western Australia,5,Coal mining,Supply,Distributed,ML,2016,94
 Western Australia,5,Total mining,Supply,Distributed,ML,2016,9685
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2016,599890
-Western Australia,5,Total Industry,Supply,Distributed,ML,2016,609620
 Western Australia,5,Total,Supply,Distributed,ML,2016,609620
 Western Australia,5,Total,Supply,Wastewater,ML,2016,167658
 Western Australia,5,Total mining,Supply,Reuse,ML,2016,19828
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2016,23023
-Western Australia,5,Total Industry,Supply,Reuse,ML,2016,43237
 Western Australia,5,Total,Supply,Reuse,ML,2016,43237
-Western Australia,5,Coal mining,Supply,Return flows (a),ML,2016,8147
-Western Australia,5,Oil and gas extraction,Supply,Return flows (a),ML,2016,13886
-Western Australia,5,Electricity and gas supply,Supply,Return flows (a),ML,2016,1909026
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2016,203901
 Western Australia,5,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,2112941
-Western Australia,5,Total Industry,Supply,Return flows (a),ML,2016,2369440
 Western Australia,5,Total,Supply,Return flows (a),ML,2016,2369440
-Western Australia,5,Mushroom and vegetable growing,Use,Self-extracted,ML,2016,44893
-Western Australia,5,Fruit and tree nut growing,Use,Self-extracted,ML,2016,39385
-Western Australia,5,Other crop growing,Use,Self-extracted,ML,2016,4050
-Western Australia,5,Dairy cattle farming,Use,Self-extracted,ML,2016,11616
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2016,91284
-Western Australia,5,Total Agriculture,Use,Self-extracted,ML,2016,202031
 Western Australia,5,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,202031
-Western Australia,5,Oil and gas extraction,Use,Self-extracted,ML,2016,37428
 Western Australia,5,Total mining,Use,Self-extracted,ML,2016,691601
-Western Australia,5,Manufacturing,Use,Self-extracted,ML,2016,56845
-Western Australia,5,Electricity and gas supply,Use,Self-extracted,ML,2016,1923624
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2016,599890
-Western Australia,5,Total Industry,Use,Self-extracted,ML,2016,3494080
 Western Australia,5,Total,Use,Self-extracted,ML,2016,3494080
-Western Australia,5,Nursery and floriculture production,Use,Distributed,ML,2016,1059
-Western Australia,5,Fruit and tree nut growing,Use,Distributed,ML,2016,3588
-Western Australia,5,Dairy cattle farming,Use,Distributed,ML,2016,25253
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2016,59993
-Western Australia,5,Total Agriculture,Use,Distributed,ML,2016,117816
-Western Australia,5,Coal mining,Use,Distributed,ML,2016,9
-Western Australia,5,Oil and gas extraction,Use,Distributed,ML,2016,874
 Western Australia,5,Total mining,Use,Distributed,ML,2016,18461
-Western Australia,5,Manufacturing,Use,Distributed,ML,2016,5368
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Distributed,ML,2016,108893
-Western Australia,5,Other industries,Use,Distributed,ML,2016,76204
-Western Australia,5,Total Industry,Use,Distributed,ML,2016,376177
-Western Australia,5,Households,Use,Distributed,ML,2016,233443
 Western Australia,5,Total,Use,Distributed,ML,2016,609620
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2016,167658
 Western Australia,5,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,167658
-Western Australia,5,Total Industry,Use,Wastewater,ML,2016,167658
 Western Australia,5,Total,Use,Wastewater,ML,2016,167658
-Western Australia,5,Nursery and floriculture production,Use,Reuse,ML,2016,121
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2016,41
-Western Australia,5,Total Agriculture,Use,Reuse,ML,2016,357
-Western Australia,5,Manufacturing,Use,Reuse,ML,2016,6954
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Reuse,ML,2016,5512
 Western Australia,5,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2016,5512
-Western Australia,5,Total Industry,Use,Reuse,ML,2016,43237
 Western Australia,5,Total,Use,Reuse,ML,2016,43237
-Western Australia,5,Environment,Use,Return flows (a),ML,2016,2369440
 Western Australia,5,Total,Use,Return flows (a),ML,2016,2369440
-Tasmania,6,Environment,Supply,Self-extracted,ML,2016,36358527
 Tasmania,6,Total,Supply,Self-extracted,ML,2016,36358527
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2016,160187
-Tasmania,6,Total Industry,Supply,Distributed,ML,2016,167661
 Tasmania,6,Total,Supply,Distributed,ML,2016,167661
 Tasmania,6,Total,Supply,Wastewater,ML,2016,56212
-Tasmania,6,Manufacturing,Supply,Reuse,ML,2016,11
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2016,4910
-Tasmania,6,Total Industry,Supply,Reuse,ML,2016,5920
 Tasmania,6,Total,Supply,Reuse,ML,2016,5920
-Tasmania,6,Coal mining,Supply,Return flows (a),ML,2016,46
-Tasmania,6,Electricity and gas supply,Supply,Return flows (a),ML,2016,35980777
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2016,51302
 Tasmania,6,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2016,36032079
-Tasmania,6,Total Industry,Supply,Return flows (a),ML,2016,36066775
 Tasmania,6,Total,Supply,Return flows (a),ML,2016,36066775
-Tasmania,6,Mushroom and vegetable growing,Use,Self-extracted,ML,2016,21763
-Tasmania,6,Fruit and tree nut growing,Use,Self-extracted,ML,2016,6376
-Tasmania,6,Other crop growing,Use,Self-extracted,ML,2016,1775
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2016,57809
-Tasmania,6,Total Agriculture,Use,Self-extracted,ML,2016,158908
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,158908
-Tasmania,6,Manufacturing,Use,Self-extracted,ML,2016,31775
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2016,160187
 Tasmania,6,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2016,36140969
-Tasmania,6,Total Industry,Use,Self-extracted,ML,2016,36358527
 Tasmania,6,Total,Use,Self-extracted,ML,2016,36358527
-Tasmania,6,Fruit and tree nut growing,Use,Distributed,ML,2016,2667
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2016,42824
-Tasmania,6,Total Agriculture,Use,Distributed,ML,2016,85347
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2016,85347
-Tasmania,6,Manufacturing,Use,Distributed,ML,2016,15820
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Distributed,ML,2016,23716
-Tasmania,6,Total Industry,Use,Distributed,ML,2016,132902
-Tasmania,6,Households,Use,Distributed,ML,2016,34759
 Tasmania,6,Total,Use,Distributed,ML,2016,167661
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2016,56212
 Tasmania,6,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,56212
-Tasmania,6,Total Industry,Use,Wastewater,ML,2016,56212
 Tasmania,6,Total,Use,Wastewater,ML,2016,56212
-Tasmania,6,Fruit and tree nut growing,Use,Reuse,ML,2016,8
-Tasmania,6,Dairy cattle farming,Use,Reuse,ML,2016,1580
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2016,1972
-Tasmania,6,Total Agriculture,Use,Reuse,ML,2016,4100
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2016,4100
-Tasmania,6,Total Industry,Use,Reuse,ML,2016,5920
 Tasmania,6,Total,Use,Reuse,ML,2016,5920
-Tasmania,6,Environment,Use,Return flows (a),ML,2016,36066775
 Tasmania,6,Total,Use,Return flows (a),ML,2016,36066775
-Northern Territory,7,Environment,Supply,Self-extracted,ML,2016,183295
 Northern Territory,7,Total,Supply,Self-extracted,ML,2016,183295
 Northern Territory,7,Total mining,Supply,Distributed,ML,2016,357
-Northern Territory,7,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2016,54902
-Northern Territory,7,Total Industry,Supply,Distributed,ML,2016,55261
 Northern Territory,7,Total,Supply,Distributed,ML,2016,55261
 Northern Territory,7,Total,Supply,Wastewater,ML,2016,25298
 Northern Territory,7,Total mining,Supply,Reuse,ML,2016,595
-Northern Territory,7,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2016,917
 Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2016,917
-Northern Territory,7,Total Industry,Supply,Reuse,ML,2016,1512
 Northern Territory,7,Total,Supply,Reuse,ML,2016,1512
 Northern Territory,7,Total mining,Supply,Return flows (a),ML,2016,8328
-Northern Territory,7,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2016,3
-Northern Territory,7,Total Industry,Supply,Return flows (a),ML,2016,33083
 Northern Territory,7,Total,Supply,Return flows (a),ML,2016,33083
-Northern Territory,7,Fruit and tree nut growing,Use,Self-extracted,ML,2016,10852
-Northern Territory,7,Other crop growing,Use,Self-extracted,ML,2016,6
-Northern Territory,7,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2016,69991
-Northern Territory,7,Total Agriculture,Use,Self-extracted,ML,2016,89044
 Northern Territory,7,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,89044
 Northern Territory,7,Total mining,Use,Self-extracted,ML,2016,23966
-Northern Territory,7,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2016,54902
-Northern Territory,7,Total Industry,Use,Self-extracted,ML,2016,183295
 Northern Territory,7,Total,Use,Self-extracted,ML,2016,183295
-Northern Territory,7,Total Industry,Use,Distributed,ML,2016,30545
-Northern Territory,7,Households,Use,Distributed,ML,2016,24716
 Northern Territory,7,Total,Use,Distributed,ML,2016,55261
-Northern Territory,7,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2016,25298
 Northern Territory,7,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,25298
-Northern Territory,7,Total Industry,Use,Wastewater,ML,2016,25298
 Northern Territory,7,Total,Use,Wastewater,ML,2016,25298
-Northern Territory,7,Total Industry,Use,Reuse,ML,2016,1512
 Northern Territory,7,Total,Use,Reuse,ML,2016,1512
-Northern Territory,7,Environment,Use,Return flows (a),ML,2016,33083
 Northern Territory,7,Total,Use,Return flows (a),ML,2016,33083
-Australian Capital Territory,8,Environment,Supply,Self-extracted,ML,2016,44799
 Australian Capital Territory,8,Total,Supply,Self-extracted,ML,2016,44799
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2016,43700
-Australian Capital Territory,8,Total Industry,Supply,Distributed,ML,2016,43700
 Australian Capital Territory,8,Total,Supply,Distributed,ML,2016,43700
 Australian Capital Territory,8,Total,Supply,Wastewater,ML,2016,36494
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2016,3392
 Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2016,3392
-Australian Capital Territory,8,Total Industry,Supply,Reuse,ML,2016,3392
 Australian Capital Territory,8,Total,Supply,Reuse,ML,2016,3392
-Australian Capital Territory,8,Total Industry,Supply,Return flows (a),ML,2016,33102
 Australian Capital Territory,8,Total,Supply,Return flows (a),ML,2016,33102
-Australian Capital Territory,8,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2016,375
-Australian Capital Territory,8,Total Agriculture,Use,Self-extracted,ML,2016,387
 Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2016,387
 Australian Capital Territory,8,Total mining,Use,Self-extracted,ML,2016,110
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2016,43700
-Australian Capital Territory,8,Total Industry,Use,Self-extracted,ML,2016,44799
 Australian Capital Territory,8,Total,Use,Self-extracted,ML,2016,44799
-Australian Capital Territory,8,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2016,34
-Australian Capital Territory,8,Total Agriculture,Use,Distributed,ML,2016,82
 Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2016,82
-Australian Capital Territory,8,Total Industry,Use,Distributed,ML,2016,12700
-Australian Capital Territory,8,Households,Use,Distributed,ML,2016,31000
 Australian Capital Territory,8,Total,Use,Distributed,ML,2016,43700
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2016,36494
 Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2016,36494
-Australian Capital Territory,8,Total Industry,Use,Wastewater,ML,2016,36494
 Australian Capital Territory,8,Total,Use,Wastewater,ML,2016,36494
-Australian Capital Territory,8,Total Industry,Use,Reuse,ML,2016,3392
 Australian Capital Territory,8,Total,Use,Reuse,ML,2016,3392
-Australian Capital Territory,8,Environment,Use,Return flows (a),ML,2016,33102
 Australian Capital Territory,8,Total,Use,Return flows (a),ML,2016,33102
-Australia,0,Environment,Supply,Self-extracted,ML,2017,71171840
 Australia,0,Total,Supply,Self-extracted,ML,2017,71171840
-Australia,0,Metal ore mining,Supply,Distributed,ML,2017,12769
 Australia,0,Total mining,Supply,Distributed,ML,2017,14063
-Australia,0,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2017,12598201
 Australia,0,Total industry,Supply,Distributed,ML,2017,12624630
 Australia,0,Total,Supply,Distributed,ML,2017,12624630
 Australia,0,Total,Supply,Wastewater,ML,2017,1951554
-Australia,0,Coal mining,Supply,Reuse,ML,2017,5800
-Australia,0,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2017,276787
 Australia,0,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2017,277361
 Australia,0,Total industry,Supply,Reuse,ML,2017,318069
 Australia,0,Total,Supply,Reuse,ML,2017,318069
-Australia,0,Coal mining,Supply,Return flows (a),ML,2017,81228
-Australia,0,Oil and gas extraction,Supply,Return flows (a),ML,2017,47603
-Australia,0,Metal ore mining,Supply,Return flows (a),ML,2017,254918
 Australia,0,Total mining,Supply,Return flows (a),ML,2017,407997
-Australia,0,"Food, beverage and tobacco product manufacturing",Supply,Return flows (a),ML,2017,21932
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Supply,Return flows (a),ML,2017,237
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Supply,Return flows (a),ML,2017,16651
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Supply,Return flows (a),ML,2017,6346
-Australia,0,Furniture and other manufacturing,Supply,Return flows (a),ML,2017,7
 Australia,0,Total manufacturing,Supply,Return flows (a),ML,2017,75458
-Australia,0,Electricity and gas supply,Supply,Return flows (a),ML,2017,53583961
-Australia,0,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2017,1754416
-Australia,0,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2017,46
 Australia,0,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,55338423
 Australia,0,Total industry,Supply,Return flows (a),ML,2017,55821878
 Australia,0,Total,Supply,Return flows (a),ML,2017,55821878
-Australia,0,Fruit and Tree Nut Growing,Use,Self-extracted,ML,2017,232362
-Australia,0,Other Crop Growing,Use,Self-extracted,ML,2017,1250337
-Australia,0,Dairy cattle Farming,Use,Self-extracted,ML,2017,385511
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2017,1229272
 Australia,0,Total agriculture,Use,Self-extracted,ML,2017,3381388
 Australia,0,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,3381388
-Australia,0,Coal mining,Use,Self-extracted,ML,2017,182984
-Australia,0,Oil and gas extraction,Use,Self-extracted,ML,2017,128308
-Australia,0,Metal ore mining,Use,Self-extracted,ML,2017,737914
-Australia,0,Non-metallic mineral mining and quarrying,Use,Self-extracted,ML,2017,46994
-Australia,0,Exploration and other mining support services,Use,Self-extracted,ML,2017,8956
 Australia,0,Total mining,Use,Self-extracted,ML,2017,1105156
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Self-extracted,ML,2017,204237
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Self-extracted,ML,2017,143
-Australia,0,"Wood, pulp, paper and converted paper product manufacturing",Use,Self-extracted,ML,2017,30454
-Australia,0,"Petroleum, coal, basic chemical and chemical product manufacturing",Use,Self-extracted,ML,2017,16279
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Use,Self-extracted,ML,2017,19979
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Self-extracted,ML,2017,62455
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Self-extracted,ML,2017,265
-Australia,0,Furniture and other manufacturing,Use,Self-extracted,ML,2017,49
 Australia,0,Total manufacturing,Use,Self-extracted,ML,2017,333861
-Australia,0,Electricity and gas supply,Use,Self-extracted,ML,2017,53639849
-Australia,0,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2017,12598201
-Australia,0,"Waste collection, treatment and disposal services",Use,Self-extracted,ML,2017,580
 Australia,0,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2017,66238630
-Australia,0,Other industries,Use,Self-extracted,ML,2017,112805
 Australia,0,Total industry,Use,Self-extracted,ML,2017,71171840
 Australia,0,Total,Use,Self-extracted,ML,2017,71171840
-Australia,0,Fruit and Tree Nut Growing,Use,Distributed,ML,2017,1246035
-Australia,0,Other Crop Growing,Use,Distributed,ML,2017,2221356
-Australia,0,Dairy cattle Farming,Use,Distributed,ML,2017,1355498
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2017,2729784
 Australia,0,Total agriculture,Use,Distributed,ML,2017,7820362
 Australia,0,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2017,7875984
-Australia,0,Coal mining,Use,Distributed,ML,2017,30196
-Australia,0,Metal ore mining,Use,Distributed,ML,2017,62723
-Australia,0,Exploration and other mining support services,Use,Distributed,ML,2017,749
 Australia,0,Total mining,Use,Distributed,ML,2017,99135
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Distributed,ML,2017,123180
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Distributed,ML,2017,2711
-Australia,0,"Wood, pulp, paper and converted paper product manufacturing",Use,Distributed,ML,2017,30961
-Australia,0,Printing (including the reproduction of recorded media) manufacturing,Use,Distributed,ML,2017,947
-Australia,0,"Petroleum, coal, basic chemical and chemical product manufacturing",Use,Distributed,ML,2017,28166
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Use,Distributed,ML,2017,11190
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Distributed,ML,2017,37313
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Distributed,ML,2017,5904
-Australia,0,Furniture and other manufacturing,Use,Distributed,ML,2017,1106
 Australia,0,Total manufacturing,Use,Distributed,ML,2017,241479
-Australia,0,"Waste collection, treatment and disposal services",Use,Distributed,ML,2017,4217
 Australia,0,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2017,2051845
-Australia,0,Other industries,Use,Distributed,ML,2017,559684
 Australia,0,Total industry,Use,Distributed,ML,2017,10828129
-Australia,0,Households,Use,Distributed,ML,2017,1796502
 Australia,0,Total,Use,Distributed,ML,2017,12624630
-Australia,0,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2017,1951554
 Australia,0,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,1951554
 Australia,0,Total industry,Use,Wastewater,ML,2017,1951554
 Australia,0,Total,Use,Wastewater,ML,2017,1951554
-Australia,0,Fruit and Tree Nut Growing,Use,Reuse,ML,2017,10865
-Australia,0,Other Crop Growing,Use,Reuse,ML,2017,11860
-Australia,0,Dairy cattle Farming,Use,Reuse,ML,2017,13925
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2017,48406
 Australia,0,Total agriculture,Use,Reuse,ML,2017,103929
 Australia,0,Total mining,Use,Reuse,ML,2017,2479
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Reuse,ML,2017,2147
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Reuse,ML,2017,211
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Reuse,ML,2017,4795
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Reuse,ML,2017,108
 Australia,0,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2017,99642
 Australia,0,Total industry,Use,Reuse,ML,2017,312981
-Australia,0,Households,Use,Reuse,ML,2017,5088
 Australia,0,Total,Use,Reuse,ML,2017,318069
-Australia,0,Environment,Use,Return flows (a),ML,2017,55821878
 Australia,0,Total,Use,Return flows (a),ML,2017,55821878
-New South Wales,1,Environment,Supply,Self-extracted,ML,2017,16795564
 New South Wales,1,Total,Supply,Self-extracted,ML,2017,16795564
-New South Wales,1,Coal mining,Supply,Distributed,ML,2017,593
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2017,5717452
-New South Wales,1,Total Industry,Supply,Distributed,ML,2017,5721028
 New South Wales,1,Total,Supply,Distributed,ML,2017,5721028
 New South Wales,1,Total,Supply,Wastewater,ML,2017,664435
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2017,70230
-New South Wales,1,Total Industry,Supply,Reuse,ML,2017,74906
 New South Wales,1,Total,Supply,Reuse,ML,2017,74906
-New South Wales,1,Coal mining,Supply,Return flows (a),ML,2017,42096
-New South Wales,1,Electricity and gas supply,Supply,Return flows (a),ML,2017,9883132
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2017,600448
-New South Wales,1,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2017,14
 New South Wales,1,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,10483595
-New South Wales,1,Total Industry,Supply,Return flows (a),ML,2017,10550582
 New South Wales,1,Total,Supply,Return flows (a),ML,2017,10550582
-New South Wales,1,Fruit and tree nut growing,Use,Self-extracted,ML,2017,46416
-New South Wales,1,Other crop growing,Use,Self-extracted,ML,2017,492020
-New South Wales,1,Dairy cattle farming,Use,Self-extracted,ML,2017,34642
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2017,371764
-New South Wales,1,Total Agriculture,Use,Self-extracted,ML,2017,966336
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,966336
-New South Wales,1,Coal mining,Use,Self-extracted,ML,2017,94830
 New South Wales,1,Total mining,Use,Self-extracted,ML,2017,128915
-New South Wales,1,Manufacturing,Use,Self-extracted,ML,2017,41287
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2017,5717452
-New South Wales,1,Total Industry,Use,Self-extracted,ML,2017,16795564
 New South Wales,1,Total,Use,Self-extracted,ML,2017,16795564
-New South Wales,1,Fruit and tree nut growing,Use,Distributed,ML,2017,339961
-New South Wales,1,Other crop growing,Use,Distributed,ML,2017,1250374
-New South Wales,1,Dairy cattle farming,Use,Distributed,ML,2017,142725
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2017,2047725
-New South Wales,1,Total Agriculture,Use,Distributed,ML,2017,3871937
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2017,3871937
-New South Wales,1,Coal mining,Use,Distributed,ML,2017,12174
-New South Wales,1,Manufacturing,Use,Distributed,ML,2017,53742
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Distributed,ML,2017,932880
-New South Wales,1,"Waste collection, treatment and disposal services",Use,Distributed,ML,2017,2710
-New South Wales,1,Total Industry,Use,Distributed,ML,2017,5127027
-New South Wales,1,Households,Use,Distributed,ML,2017,594001
 New South Wales,1,Total,Use,Distributed,ML,2017,5721028
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2017,664435
 New South Wales,1,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,664435
-New South Wales,1,Total Industry,Use,Wastewater,ML,2017,664435
 New South Wales,1,Total,Use,Wastewater,ML,2017,664435
-New South Wales,1,Fruit and tree nut growing,Use,Reuse,ML,2017,1662
-New South Wales,1,Dairy cattle farming,Use,Reuse,ML,2017,4655
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2017,21168
-New South Wales,1,Total Agriculture,Use,Reuse,ML,2017,29517
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2017,29517
-New South Wales,1,Manufacturing,Use,Reuse,ML,2017,4305
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Reuse,ML,2017,22941
-New South Wales,1,Total Industry,Use,Reuse,ML,2017,71743
-New South Wales,1,Households,Use,Reuse,ML,2017,3163
 New South Wales,1,Total,Use,Reuse,ML,2017,74906
-New South Wales,1,Environment,Use,Return flows (a),ML,2017,10550582
 New South Wales,1,Total,Use,Return flows (a),ML,2017,10550582
-Victoria,2,Environment,Supply,Self-extracted,ML,2017,8194303
 Victoria,2,Total,Supply,Self-extracted,ML,2017,8194303
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2017,3277280
-Victoria,2,Total Industry,Supply,Distributed,ML,2017,3278967
 Victoria,2,Total,Supply,Distributed,ML,2017,3278967
 Victoria,2,Total,Supply,Wastewater,ML,2017,492191
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2017,94851
 Victoria,2,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2017,94900
-Victoria,2,Total Industry,Supply,Reuse,ML,2017,96522
 Victoria,2,Total,Supply,Reuse,ML,2017,96522
-Victoria,2,Oil and gas extraction,Supply,Return flows (a),ML,2017,4772
-Victoria,2,Electricity and gas supply,Supply,Return flows (a),ML,2017,4395853
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2017,392480
 Victoria,2,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,4788341
-Victoria,2,Total Industry,Supply,Return flows (a),ML,2017,4806613
 Victoria,2,Total,Supply,Return flows (a),ML,2017,4806613
-Victoria,2,Mushroom and vegetable growing,Use,Self-extracted,ML,2017,34447
-Victoria,2,Fruit and tree nut growing,Use,Self-extracted,ML,2017,14426
-Victoria,2,Other crop growing,Use,Self-extracted,ML,2017,3066
-Victoria,2,Dairy cattle farming,Use,Self-extracted,ML,2017,178691
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2017,140663
-Victoria,2,Total Agriculture,Use,Self-extracted,ML,2017,376065
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,376065
 Victoria,2,Total mining,Use,Self-extracted,ML,2017,21937
-Victoria,2,Manufacturing,Use,Self-extracted,ML,2017,86830
-Victoria,2,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2017,3277280
-Victoria,2,Total Industry,Use,Self-extracted,ML,2017,8194303
 Victoria,2,Total,Use,Self-extracted,ML,2017,8194303
-Victoria,2,Fruit and tree nut growing,Use,Distributed,ML,2017,556184
-Victoria,2,Other crop growing,Use,Distributed,ML,2017,331
-Victoria,2,Dairy cattle farming,Use,Distributed,ML,2017,1121453
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2017,445044
-Victoria,2,Total Agriculture,Use,Distributed,ML,2017,2186599
-Victoria,2,Aquaculture,Use,Distributed,ML,2017,96
-Victoria,2,Forestry and logging,Use,Distributed,ML,2017,18
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2017,2186713
-Victoria,2,Oil and gas extraction,Use,Distributed,ML,2017,90
-Victoria,2,Manufacturing,Use,Distributed,ML,2017,73549
-Victoria,2,Electricity and gas supply,Use,Distributed,ML,2017,30583
-Victoria,2,"Water supply, sewerage and drainage services",Use,Distributed,ML,2017,484755
-Victoria,2,"Waste collection, treatment and disposal services",Use,Distributed,ML,2017,290
 Victoria,2,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2017,515628
-Victoria,2,Total Industry,Use,Distributed,ML,2017,2881741
-Victoria,2,Households,Use,Distributed,ML,2017,397226
 Victoria,2,Total,Use,Distributed,ML,2017,3278967
-Victoria,2,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2017,492191
 Victoria,2,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,492191
-Victoria,2,Total Industry,Use,Wastewater,ML,2017,492191
 Victoria,2,Total,Use,Wastewater,ML,2017,492191
-Victoria,2,Nursery and floriculture production,Use,Reuse,ML,2017,1865
-Victoria,2,Fruit and tree nut growing,Use,Reuse,ML,2017,268
-Victoria,2,Dairy cattle farming,Use,Reuse,ML,2017,7988
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2017,16678
-Victoria,2,Total Agriculture,Use,Reuse,ML,2017,28999
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2017,28999
 Victoria,2,Total mining,Use,Reuse,ML,2017,621
-Victoria,2,Total Industry,Use,Reuse,ML,2017,94981
-Victoria,2,Households,Use,Reuse,ML,2017,1541
 Victoria,2,Total,Use,Reuse,ML,2017,96522
-Victoria,2,Environment,Use,Return flows (a),ML,2017,4806613
 Victoria,2,Total,Use,Return flows (a),ML,2017,4806613
-Queensland,3,Environment,Supply,Self-extracted,ML,2017,4468706
 Queensland,3,Total,Supply,Self-extracted,ML,2017,4468706
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2017,2172978
-Queensland,3,Total Industry,Supply,Distributed,ML,2017,2175970
 Queensland,3,Total,Supply,Distributed,ML,2017,2175970
 Queensland,3,Total,Supply,Wastewater,ML,2017,384520
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2017,45867
-Queensland,3,Total Industry,Supply,Reuse,ML,2017,56731
 Queensland,3,Total,Supply,Reuse,ML,2017,56731
-Queensland,3,Coal mining,Supply,Return flows (a),ML,2017,31031
-Queensland,3,Oil and gas extraction,Supply,Return flows (a),ML,2017,21393
-Queensland,3,Electricity and gas supply,Supply,Return flows (a),ML,2017,663299
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2017,338657
 Queensland,3,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,1001967
-Queensland,3,Total Industry,Supply,Return flows (a),ML,2017,1097467
 Queensland,3,Total,Supply,Return flows (a),ML,2017,1097467
-Queensland,3,Mushroom and vegetable growing,Use,Self-extracted,ML,2017,82896
-Queensland,3,Fruit and tree nut growing,Use,Self-extracted,ML,2017,66712
-Queensland,3,Other crop growing,Use,Self-extracted,ML,2017,740559
-Queensland,3,Poultry farming,Use,Self-extracted,ML,2017,4530
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2017,366372
-Queensland,3,Total Agriculture,Use,Self-extracted,ML,2017,1317648
 Queensland,3,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,1317648
-Queensland,3,Coal mining,Use,Self-extracted,ML,2017,69904
-Queensland,3,Oil and gas extraction,Use,Self-extracted,ML,2017,57662
 Queensland,3,Total mining,Use,Self-extracted,ML,2017,214401
-Queensland,3,Manufacturing,Use,Self-extracted,ML,2017,81362
-Queensland,3,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2017,2172978
-Queensland,3,Total Industry,Use,Self-extracted,ML,2017,4468706
 Queensland,3,Total,Use,Self-extracted,ML,2017,4468706
-Queensland,3,Mushroom and vegetable growing,Use,Distributed,ML,2017,52287
-Queensland,3,Fruit and tree nut growing,Use,Distributed,ML,2017,100079
-Queensland,3,Other crop growing,Use,Distributed,ML,2017,946057
-Queensland,3,Poultry farming,Use,Distributed,ML,2017,2302
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2017,121741
-Queensland,3,Total Agriculture,Use,Distributed,ML,2017,1239407
-Queensland,3,Coal mining,Use,Distributed,ML,2017,18016
-Queensland,3,Oil and gas extraction,Use,Distributed,ML,2017,375
 Queensland,3,Total mining,Use,Distributed,ML,2017,46272
-Queensland,3,Manufacturing,Use,Distributed,ML,2017,82013
-Queensland,3,Total Industry,Use,Distributed,ML,2017,1836760
-Queensland,3,Households,Use,Distributed,ML,2017,339210
 Queensland,3,Total,Use,Distributed,ML,2017,2175970
-Queensland,3,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2017,384520
 Queensland,3,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,384520
-Queensland,3,Total Industry,Use,Wastewater,ML,2017,384520
 Queensland,3,Total,Use,Wastewater,ML,2017,384520
-Queensland,3,Nursery and floriculture production,Use,Reuse,ML,2017,48
-Queensland,3,Mushroom and vegetable growing,Use,Reuse,ML,2017,50
-Queensland,3,Fruit and tree nut growing,Use,Reuse,ML,2017,316
-Queensland,3,Other crop growing,Use,Reuse,ML,2017,10472
-Queensland,3,Dairy cattle farming,Use,Reuse,ML,2017,56
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2017,2631
-Queensland,3,Total Agriculture,Use,Reuse,ML,2017,13573
-Queensland,3,Other industries,Use,Reuse,ML,2017,22355
-Queensland,3,Total Industry,Use,Reuse,ML,2017,56731
 Queensland,3,Total,Use,Reuse,ML,2017,56731
-Queensland,3,Environment,Use,Return flows (a),ML,2017,1097467
 Queensland,3,Total,Use,Return flows (a),ML,2017,1097467
-South Australia,4,Environment,Supply,Self-extracted,ML,2017,864161
 South Australia,4,Total,Supply,Self-extracted,ML,2017,864161
-South Australia,4,Coal mining,Supply,Distributed,ML,2017,1
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2017,498795
-South Australia,4,Total Industry,Supply,Distributed,ML,2017,499287
 South Australia,4,Total,Supply,Distributed,ML,2017,499287
 South Australia,4,Total,Supply,Wastewater,ML,2017,133610
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2017,36720
 South Australia,4,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2017,36720
-South Australia,4,Total Industry,Supply,Reuse,ML,2017,39030
 South Australia,4,Total,Supply,Reuse,ML,2017,39030
-South Australia,4,Coal mining,Supply,Return flows (a),ML,2017,66
-South Australia,4,Oil and gas extraction,Supply,Return flows (a),ML,2017,7085
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2017,104422
 South Australia,4,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,104422
-South Australia,4,Total Industry,Supply,Return flows (a),ML,2017,120959
 South Australia,4,Total,Supply,Return flows (a),ML,2017,120959
-South Australia,4,Fruit and tree nut growing,Use,Self-extracted,ML,2017,60916
-South Australia,4,Other crop growing,Use,Self-extracted,ML,2017,8333
-South Australia,4,Dairy cattle farming,Use,Self-extracted,ML,2017,47176
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2017,132896
-South Australia,4,Total Agriculture,Use,Self-extracted,ML,2017,296738
 South Australia,4,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,296738
-South Australia,4,Manufacturing,Use,Self-extracted,ML,2017,24434
-South Australia,4,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2017,498795
-South Australia,4,Other industries,Use,Self-extracted,ML,2017,5881
-South Australia,4,Total Industry,Use,Self-extracted,ML,2017,864161
 South Australia,4,Total,Use,Self-extracted,ML,2017,864161
-South Australia,4,Fruit and tree nut growing,Use,Distributed,ML,2017,235120
-South Australia,4,Other crop growing,Use,Distributed,ML,2017,29
-South Australia,4,Dairy cattle farming,Use,Distributed,ML,2017,10841
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2017,25910
-South Australia,4,Total Agriculture,Use,Distributed,ML,2017,289461
-South Australia,4,Manufacturing,Use,Distributed,ML,2017,13533
-South Australia,4,Electricity and gas supply,Use,Distributed,ML,2017,196
-South Australia,4,"Water supply, sewerage and drainage services",Use,Distributed,ML,2017,20709
-South Australia,4,Other industries,Use,Distributed,ML,2017,34850
-South Australia,4,Total Industry,Use,Distributed,ML,2017,362977
-South Australia,4,Households,Use,Distributed,ML,2017,136310
 South Australia,4,Total,Use,Distributed,ML,2017,499287
-South Australia,4,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2017,133610
 South Australia,4,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,133610
-South Australia,4,Total Industry,Use,Wastewater,ML,2017,133610
 South Australia,4,Total,Use,Wastewater,ML,2017,133610
-South Australia,4,Nursery and floriculture production,Use,Reuse,ML,2017,875
-South Australia,4,Mushroom and vegetable growing,Use,Reuse,ML,2017,10950
-South Australia,4,Fruit and tree nut growing,Use,Reuse,ML,2017,8594
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2017,4800
-South Australia,4,Total Agriculture,Use,Reuse,ML,2017,26652
 South Australia,4,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2017,26652
-South Australia,4,Manufacturing,Use,Reuse,ML,2017,486
-South Australia,4,"Water supply, sewerage and drainage services",Use,Reuse,ML,2017,3462
 South Australia,4,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2017,3462
-South Australia,4,Total Industry,Use,Reuse,ML,2017,38646
-South Australia,4,Households,Use,Reuse,ML,2017,384
 South Australia,4,Total,Use,Reuse,ML,2017,39030
-South Australia,4,Environment,Use,Return flows (a),ML,2017,120959
 South Australia,4,Total,Use,Return flows (a),ML,2017,120959
-Western Australia,5,Environment,Supply,Self-extracted,ML,2017,3553488
 Western Australia,5,Total,Supply,Self-extracted,ML,2017,3553488
-Western Australia,5,Coal mining,Supply,Distributed,ML,2017,100
 Western Australia,5,Total mining,Supply,Distributed,ML,2017,9564
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2017,645679
-Western Australia,5,Total Industry,Supply,Distributed,ML,2017,655296
 Western Australia,5,Total,Supply,Distributed,ML,2017,655296
 Western Australia,5,Total,Supply,Wastewater,ML,2017,168374
 Western Australia,5,Total mining,Supply,Reuse,ML,2017,19678
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2017,19058
-Western Australia,5,Total Industry,Supply,Reuse,ML,2017,39131
 Western Australia,5,Total,Supply,Reuse,ML,2017,39131
-Western Australia,5,Coal mining,Supply,Return flows (a),ML,2017,7992
-Western Australia,5,Oil and gas extraction,Supply,Return flows (a),ML,2017,14272
-Western Australia,5,Electricity and gas supply,Supply,Return flows (a),ML,2017,1982333
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2017,220046
 Western Australia,5,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,2202389
-Western Australia,5,Total Industry,Supply,Return flows (a),ML,2017,2445793
 Western Australia,5,Total,Supply,Return flows (a),ML,2017,2445793
-Western Australia,5,Mushroom and vegetable growing,Use,Self-extracted,ML,2017,44658
-Western Australia,5,Fruit and tree nut growing,Use,Self-extracted,ML,2017,30350
-Western Australia,5,Other crop growing,Use,Self-extracted,ML,2017,2040
-Western Australia,5,Dairy cattle farming,Use,Self-extracted,ML,2017,12042
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2017,76681
-Western Australia,5,Total Agriculture,Use,Self-extracted,ML,2017,172667
 Western Australia,5,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,172667
-Western Australia,5,Oil and gas extraction,Use,Self-extracted,ML,2017,38468
 Western Australia,5,Total mining,Use,Self-extracted,ML,2017,653186
-Western Australia,5,Manufacturing,Use,Self-extracted,ML,2017,68042
-Western Australia,5,Electricity and gas supply,Use,Self-extracted,ML,2017,1995056
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2017,645679
-Western Australia,5,Total Industry,Use,Self-extracted,ML,2017,3553488
 Western Australia,5,Total,Use,Self-extracted,ML,2017,3553488
-Western Australia,5,Nursery and floriculture production,Use,Distributed,ML,2017,1133
-Western Australia,5,Fruit and tree nut growing,Use,Distributed,ML,2017,11584
-Western Australia,5,Dairy cattle farming,Use,Distributed,ML,2017,36188
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2017,40670
-Western Australia,5,Total Agriculture,Use,Distributed,ML,2017,134011
-Western Australia,5,Coal mining,Use,Distributed,ML,2017,5
-Western Australia,5,Oil and gas extraction,Use,Distributed,ML,2017,473
 Western Australia,5,Total mining,Use,Distributed,ML,2017,18040
-Western Australia,5,Manufacturing,Use,Distributed,ML,2017,8153
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Distributed,ML,2017,133641
-Western Australia,5,Other industries,Use,Distributed,ML,2017,71710
-Western Australia,5,Total Industry,Use,Distributed,ML,2017,421243
-Western Australia,5,Households,Use,Distributed,ML,2017,234053
 Western Australia,5,Total,Use,Distributed,ML,2017,655296
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2017,168374
 Western Australia,5,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,168374
-Western Australia,5,Total Industry,Use,Wastewater,ML,2017,168374
 Western Australia,5,Total,Use,Wastewater,ML,2017,168374
-Western Australia,5,Nursery and floriculture production,Use,Reuse,ML,2017,18
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2017,516
-Western Australia,5,Total Agriculture,Use,Reuse,ML,2017,534
-Western Australia,5,Manufacturing,Use,Reuse,ML,2017,4548
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Reuse,ML,2017,3825
 Western Australia,5,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2017,3825
-Western Australia,5,Total Industry,Use,Reuse,ML,2017,39131
 Western Australia,5,Total,Use,Reuse,ML,2017,39131
-Western Australia,5,Environment,Use,Return flows (a),ML,2017,2445793
 Western Australia,5,Total,Use,Return flows (a),ML,2017,2445793
-Tasmania,6,Environment,Supply,Self-extracted,ML,2017,37074826
 Tasmania,6,Total,Supply,Self-extracted,ML,2017,37074826
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2017,183588
-Tasmania,6,Total Industry,Supply,Distributed,ML,2017,191307
 Tasmania,6,Total,Supply,Distributed,ML,2017,191307
 Tasmania,6,Total,Supply,Wastewater,ML,2017,51382
-Tasmania,6,Manufacturing,Supply,Reuse,ML,2017,10
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2017,5709
-Tasmania,6,Total Industry,Supply,Reuse,ML,2017,6823
 Tasmania,6,Total,Supply,Reuse,ML,2017,6823
-Tasmania,6,Coal mining,Supply,Return flows (a),ML,2017,44
-Tasmania,6,Electricity and gas supply,Supply,Return flows (a),ML,2017,36658974
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2017,45673
 Tasmania,6,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2017,36704648
-Tasmania,6,Total Industry,Supply,Return flows (a),ML,2017,36739767
 Tasmania,6,Total,Supply,Return flows (a),ML,2017,36739767
-Tasmania,6,Mushroom and vegetable growing,Use,Self-extracted,ML,2017,23835
-Tasmania,6,Fruit and tree nut growing,Use,Self-extracted,ML,2017,4012
-Tasmania,6,Other crop growing,Use,Self-extracted,ML,2017,4183
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2017,76048
-Tasmania,6,Total Agriculture,Use,Self-extracted,ML,2017,170821
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,170821
-Tasmania,6,Manufacturing,Use,Self-extracted,ML,2017,31825
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2017,183588
 Tasmania,6,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2017,36842573
-Tasmania,6,Total Industry,Use,Self-extracted,ML,2017,37074826
 Tasmania,6,Total,Use,Self-extracted,ML,2017,37074826
-Tasmania,6,Fruit and tree nut growing,Use,Distributed,ML,2017,3107
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2017,48682
-Tasmania,6,Total Agriculture,Use,Distributed,ML,2017,98842
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2017,98905
-Tasmania,6,Manufacturing,Use,Distributed,ML,2017,10489
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Distributed,ML,2017,25411
-Tasmania,6,Total Industry,Use,Distributed,ML,2017,153695
-Tasmania,6,Households,Use,Distributed,ML,2017,37612
 Tasmania,6,Total,Use,Distributed,ML,2017,191307
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2017,51382
 Tasmania,6,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,51382
-Tasmania,6,Total Industry,Use,Wastewater,ML,2017,51382
 Tasmania,6,Total,Use,Wastewater,ML,2017,51382
-Tasmania,6,Fruit and tree nut growing,Use,Reuse,ML,2017,25
-Tasmania,6,Dairy cattle farming,Use,Reuse,ML,2017,1178
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2017,2613
-Tasmania,6,Total Agriculture,Use,Reuse,ML,2017,4654
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2017,4855
-Tasmania,6,Total Industry,Use,Reuse,ML,2017,6823
 Tasmania,6,Total,Use,Reuse,ML,2017,6823
-Tasmania,6,Environment,Use,Return flows (a),ML,2017,36739767
 Tasmania,6,Total,Use,Return flows (a),ML,2017,36739767
-Northern Territory,7,Environment,Supply,Self-extracted,ML,2017,174905
 Northern Territory,7,Total,Supply,Self-extracted,ML,2017,174905
 Northern Territory,7,Total mining,Supply,Distributed,ML,2017,345
-Northern Territory,7,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2017,57502
-Northern Territory,7,Total Industry,Supply,Distributed,ML,2017,57849
 Northern Territory,7,Total,Supply,Distributed,ML,2017,57849
 Northern Territory,7,Total,Supply,Wastewater,ML,2017,23691
 Northern Territory,7,Total mining,Supply,Reuse,ML,2017,574
-Northern Territory,7,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2017,1220
 Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2017,1220
-Northern Territory,7,Total Industry,Supply,Reuse,ML,2017,1794
 Northern Territory,7,Total,Supply,Reuse,ML,2017,1794
 Northern Territory,7,Total mining,Supply,Return flows (a),ML,2017,7626
-Northern Territory,7,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2017,2
-Northern Territory,7,Total Industry,Supply,Return flows (a),ML,2017,30479
 Northern Territory,7,Total,Supply,Return flows (a),ML,2017,30479
-Northern Territory,7,Fruit and tree nut growing,Use,Self-extracted,ML,2017,9501
-Northern Territory,7,Other crop growing,Use,Self-extracted,ML,2017,136
-Northern Territory,7,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2017,64689
-Northern Territory,7,Total Agriculture,Use,Self-extracted,ML,2017,80926
 Northern Territory,7,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,80926
 Northern Territory,7,Total mining,Use,Self-extracted,ML,2017,21941
-Northern Territory,7,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2017,57502
-Northern Territory,7,Total Industry,Use,Self-extracted,ML,2017,174905
 Northern Territory,7,Total,Use,Self-extracted,ML,2017,174905
-Northern Territory,7,Total Industry,Use,Distributed,ML,2017,32095
-Northern Territory,7,Households,Use,Distributed,ML,2017,25753
 Northern Territory,7,Total,Use,Distributed,ML,2017,57849
-Northern Territory,7,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2017,23691
 Northern Territory,7,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,23691
-Northern Territory,7,Total Industry,Use,Wastewater,ML,2017,23691
 Northern Territory,7,Total,Use,Wastewater,ML,2017,23691
-Northern Territory,7,Total Industry,Use,Reuse,ML,2017,1794
 Northern Territory,7,Total,Use,Reuse,ML,2017,1794
-Northern Territory,7,Environment,Use,Return flows (a),ML,2017,30479
 Northern Territory,7,Total,Use,Return flows (a),ML,2017,30479
-Australian Capital Territory,8,Environment,Supply,Self-extracted,ML,2017,45888
 Australian Capital Territory,8,Total,Supply,Self-extracted,ML,2017,45888
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2017,44927
-Australian Capital Territory,8,Total Industry,Supply,Distributed,ML,2017,44927
 Australian Capital Territory,8,Total,Supply,Distributed,ML,2017,44927
 Australian Capital Territory,8,Total,Supply,Wastewater,ML,2017,33351
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2017,3132
 Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2017,3132
-Australian Capital Territory,8,Total Industry,Supply,Reuse,ML,2017,3132
 Australian Capital Territory,8,Total,Supply,Reuse,ML,2017,3132
-Australian Capital Territory,8,Total Industry,Supply,Return flows (a),ML,2017,30219
 Australian Capital Territory,8,Total,Supply,Return flows (a),ML,2017,30219
-Australian Capital Territory,8,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2017,158
-Australian Capital Territory,8,Total Agriculture,Use,Self-extracted,ML,2017,187
 Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2017,187
 Australian Capital Territory,8,Total mining,Use,Self-extracted,ML,2017,106
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2017,44927
-Australian Capital Territory,8,Total Industry,Use,Self-extracted,ML,2017,45888
 Australian Capital Territory,8,Total,Use,Self-extracted,ML,2017,45888
-Australian Capital Territory,8,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2017,13
-Australian Capital Territory,8,Total Agriculture,Use,Distributed,ML,2017,104
 Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2017,104
-Australian Capital Territory,8,Total Industry,Use,Distributed,ML,2017,12590
-Australian Capital Territory,8,Households,Use,Distributed,ML,2017,32337
 Australian Capital Territory,8,Total,Use,Distributed,ML,2017,44927
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2017,33351
 Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2017,33351
-Australian Capital Territory,8,Total Industry,Use,Wastewater,ML,2017,33351
 Australian Capital Territory,8,Total,Use,Wastewater,ML,2017,33351
-Australian Capital Territory,8,Total Industry,Use,Reuse,ML,2017,3132
 Australian Capital Territory,8,Total,Use,Reuse,ML,2017,3132
-Australian Capital Territory,8,Environment,Use,Return flows (a),ML,2017,30219
 Australian Capital Territory,8,Total,Use,Return flows (a),ML,2017,30219
-Australia,0,Environment,Supply,Self-extracted,ML,2018,65967787
 Australia,0,Total,Supply,Self-extracted,ML,2018,65967787
-Australia,0,Metal ore mining,Supply,Distributed,ML,2018,13546
 Australia,0,Total mining,Supply,Distributed,ML,2018,14919
-Australia,0,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2018,9936049
 Australia,0,Total industry,Supply,Distributed,ML,2018,9963338
 Australia,0,Total,Supply,Distributed,ML,2018,9963338
 Australia,0,Total,Supply,Wastewater,ML,2018,1993495
-Australia,0,Coal mining,Supply,Reuse,ML,2018,6153
-Australia,0,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2018,280817
 Australia,0,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2018,281393
 Australia,0,Total industry,Supply,Reuse,ML,2018,324425
 Australia,0,Total,Supply,Reuse,ML,2018,324425
-Australia,0,Coal mining,Supply,Return flows (a),ML,2018,79042
-Australia,0,Oil and gas extraction,Supply,Return flows (a),ML,2018,45702
-Australia,0,Metal ore mining,Supply,Return flows (a),ML,2018,244835
 Australia,0,Total mining,Supply,Return flows (a),ML,2018,396196
-Australia,0,"Food, beverage and tobacco product manufacturing",Supply,Return flows (a),ML,2018,25371
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Supply,Return flows (a),ML,2018,232
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Supply,Return flows (a),ML,2018,16558
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Supply,Return flows (a),ML,2018,6485
-Australia,0,Furniture and other manufacturing,Supply,Return flows (a),ML,2018,8
 Australia,0,Total manufacturing,Supply,Return flows (a),ML,2018,79262
-Australia,0,Electricity and gas supply,Supply,Return flows (a),ML,2018,51314206
-Australia,0,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2018,1738536
-Australia,0,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2018,47
 Australia,0,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,53052788
 Australia,0,Total industry,Supply,Return flows (a),ML,2018,53528246
 Australia,0,Total,Supply,Return flows (a),ML,2018,53528246
-Australia,0,Fruit and Tree Nut Growing,Use,Self-extracted,ML,2018,257608
-Australia,0,Other Crop Growing,Use,Self-extracted,ML,2018,896025
-Australia,0,Dairy cattle Farming,Use,Self-extracted,ML,2018,376510
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2018,1337059
 Australia,0,Total agriculture,Use,Self-extracted,ML,2018,3113376
 Australia,0,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,3113376
-Australia,0,Coal mining,Use,Self-extracted,ML,2018,178058
-Australia,0,Oil and gas extraction,Use,Self-extracted,ML,2018,123184
-Australia,0,Metal ore mining,Use,Self-extracted,ML,2018,708726
-Australia,0,Non-metallic mineral mining and quarrying,Use,Self-extracted,ML,2018,52093
-Australia,0,Exploration and other mining support services,Use,Self-extracted,ML,2018,8297
 Australia,0,Total mining,Use,Self-extracted,ML,2018,1070358
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Self-extracted,ML,2018,236262
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Self-extracted,ML,2018,140
-Australia,0,"Wood, pulp, paper and converted paper product manufacturing",Use,Self-extracted,ML,2018,31263
-Australia,0,"Petroleum, coal, basic chemical and chemical product manufacturing",Use,Self-extracted,ML,2018,15201
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Use,Self-extracted,ML,2018,19868
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Self-extracted,ML,2018,63816
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Self-extracted,ML,2018,341
-Australia,0,Furniture and other manufacturing,Use,Self-extracted,ML,2018,57
 Australia,0,Total manufacturing,Use,Self-extracted,ML,2018,366948
-Australia,0,Electricity and gas supply,Use,Self-extracted,ML,2018,51368386
-Australia,0,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2018,9936049
-Australia,0,"Waste collection, treatment and disposal services",Use,Self-extracted,ML,2018,462
 Australia,0,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2018,61304897
-Australia,0,Other industries,Use,Self-extracted,ML,2018,112208
 Australia,0,Total industry,Use,Self-extracted,ML,2018,65967787
 Australia,0,Total,Use,Self-extracted,ML,2018,65967787
-Australia,0,Fruit and Tree Nut Growing,Use,Distributed,ML,2018,1133342
-Australia,0,Other Crop Growing,Use,Distributed,ML,2018,1469461
-Australia,0,Dairy cattle Farming,Use,Distributed,ML,2018,949353
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2018,1596113
 Australia,0,Total agriculture,Use,Distributed,ML,2018,5444590
 Australia,0,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2018,5525576
-Australia,0,Coal mining,Use,Distributed,ML,2018,30605
-Australia,0,Metal ore mining,Use,Distributed,ML,2018,62741
-Australia,0,Exploration and other mining support services,Use,Distributed,ML,2018,1703
 Australia,0,Total mining,Use,Distributed,ML,2018,101065
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Distributed,ML,2018,131229
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Distributed,ML,2018,1366
-Australia,0,"Wood, pulp, paper and converted paper product manufacturing",Use,Distributed,ML,2018,33571
-Australia,0,Printing (including the reproduction of recorded media) manufacturing,Use,Distributed,ML,2018,590
-Australia,0,"Petroleum, coal, basic chemical and chemical product manufacturing",Use,Distributed,ML,2018,23534
-Australia,0,"Polymer, rubber and non-metallic mineral product manufacturing",Use,Distributed,ML,2018,7548
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Distributed,ML,2018,35744
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Distributed,ML,2018,3191
-Australia,0,Furniture and other manufacturing,Use,Distributed,ML,2018,775
 Australia,0,Total manufacturing,Use,Distributed,ML,2018,237549
-Australia,0,"Waste collection, treatment and disposal services",Use,Distributed,ML,2018,4217
 Australia,0,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2018,1727904
-Australia,0,Other industries,Use,Distributed,ML,2018,561207
 Australia,0,Total industry,Use,Distributed,ML,2018,8153301
-Australia,0,Households,Use,Distributed,ML,2018,1810037
 Australia,0,Total,Use,Distributed,ML,2018,9963338
-Australia,0,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2018,1993495
 Australia,0,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,1993495
 Australia,0,Total industry,Use,Wastewater,ML,2018,1993495
 Australia,0,Total,Use,Wastewater,ML,2018,1993495
-Australia,0,Fruit and Tree Nut Growing,Use,Reuse,ML,2018,18466
-Australia,0,Other Crop Growing,Use,Reuse,ML,2018,7516
-Australia,0,Dairy cattle Farming,Use,Reuse,ML,2018,15138
-Australia,0,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2018,36581
 Australia,0,Total agriculture,Use,Reuse,ML,2018,97324
 Australia,0,Total mining,Use,Reuse,ML,2018,3842
-Australia,0,"Food, beverage and tobacco product manufacturing",Use,Reuse,ML,2018,2666
-Australia,0,"Textile, leather, clothing and footwear manufacturing",Use,Reuse,ML,2018,192
-Australia,0,"Primary metal, metal and fabricated metal product manufacturing",Use,Reuse,ML,2018,8222
-Australia,0,"Transport equipment, machinery and equipment manufacturing",Use,Reuse,ML,2018,24
 Australia,0,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2018,95246
 Australia,0,Total industry,Use,Reuse,ML,2018,318529
-Australia,0,Households,Use,Reuse,ML,2018,5896
 Australia,0,Total,Use,Reuse,ML,2018,324425
-Australia,0,Environment,Use,Return flows (a),ML,2018,53528246
 Australia,0,Total,Use,Return flows (a),ML,2018,53528246
-New South Wales,1,Environment,Supply,Self-extracted,ML,2018,12237543
 New South Wales,1,Total,Supply,Self-extracted,ML,2018,12237543
-New South Wales,1,Coal mining,Supply,Distributed,ML,2018,601
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2018,3539492
-New South Wales,1,Total Industry,Supply,Distributed,ML,2018,3542998
 New South Wales,1,Total,Supply,Distributed,ML,2018,3542998
 New South Wales,1,Total,Supply,Wastewater,ML,2018,746220
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2018,69417
-New South Wales,1,Total Industry,Supply,Reuse,ML,2018,74018
 New South Wales,1,Total,Supply,Reuse,ML,2018,74018
-New South Wales,1,Coal mining,Supply,Return flows (a),ML,2018,40077
-New South Wales,1,Electricity and gas supply,Supply,Return flows (a),ML,2018,7539470
-New South Wales,1,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2018,657280
-New South Wales,1,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2018,12
 New South Wales,1,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,8196762
-New South Wales,1,Total Industry,Supply,Return flows (a),ML,2018,8261674
 New South Wales,1,Total,Supply,Return flows (a),ML,2018,8261674
-New South Wales,1,Fruit and tree nut growing,Use,Self-extracted,ML,2018,49141
-New South Wales,1,Other crop growing,Use,Self-extracted,ML,2018,382566
-New South Wales,1,Dairy cattle farming,Use,Self-extracted,ML,2018,34420
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2018,448071
-New South Wales,1,Total Agriculture,Use,Self-extracted,ML,2018,934511
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,934511
-New South Wales,1,Coal mining,Use,Self-extracted,ML,2018,90281
 New South Wales,1,Total mining,Use,Self-extracted,ML,2018,120422
-New South Wales,1,Manufacturing,Use,Self-extracted,ML,2018,46881
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2018,3539492
-New South Wales,1,Total Industry,Use,Self-extracted,ML,2018,12237543
 New South Wales,1,Total,Use,Self-extracted,ML,2018,12237543
-New South Wales,1,Fruit and tree nut growing,Use,Distributed,ML,2018,330527
-New South Wales,1,Other crop growing,Use,Distributed,ML,2018,539018
-New South Wales,1,Dairy cattle farming,Use,Distributed,ML,2018,131060
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2018,966790
-New South Wales,1,Total Agriculture,Use,Distributed,ML,2018,2032253
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2018,2032253
-New South Wales,1,Coal mining,Use,Distributed,ML,2018,10178
-New South Wales,1,Manufacturing,Use,Distributed,ML,2018,47189
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Distributed,ML,2018,647637
-New South Wales,1,"Waste collection, treatment and disposal services",Use,Distributed,ML,2018,2716
-New South Wales,1,Total Industry,Use,Distributed,ML,2018,2971309
-New South Wales,1,Households,Use,Distributed,ML,2018,571689
 New South Wales,1,Total,Use,Distributed,ML,2018,3542998
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2018,746220
 New South Wales,1,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,746220
-New South Wales,1,Total Industry,Use,Wastewater,ML,2018,746220
 New South Wales,1,Total,Use,Wastewater,ML,2018,746220
-New South Wales,1,Fruit and tree nut growing,Use,Reuse,ML,2018,781
-New South Wales,1,Dairy cattle farming,Use,Reuse,ML,2018,9334
-New South Wales,1,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2018,10969
-New South Wales,1,Total Agriculture,Use,Reuse,ML,2018,22601
 New South Wales,1,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2018,22601
-New South Wales,1,Manufacturing,Use,Reuse,ML,2018,6484
-New South Wales,1,"Water supply, sewerage and drainage services",Use,Reuse,ML,2018,21241
-New South Wales,1,Total Industry,Use,Reuse,ML,2018,71043
-New South Wales,1,Households,Use,Reuse,ML,2018,2975
 New South Wales,1,Total,Use,Reuse,ML,2018,74018
-New South Wales,1,Environment,Use,Return flows (a),ML,2018,8261674
 New South Wales,1,Total,Use,Return flows (a),ML,2018,8261674
-Victoria,2,Environment,Supply,Self-extracted,ML,2018,7667895
 Victoria,2,Total,Supply,Self-extracted,ML,2018,7667895
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2018,2661420
-Victoria,2,Total Industry,Supply,Distributed,ML,2018,2663108
 Victoria,2,Total,Supply,Distributed,ML,2018,2663108
 Victoria,2,Total,Supply,Wastewater,ML,2018,482345
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2018,95871
 Victoria,2,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2018,95920
-Victoria,2,Total Industry,Supply,Reuse,ML,2018,97474
 Victoria,2,Total,Supply,Reuse,ML,2018,97474
-Victoria,2,Oil and gas extraction,Supply,Return flows (a),ML,2018,4242
-Victoria,2,Electricity and gas supply,Supply,Return flows (a),ML,2018,4446655
-Victoria,2,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2018,369448
 Victoria,2,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,4816110
-Victoria,2,Total Industry,Supply,Return flows (a),ML,2018,4835091
 Victoria,2,Total,Supply,Return flows (a),ML,2018,4835091
-Victoria,2,Mushroom and vegetable growing,Use,Self-extracted,ML,2018,37402
-Victoria,2,Fruit and tree nut growing,Use,Self-extracted,ML,2018,23194
-Victoria,2,Other crop growing,Use,Self-extracted,ML,2018,15029
-Victoria,2,Dairy cattle farming,Use,Self-extracted,ML,2018,173538
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2018,148735
-Victoria,2,Total Agriculture,Use,Self-extracted,ML,2018,403077
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,403077
 Victoria,2,Total mining,Use,Self-extracted,ML,2018,19917
-Victoria,2,Manufacturing,Use,Self-extracted,ML,2018,100688
-Victoria,2,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2018,2661420
-Victoria,2,Total Industry,Use,Self-extracted,ML,2018,7667895
 Victoria,2,Total,Use,Self-extracted,ML,2018,7667895
-Victoria,2,Fruit and tree nut growing,Use,Distributed,ML,2018,426833
-Victoria,2,Other crop growing,Use,Distributed,ML,2018,45585
-Victoria,2,Dairy cattle farming,Use,Distributed,ML,2018,692240
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2018,407946
-Victoria,2,Total Agriculture,Use,Distributed,ML,2018,1661375
-Victoria,2,Aquaculture,Use,Distributed,ML,2018,100
-Victoria,2,Forestry and logging,Use,Distributed,ML,2018,35
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2018,1661510
-Victoria,2,Oil and gas extraction,Use,Distributed,ML,2018,147
-Victoria,2,Manufacturing,Use,Distributed,ML,2018,74994
-Victoria,2,Electricity and gas supply,Use,Distributed,ML,2018,24545
-Victoria,2,"Water supply, sewerage and drainage services",Use,Distributed,ML,2018,376753
-Victoria,2,"Waste collection, treatment and disposal services",Use,Distributed,ML,2018,292
 Victoria,2,"Total Electricity, gas, water and waste services",Use,Distributed,ML,2018,401590
-Victoria,2,Total Industry,Use,Distributed,ML,2018,2247049
-Victoria,2,Households,Use,Distributed,ML,2018,416059
 Victoria,2,Total,Use,Distributed,ML,2018,2663108
-Victoria,2,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2018,482345
 Victoria,2,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,482345
-Victoria,2,Total Industry,Use,Wastewater,ML,2018,482345
 Victoria,2,Total,Use,Wastewater,ML,2018,482345
-Victoria,2,Nursery and floriculture production,Use,Reuse,ML,2018,714
-Victoria,2,Fruit and tree nut growing,Use,Reuse,ML,2018,1994
-Victoria,2,Dairy cattle farming,Use,Reuse,ML,2018,5312
-Victoria,2,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2018,19131
-Victoria,2,Total Agriculture,Use,Reuse,ML,2018,29527
 Victoria,2,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2018,29527
 Victoria,2,Total mining,Use,Reuse,ML,2018,924
-Victoria,2,Total Industry,Use,Reuse,ML,2018,95276
-Victoria,2,Households,Use,Reuse,ML,2018,2198
 Victoria,2,Total,Use,Reuse,ML,2018,97474
-Victoria,2,Environment,Use,Return flows (a),ML,2018,4835091
 Victoria,2,Total,Use,Return flows (a),ML,2018,4835091
-Queensland,3,Environment,Supply,Self-extracted,ML,2018,4146370
 Queensland,3,Total,Supply,Self-extracted,ML,2018,4146370
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2018,2189006
-Queensland,3,Total Industry,Supply,Distributed,ML,2018,2192159
 Queensland,3,Total,Supply,Distributed,ML,2018,2192159
 Queensland,3,Total,Supply,Wastewater,ML,2018,371191
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2018,46862
-Queensland,3,Total Industry,Supply,Reuse,ML,2018,58481
 Queensland,3,Total,Supply,Reuse,ML,2018,58481
-Queensland,3,Coal mining,Supply,Return flows (a),ML,2018,30849
-Queensland,3,Oil and gas extraction,Supply,Return flows (a),ML,2018,20596
-Queensland,3,Electricity and gas supply,Supply,Return flows (a),ML,2018,668555
-Queensland,3,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2018,312806
 Queensland,3,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,981374
-Queensland,3,Total Industry,Supply,Return flows (a),ML,2018,1075482
 Queensland,3,Total,Supply,Return flows (a),ML,2018,1075482
-Queensland,3,Mushroom and vegetable growing,Use,Self-extracted,ML,2018,63598
-Queensland,3,Fruit and tree nut growing,Use,Self-extracted,ML,2018,66310
-Queensland,3,Other crop growing,Use,Self-extracted,ML,2018,475822
-Queensland,3,Poultry farming,Use,Self-extracted,ML,2018,3536
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2018,325644
-Queensland,3,Total Agriculture,Use,Self-extracted,ML,2018,970696
 Queensland,3,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,970696
-Queensland,3,Coal mining,Use,Self-extracted,ML,2018,69495
-Queensland,3,Oil and gas extraction,Use,Self-extracted,ML,2018,55513
 Queensland,3,Total mining,Use,Self-extracted,ML,2018,206698
-Queensland,3,Manufacturing,Use,Self-extracted,ML,2018,92421
-Queensland,3,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2018,2189006
-Queensland,3,Total Industry,Use,Self-extracted,ML,2018,4146370
 Queensland,3,Total,Use,Self-extracted,ML,2018,4146370
-Queensland,3,Mushroom and vegetable growing,Use,Distributed,ML,2018,66968
-Queensland,3,Fruit and tree nut growing,Use,Distributed,ML,2018,121680
-Queensland,3,Other crop growing,Use,Distributed,ML,2018,879561
-Queensland,3,Poultry farming,Use,Distributed,ML,2018,2276
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2018,85675
-Queensland,3,Total Agriculture,Use,Distributed,ML,2018,1185444
-Queensland,3,Coal mining,Use,Distributed,ML,2018,20422
-Queensland,3,Oil and gas extraction,Use,Distributed,ML,2018,516
 Queensland,3,Total mining,Use,Distributed,ML,2018,52859
-Queensland,3,Manufacturing,Use,Distributed,ML,2018,84668
-Queensland,3,Total Industry,Use,Distributed,ML,2018,1844816
-Queensland,3,Households,Use,Distributed,ML,2018,347343
 Queensland,3,Total,Use,Distributed,ML,2018,2192159
-Queensland,3,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2018,371191
 Queensland,3,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,371191
-Queensland,3,Total Industry,Use,Wastewater,ML,2018,371191
 Queensland,3,Total,Use,Wastewater,ML,2018,371191
-Queensland,3,Nursery and floriculture production,Use,Reuse,ML,2018,176
-Queensland,3,Mushroom and vegetable growing,Use,Reuse,ML,2018,2009
-Queensland,3,Fruit and tree nut growing,Use,Reuse,ML,2018,185
-Queensland,3,Other crop growing,Use,Reuse,ML,2018,6041
-Queensland,3,Dairy cattle farming,Use,Reuse,ML,2018,140
-Queensland,3,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2018,3601
-Queensland,3,Total Agriculture,Use,Reuse,ML,2018,12152
-Queensland,3,Other industries,Use,Reuse,ML,2018,25078
-Queensland,3,Total Industry,Use,Reuse,ML,2018,58481
 Queensland,3,Total,Use,Reuse,ML,2018,58481
-Queensland,3,Environment,Use,Return flows (a),ML,2018,1075482
 Queensland,3,Total,Use,Return flows (a),ML,2018,1075482
-South Australia,4,Environment,Supply,Self-extracted,ML,2018,921142
 South Australia,4,Total,Supply,Self-extracted,ML,2018,921142
-South Australia,4,Coal mining,Supply,Distributed,ML,2018,1
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2018,513680
-South Australia,4,Total Industry,Supply,Distributed,ML,2018,514167
 South Australia,4,Total,Supply,Distributed,ML,2018,514167
 South Australia,4,Total,Supply,Wastewater,ML,2018,119957
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2018,40222
 South Australia,4,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2018,40222
-South Australia,4,Total Industry,Supply,Reuse,ML,2018,42605
 South Australia,4,Total,Supply,Reuse,ML,2018,42605
-South Australia,4,Coal mining,Supply,Return flows (a),ML,2018,63
-South Australia,4,Oil and gas extraction,Supply,Return flows (a),ML,2018,6587
-South Australia,4,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2018,70767
 South Australia,4,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,70767
-South Australia,4,Total Industry,Supply,Return flows (a),ML,2018,86412
 South Australia,4,Total,Supply,Return flows (a),ML,2018,86412
-South Australia,4,Fruit and tree nut growing,Use,Self-extracted,ML,2018,59371
-South Australia,4,Other crop growing,Use,Self-extracted,ML,2018,9981
-South Australia,4,Dairy cattle farming,Use,Self-extracted,ML,2018,46191
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2018,196779
-South Australia,4,Total Agriculture,Use,Self-extracted,ML,2018,339562
 South Australia,4,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,339562
-South Australia,4,Manufacturing,Use,Self-extracted,ML,2018,26362
-South Australia,4,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2018,513680
-South Australia,4,Other industries,Use,Self-extracted,ML,2018,6264
-South Australia,4,Total Industry,Use,Self-extracted,ML,2018,921142
 South Australia,4,Total,Use,Self-extracted,ML,2018,921142
-South Australia,4,Fruit and tree nut growing,Use,Distributed,ML,2018,241956
-South Australia,4,Other crop growing,Use,Distributed,ML,2018,13
-South Australia,4,Dairy cattle farming,Use,Distributed,ML,2018,14125
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2018,18148
-South Australia,4,Total Agriculture,Use,Distributed,ML,2018,288429
-South Australia,4,Manufacturing,Use,Distributed,ML,2018,13228
-South Australia,4,Electricity and gas supply,Use,Distributed,ML,2018,277
-South Australia,4,"Water supply, sewerage and drainage services",Use,Distributed,ML,2018,31012
-South Australia,4,Other industries,Use,Distributed,ML,2018,37090
-South Australia,4,Total Industry,Use,Distributed,ML,2018,374745
-South Australia,4,Households,Use,Distributed,ML,2018,139422
 South Australia,4,Total,Use,Distributed,ML,2018,514167
-South Australia,4,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2018,119957
 South Australia,4,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,119957
-South Australia,4,Total Industry,Use,Wastewater,ML,2018,119957
 South Australia,4,Total,Use,Wastewater,ML,2018,119957
-South Australia,4,Nursery and floriculture production,Use,Reuse,ML,2018,973
-South Australia,4,Mushroom and vegetable growing,Use,Reuse,ML,2018,11821
-South Australia,4,Fruit and tree nut growing,Use,Reuse,ML,2018,15274
-South Australia,4,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2018,467
-South Australia,4,Total Agriculture,Use,Reuse,ML,2018,29393
 South Australia,4,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2018,29393
-South Australia,4,Manufacturing,Use,Reuse,ML,2018,556
-South Australia,4,"Water supply, sewerage and drainage services",Use,Reuse,ML,2018,3950
 South Australia,4,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2018,3950
-South Australia,4,Total Industry,Use,Reuse,ML,2018,41882
-South Australia,4,Households,Use,Reuse,ML,2018,723
 South Australia,4,Total,Use,Reuse,ML,2018,42605
-South Australia,4,Environment,Use,Return flows (a),ML,2018,86412
 South Australia,4,Total,Use,Return flows (a),ML,2018,86412
-Western Australia,5,Environment,Supply,Self-extracted,ML,2018,3642153
 Western Australia,5,Total,Supply,Self-extracted,ML,2018,3642153
-Western Australia,5,Coal mining,Supply,Distributed,ML,2018,108
 Western Australia,5,Total mining,Supply,Distributed,ML,2018,10201
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2018,728581
-Western Australia,5,Total Industry,Supply,Distributed,ML,2018,738833
 Western Australia,5,Total,Supply,Distributed,ML,2018,738833
 Western Australia,5,Total,Supply,Wastewater,ML,2018,168245
 Western Australia,5,Total mining,Supply,Reuse,ML,2018,21093
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2018,19285
-Western Australia,5,Total Industry,Supply,Reuse,ML,2018,40822
 Western Australia,5,Total,Supply,Reuse,ML,2018,40822
-Western Australia,5,Coal mining,Supply,Return flows (a),ML,2018,8011
-Western Australia,5,Oil and gas extraction,Supply,Return flows (a),ML,2018,14201
-Western Australia,5,Electricity and gas supply,Supply,Return flows (a),ML,2018,1948419
-Western Australia,5,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2018,239134
 Western Australia,5,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,2187565
-Western Australia,5,Total Industry,Supply,Return flows (a),ML,2018,2425752
 Western Australia,5,Total,Supply,Return flows (a),ML,2018,2425752
-Western Australia,5,Mushroom and vegetable growing,Use,Self-extracted,ML,2018,49118
-Western Australia,5,Fruit and tree nut growing,Use,Self-extracted,ML,2018,45882
-Western Australia,5,Other crop growing,Use,Self-extracted,ML,2018,2444
-Western Australia,5,Dairy cattle farming,Use,Self-extracted,ML,2018,24391
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2018,97819
-Western Australia,5,Total Agriculture,Use,Self-extracted,ML,2018,227885
 Western Australia,5,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,227885
-Western Australia,5,Oil and gas extraction,Use,Self-extracted,ML,2018,38278
 Western Australia,5,Total mining,Use,Self-extracted,ML,2018,637758
-Western Australia,5,Manufacturing,Use,Self-extracted,ML,2018,68405
-Western Australia,5,Electricity and gas supply,Use,Self-extracted,ML,2018,1960543
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2018,728581
-Western Australia,5,Total Industry,Use,Self-extracted,ML,2018,3642153
 Western Australia,5,Total,Use,Self-extracted,ML,2018,3642153
-Western Australia,5,Nursery and floriculture production,Use,Distributed,ML,2018,1207
-Western Australia,5,Fruit and tree nut growing,Use,Distributed,ML,2018,8208
-Western Australia,5,Dairy cattle farming,Use,Distributed,ML,2018,51313
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2018,73443
-Western Australia,5,Total Agriculture,Use,Distributed,ML,2018,169063
-Western Australia,5,Coal mining,Use,Distributed,ML,2018,5
-Western Australia,5,Oil and gas extraction,Use,Distributed,ML,2018,532
 Western Australia,5,Total mining,Use,Distributed,ML,2018,17362
-Western Australia,5,Manufacturing,Use,Distributed,ML,2018,6333
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Distributed,ML,2018,156694
-Western Australia,5,Other industries,Use,Distributed,ML,2018,72593
-Western Australia,5,Total Industry,Use,Distributed,ML,2018,503056
-Western Australia,5,Households,Use,Distributed,ML,2018,235777
 Western Australia,5,Total,Use,Distributed,ML,2018,738833
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2018,168245
 Western Australia,5,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,168245
-Western Australia,5,Total Industry,Use,Wastewater,ML,2018,168245
 Western Australia,5,Total,Use,Wastewater,ML,2018,168245
-Western Australia,5,Nursery and floriculture production,Use,Reuse,ML,2018,314
-Western Australia,5,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2018,205
-Western Australia,5,Total Agriculture,Use,Reuse,ML,2018,535
-Western Australia,5,Manufacturing,Use,Reuse,ML,2018,5707
-Western Australia,5,"Water supply, sewerage and drainage services",Use,Reuse,ML,2018,3376
 Western Australia,5,"Total Electricity, gas, water and waste services",Use,Reuse,ML,2018,3376
-Western Australia,5,Total Industry,Use,Reuse,ML,2018,40822
 Western Australia,5,Total,Use,Reuse,ML,2018,40822
-Western Australia,5,Environment,Use,Return flows (a),ML,2018,2425752
 Western Australia,5,Total,Use,Return flows (a),ML,2018,2425752
-Tasmania,6,Environment,Supply,Self-extracted,ML,2018,37143308
 Tasmania,6,Total,Supply,Self-extracted,ML,2018,37143308
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2018,196232
-Tasmania,6,Total Industry,Supply,Distributed,ML,2018,203941
 Tasmania,6,Total,Supply,Distributed,ML,2018,203941
 Tasmania,6,Total,Supply,Wastewater,ML,2018,51173
-Tasmania,6,Manufacturing,Supply,Reuse,ML,2018,8
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2018,5755
-Tasmania,6,Total Industry,Supply,Reuse,ML,2018,6797
 Tasmania,6,Total,Supply,Reuse,ML,2018,6797
-Tasmania,6,Coal mining,Supply,Return flows (a),ML,2018,42
-Tasmania,6,Electricity and gas supply,Supply,Return flows (a),ML,2018,36710748
-Tasmania,6,"Water supply, sewerage and drainage services",Supply,Return flows (a),ML,2018,44243
 Tasmania,6,"Total Electricity, gas, water and waste services",Supply,Return flows (a),ML,2018,36754992
-Tasmania,6,Total Industry,Supply,Return flows (a),ML,2018,36788635
 Tasmania,6,Total,Supply,Return flows (a),ML,2018,36788635
-Tasmania,6,Mushroom and vegetable growing,Use,Self-extracted,ML,2018,20264
-Tasmania,6,Fruit and tree nut growing,Use,Self-extracted,ML,2018,3295
-Tasmania,6,Other crop growing,Use,Self-extracted,ML,2018,10160
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2018,76850
-Tasmania,6,Total Agriculture,Use,Self-extracted,ML,2018,179506
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,179506
-Tasmania,6,Manufacturing,Use,Self-extracted,ML,2018,32103
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2018,196232
 Tasmania,6,"Total Electricity, gas, water and waste services",Use,Self-extracted,ML,2018,36906989
-Tasmania,6,Total Industry,Use,Self-extracted,ML,2018,37143308
 Tasmania,6,Total,Use,Self-extracted,ML,2018,37143308
-Tasmania,6,Fruit and tree nut growing,Use,Distributed,ML,2018,4138
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2018,44088
-Tasmania,6,Total Agriculture,Use,Distributed,ML,2018,107953
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2018,108016
-Tasmania,6,Manufacturing,Use,Distributed,ML,2018,11137
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Distributed,ML,2018,26769
-Tasmania,6,Total Industry,Use,Distributed,ML,2018,164533
-Tasmania,6,Households,Use,Distributed,ML,2018,39408
 Tasmania,6,Total,Use,Distributed,ML,2018,203941
-Tasmania,6,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2018,51173
 Tasmania,6,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,51173
-Tasmania,6,Total Industry,Use,Wastewater,ML,2018,51173
 Tasmania,6,Total,Use,Wastewater,ML,2018,51173
-Tasmania,6,Fruit and tree nut growing,Use,Reuse,ML,2018,228
-Tasmania,6,Dairy cattle farming,Use,Reuse,ML,2018,334
-Tasmania,6,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Reuse,ML,2018,2209
-Tasmania,6,Total Agriculture,Use,Reuse,ML,2018,3116
 Tasmania,6,"Total Agriculture, forestry and fishing",Use,Reuse,ML,2018,3116
-Tasmania,6,Total Industry,Use,Reuse,ML,2018,6797
 Tasmania,6,Total,Use,Reuse,ML,2018,6797
-Tasmania,6,Environment,Use,Return flows (a),ML,2018,36788635
 Tasmania,6,Total,Use,Return flows (a),ML,2018,36788635
-Northern Territory,7,Environment,Supply,Self-extracted,ML,2018,159870
 Northern Territory,7,Total,Supply,Self-extracted,ML,2018,159870
 Northern Territory,7,Total mining,Supply,Distributed,ML,2018,493
-Northern Territory,7,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2018,59115
-Northern Territory,7,Total Industry,Supply,Distributed,ML,2018,59610
 Northern Territory,7,Total,Supply,Distributed,ML,2018,59610
 Northern Territory,7,Total,Supply,Wastewater,ML,2018,21157
 Northern Territory,7,Total mining,Supply,Reuse,ML,2018,822
-Northern Territory,7,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2018,1152
 Northern Territory,7,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2018,1152
-Northern Territory,7,Total Industry,Supply,Reuse,ML,2018,1974
 Northern Territory,7,Total,Supply,Reuse,ML,2018,1974
 Northern Territory,7,Total mining,Supply,Return flows (a),ML,2018,9968
-Northern Territory,7,"Waste collection, treatment and disposal services",Supply,Return flows (a),ML,2018,2
-Northern Territory,7,Total Industry,Supply,Return flows (a),ML,2018,24676
 Northern Territory,7,Total,Supply,Return flows (a),ML,2018,24676
-Northern Territory,7,Fruit and tree nut growing,Use,Self-extracted,ML,2018,10391
-Northern Territory,7,Other crop growing,Use,Self-extracted,ML,2018,23
-Northern Territory,7,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2018,43056
-Northern Territory,7,Total Agriculture,Use,Self-extracted,ML,2018,57979
 Northern Territory,7,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,57979
 Northern Territory,7,Total mining,Use,Self-extracted,ML,2018,28639
-Northern Territory,7,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2018,59115
-Northern Territory,7,Total Industry,Use,Self-extracted,ML,2018,159870
 Northern Territory,7,Total,Use,Self-extracted,ML,2018,159870
-Northern Territory,7,Total Industry,Use,Distributed,ML,2018,33152
-Northern Territory,7,Households,Use,Distributed,ML,2018,26458
 Northern Territory,7,Total,Use,Distributed,ML,2018,59610
-Northern Territory,7,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2018,21157
 Northern Territory,7,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,21157
-Northern Territory,7,Total Industry,Use,Wastewater,ML,2018,21157
 Northern Territory,7,Total,Use,Wastewater,ML,2018,21157
-Northern Territory,7,Total Industry,Use,Reuse,ML,2018,1974
 Northern Territory,7,Total,Use,Reuse,ML,2018,1974
-Northern Territory,7,Environment,Use,Return flows (a),ML,2018,24676
 Northern Territory,7,Total,Use,Return flows (a),ML,2018,24676
-Australian Capital Territory,8,Environment,Supply,Self-extracted,ML,2018,49505
 Australian Capital Territory,8,Total,Supply,Self-extracted,ML,2018,49505
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Supply,Distributed,ML,2018,48522
-Australian Capital Territory,8,Total Industry,Supply,Distributed,ML,2018,48522
 Australian Capital Territory,8,Total,Supply,Distributed,ML,2018,48522
 Australian Capital Territory,8,Total,Supply,Wastewater,ML,2018,33207
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Supply,Reuse,ML,2018,2253
 Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Supply,Reuse,ML,2018,2253
-Australian Capital Territory,8,Total Industry,Supply,Reuse,ML,2018,2253
 Australian Capital Territory,8,Total,Supply,Reuse,ML,2018,2253
-Australian Capital Territory,8,Total Industry,Supply,Return flows (a),ML,2018,30524
 Australian Capital Territory,8,Total,Supply,Return flows (a),ML,2018,30524
-Australian Capital Territory,8,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Self-extracted,ML,2018,105
-Australian Capital Territory,8,Total Agriculture,Use,Self-extracted,ML,2018,160
 Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Self-extracted,ML,2018,160
 Australian Capital Territory,8,Total mining,Use,Self-extracted,ML,2018,114
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Use,Self-extracted,ML,2018,48522
-Australian Capital Territory,8,Total Industry,Use,Self-extracted,ML,2018,49505
 Australian Capital Territory,8,Total,Use,Self-extracted,ML,2018,49505
-Australian Capital Territory,8,"Sheep, Beef, Cattle, Grain Growing and Other Livestock Farming",Use,Distributed,ML,2018,22
-Australian Capital Territory,8,Total Agriculture,Use,Distributed,ML,2018,73
 Australian Capital Territory,8,"Total Agriculture, forestry and fishing",Use,Distributed,ML,2018,73
-Australian Capital Territory,8,Total Industry,Use,Distributed,ML,2018,14641
-Australian Capital Territory,8,Households,Use,Distributed,ML,2018,33881
 Australian Capital Territory,8,Total,Use,Distributed,ML,2018,48522
-Australian Capital Territory,8,"Water supply, sewerage and drainage services",Use,Wastewater,ML,2018,33207
 Australian Capital Territory,8,"Total Electricity, gas, water and waste services",Use,Wastewater,ML,2018,33207
-Australian Capital Territory,8,Total Industry,Use,Wastewater,ML,2018,33207
 Australian Capital Territory,8,Total,Use,Wastewater,ML,2018,33207
-Australian Capital Territory,8,Total Industry,Use,Reuse,ML,2018,2253
 Australian Capital Territory,8,Total,Use,Reuse,ML,2018,2253
-Australian Capital Territory,8,Environment,Use,Return flows (a),ML,2018,30524
 Australian Capital Territory,8,Total,Use,Return flows (a),ML,2018,30524
