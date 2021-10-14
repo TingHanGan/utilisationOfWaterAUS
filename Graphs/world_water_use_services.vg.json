@@ -75,8 +75,7 @@
           "color": {
             "field": "Services",
             "type": "quantitative",
-            "scale": {"type": "log"},
-            "legend": null
+            "scale": {"type": "log"}
           },
           "tooltip": [
             {"field": "properties.NAME", "type": "nominal", "title": "Country"},

@@ -64,7 +64,8 @@
       ],
       "transform": [
         {"filter": "Industry_selection == null || datum.Industry == Industry_selection"},
-        {"filter": "State_selection == null || datum.State == State_selection"}
+        {"filter": "State_selection == null || datum.State == State_selection"},
+        {"calculate": "log(datum.Value)/log(10)", "as": "log_y"}
       ],
     "mark": {
       "type": "line",
@@ -72,7 +73,7 @@
       },
     "encoding": {
       "x": {"timeUnit": "year", "field": "Date", "type": "ordinal"},
-      "y": {"aggregate":"sum", "field": "Value", "type": "quantitative", "title": "ML"},
+      "y": {"aggregate":"sum", "field": "log_y", "type": "quantitative", "title": "ML"},
       "color": {
         "field": "State",
         "scale": {"scheme": "greenblue"}
