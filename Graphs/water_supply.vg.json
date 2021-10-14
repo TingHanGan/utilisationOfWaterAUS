@@ -67,16 +67,17 @@
       "type": "line",
       "point": true
       },
-    "encoding": {
-      "x": {"timeUnit": "year", "field": "Date", "type": "ordinal"},
-      "y": {"aggregate":"sum", "field": "log_y", "type": "quantitative", "title": "ML"},
-      "color": {
-        "field": "State",
-        "scale": {"scheme": "greenblue"}
-      },
-      "tooltip": [
-        {"field": "State", "type": "nominal", "title": "Region"},
-        {"field": "Value", "type": "quantitative", "title": "ML", "aggregate": "sum", "format": ","}
-      ]
-    }
+      "encoding": {
+        "x": {"timeUnit": "year", "field": "Date", "type": "ordinal"},
+        "y": {"aggregate":"sum", "field": "log_y", "type": "quantitative", "title": "ML"},
+        "color": {
+          "field": "State",
+          "scale": {"domain":["Australia", "Australian Capital Territory", "New South Wales", "Northern Territory", "Queensland", "South Australia", "Tasmania", "Victoria", "Western Australia"],
+        "range": ["#ea5545", "#f46a9b", "#ef9b20", "#edbf33", "#ede15b", "#bdcf32", "#87bc45", "#27aeef", "#b33dc6"]}
+        },
+        "tooltip": [
+          {"field": "State", "type": "nominal", "title": "Region"},
+          {"field": "Value", "type": "quantitative", "title": "ML", "aggregate": "sum", "format": ","}
+        ]
+      }
   }
