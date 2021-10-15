@@ -33,7 +33,7 @@
         <p>Therefore, water restrictions have been enacted in many cities and regions in Australia, which is the <span class="text">Earth's second driest inhabited continent</span>, in response to chronic water shortages resulting from the widespread drought. Depending upon the location,
            these can include restrictions on using sprinkler systems, watering lawns, hosing pavement, washing vehicles, etc. </p>
       </div>
-      <img src = "banner.png" height=100, width = 850>
+      <img src = "banner.png" height=100, width = 1200>
     </div>
   <!-- end pure grid group -->
     <!-- pure grid group -->
@@ -86,9 +86,12 @@
     <h2>Total Water Used & Extracted on Farms</h2>
     <!-- pure grid group -->
     <div class="pure-g">
-        <div class="pure-u-1-3">
+        <div class="pure-u-1-2">
             <div id="vis4"  class="vis-container"></div>
         </div>
+        <div class="pure-u-1-2">
+          <div id="vis5"  class="vis-container"></div>
+      </div>
     </div>
     <!-- end pure grid group -->
 
@@ -118,7 +121,7 @@
           </div>
       </div>
       <div class="pure-u-2-3">
-          <div id="vis5" class="vis-container"></div>
+          <div id="vis6" class="vis-container"></div>
       </div>
     </div>
     <!-- end pure grid group -->
@@ -126,7 +129,7 @@
     <!-- pure grid group -->
     <div class="pure-g">
       <div class="pure-u-2-3">
-        <div id="vis6" class="vis-container"></div>
+        <div id="vis7" class="vis-container"></div>
       </div>
       <div class="pure-u-1-3">
           <div class="description description-left">
@@ -142,7 +145,7 @@
     <!-- withdrawal group -->
   <h2>How does Australia compare to the World?</h2>
   <h3>Water Withdrawal (measured in km^3)</h3>
-  <div id="vis7"  class="vis-container"></div>
+  <div id="vis8"  class="vis-container"></div>
   <p>The amount of <span class="text">water withdrawal varies significantly</span> across the world. The visualisation above shows the <span class="text">average level of water withdrawal</span> during the latest recorded year (2017). As defined in the AQUASTAT Database, water withdrawal</span>
     is defined as the quantity of freshwater taken from groundwater or surface water sources (i.e., lakes or rivers) for use in services (houses or domestic), agricultural and industrial.
   </p>
@@ -151,26 +154,26 @@
   </p>
   <p></p>
   <!-- end withdrawal group -->
-
+  <br>
   <!-- services group -->
   <h3>Freshwater efficiency use for households and public services</h3>
-  <div id="vis8"  class="vis-container"></div>
+  <div id="vis9"  class="vis-container"></div>
   <p>Water used for home, household, or public functions is referred to as <span class="text">municipal water</span>. This is the most 'visible' type of water: the water we drink, clean with, wash with, and cook with.</p>
   <p>Germany's domestic water consumption are the highest, at about 500US$/m^3, which is surprising due to the total amount of water they withdraw. In terms of India, with the world's largest water withdrawal, 
     does not utilise their water resources within services as much. Despite having a far smaller population, <span class="text">Australia uses a substantial amount</span> with around 200US$/m^3</p>
   <!-- end services group -->
-
+  <br>
   <!-- industry group -->
   <h3>Freshwater efficiency use for industry</h3>
-  <div id="vis9"  class="vis-container"></div>
+  <div id="vis10"  class="vis-container"></div>
   <p>Dilution, steam generation, cleaning, and cooling of manufacturing equipment are just a few of the <span class="text">industrial uses</span> for water. Industrial water is also utilised as 
     cooling water in fossil-fuel and nuclear power plants, as well as other industrial operations.</p>
     <p>As shown, Asia and Europe are the largest uses of industrial water, with some countries utilising over 2000US$/m^3. In terms of <span class="text">Australia, this is far less</span>, which is expected as Asia is known for the extensive production within industrial department.</p>
   <!-- end industry group -->
-
+  <br>
   <!-- agriculture group -->
   <h3>Freshwater efficiency use for agriculture</h3>
-  <div id="vis10"  class="vis-container"></div>
+  <div id="vis11"  class="vis-container"></div>
   <p>Water, whether from rainfed sources or piped irrigation, is a <span class="text">critical component in worldwide agriculture</span>. The image depicts the entire amount of freshwater withdrawals utilised in agriculture, including food crops, animals, biofuels,
      and other non-food crop production. Agricultural water use data is frequently collected over several years rather than being published annually.</p>
      <p>In 2017, Asia and Europe again has efficiently been using their water within agriculture with <span class="text">Australia not doing too poorly</span> as well.</p>
@@ -194,7 +197,7 @@
 
       </div>
     </div>
-    <img src = "banner.png" height=100, width = 850>
+    <img src = "banner.png" height=100, width = 1200>
   
 
   </div> <!-- end page -->
@@ -203,13 +206,14 @@
   var specVis1 = "Graphs/water_stations_cluster.vg.json";
   var specVis2 = "Graphs/water_use_farms.vg.json";
   var specVis3 = "Graphs/water_source_farms.vg.json";
-  var specVis4 = "Graphs/water_farm_total.vg.json";
-  var specVis5 = "Graphs/water_supply.vg.json";
-  var specVis6 = "Graphs/water_use.vg.json";
-  var specVis7 = "Graphs/world_water_withdrawal.vg.json";
-  var specVis8 = "Graphs/world_water_use_services.vg.json";
-  var specVis9 = "Graphs/world_water_use_industrial.vg.json";
-  var specVis10 = "Graphs/world_water_use_agriculture.vg.json";
+  var specVis4 = "Graphs/water_farm_total_source.vg.json";
+  var specVis5 = "Graphs/water_farm_total_use.vg.json";
+  var specVis6 = "Graphs/water_supply.vg.json";
+  var specVis7 = "Graphs/water_use.vg.json";
+  var specVis8 = "Graphs/world_water_withdrawal.vg.json";
+  var specVis9 = "Graphs/world_water_use_services.vg.json";
+  var specVis10 = "Graphs/world_water_use_industrial.vg.json";
+  var specVis11 = "Graphs/world_water_use_agriculture.vg.json";
   
 
 
@@ -250,6 +254,10 @@
   }).catch(console.error);
 
   vegaEmbed('#vis10', specVis10, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  vegaEmbed('#vis11', specVis11, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
