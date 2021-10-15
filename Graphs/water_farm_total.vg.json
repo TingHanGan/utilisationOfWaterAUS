@@ -28,9 +28,5 @@
       {"field": "Region", "type": "nominal", "title": "State"},
       {"field": "Estimate", "type": "quantitative", "title": "Amount (ML & ha)", "format": ","}
     ]
-  },
-  "config": {
-    "view": {"stroke": "transparent"},
-    "axis": {"domainWidth": 1}
   }
 }

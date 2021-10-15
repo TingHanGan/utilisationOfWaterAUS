@@ -3,10 +3,10 @@
     "width": 500,
     "height": 300, 
     "title": "Total Water Source on Farms per State",
-    "data": {"url": "https://raw.githubusercontent.com/TingHanGan/utilisationOfWaterAUS/main/Datasets/farm_water_source_total.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/TingHanGan/utilisationOfWaterAUS/main/Datasets/water_farm_total_source.csv"},
     "encoding": {
-      "y": {"field": "Region", "type": "nominal", "title": "State"},
-      "x": {"field": "Estimate", "type": "quantitative", "title": "ML & ha"},
+      "x": {"field": "Region", "type": "nominal", "title": "State", "axis": null},
+      "y": {"field": "Estimate", "type": "quantitative", "title": "ML & ha"},
       "color": {
         "field": "Region",
         "scale": {"scheme": "yellowgreenblue"},
@@ -14,7 +14,7 @@
       },
       "tooltip": [
         {"field": "Region", "type": "nominal", "title": "State"},
-        {"field": "Estimate", "type": "quantitative", "title": "Amount (ML & ha)"}
+        {"field": "Estimate", "type": "quantitative", "title": "Amount (ML & ha)", "format": ","}
       ]
     },
     "layer": [{
@@ -24,10 +24,12 @@
         "type": "text",
         "align": "left",
         "baseline": "middle",
-        "dx": 3
+        "dy": -5,
+        "dx": -9,
+        "fill": "black"
       },
       "encoding": {
-        "text": {"field": "Estimate", "type": "quantitative"}
+        "text": {"field": "Abb", "type": "nominal"}
       }
     }]
   }

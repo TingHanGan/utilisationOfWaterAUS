@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Total Water Use in Agriculture (2017)",
+  "title": "Total Water Use Efficiency in Agriculture (2017)",
   "width": "container",
   "height": 400,
   "data": {
@@ -74,9 +74,7 @@
       "encoding": {
         "color": {
           "field": "Agriculture",
-          "type": "quantitative",
-          "scale": {"type": "quantile"},
-          "legend": null
+          "type": "quantitative"
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},

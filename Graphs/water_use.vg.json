@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width":"container",
     "height": 300,
-    "title": "Water Supply within Australia",
+    "title": "Water Use within Australia",
     "data": {"url": "https://raw.githubusercontent.com/TingHanGan/utilisationOfWaterAUS/main/Datasets/water_use_cleaned.csv"},
     "params": [
         {
