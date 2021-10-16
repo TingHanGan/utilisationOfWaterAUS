@@ -6,52 +6,17 @@
     "data": {"url": "https://raw.githubusercontent.com/TingHanGan/utilisationOfWaterAUS/main/Datasets/water_supply_cleaned.csv"},
     "params": [
         {
-          "name": "State_selection",
-          "bind": {
-            "input": "select",
-            "options": [
-              null,
-              "Australia",
-              "New South Wales",
-              "Victoria",
-              "Queensland",
-              "South Australia",
-              "Western Australia",
-              "Tasmania",
-              "Northern Territory",
-              "Australian Capital Territory"
-            ],
-            "labels":[
-              "Show All",
-              "Australia",
-              "New South Wales",
-              "Victoria",
-              "Queensland",
-              "South Australia",
-              "Western Australia",
-              "Tasmania",
-              "Northern Territory",
-              "Australian Capital Territory"
-            ],
-            "name": "Region Selection: "
-          }
-        },
-        {
           "name": "Industry_selection",
           "bind": {
             "input": "select",
             "options": [
               null,
               "Total Electricity, gas, water and waste services",
-              "Total industry",
-              "Total manufacturing",
               "Total mining"
             ],
             "labels":[
               "Combined Total",
               "Total Electricity, gas, water and waste services",
-              "Total industry",
-              "Total manufacturing",
               "Total mining"
             ],
             "name": "Industry Selection: "
@@ -59,21 +24,18 @@
         }
       ],
       "transform": [
-        {"filter": "Industry_selection == null || datum.Industry == Industry_selection"},
-        {"filter": "State_selection == null || datum.State == State_selection"},
-        {"calculate": "log(datum.Value)/log(10)", "as": "log_y"}
-      ],
+        {"filter": "Industry_selection == null || datum.Industry == Industry_selection"}      ],
     "mark": {
       "type": "line",
       "point": true
       },
       "encoding": {
         "x": {"timeUnit": "year", "field": "Date", "type": "ordinal"},
-        "y": {"aggregate":"sum", "field": "log_y", "type": "quantitative", "title": "ML"},
+        "y": {"aggregate":"sum", "field": "Value", "type": "quantitative", "title": "ML"},
         "color": {
           "field": "State",
-          "scale": {"domain":["Australia", "Australian Capital Territory", "New South Wales", "Northern Territory", "Queensland", "South Australia", "Tasmania", "Victoria", "Western Australia"],
-        "range": ["#ea5545", "#f46a9b", "#ef9b20", "#edbf33", "#ede15b", "#bdcf32", "#87bc45", "#27aeef", "#b33dc6"]}
+          "scale": {"domain":["Australian Capital Territory", "New South Wales", "Northern Territory", "Queensland", "South Australia", "Tasmania", "Victoria", "Western Australia"],
+        "range": ["#f46a9b", "#ef9b20", "#edbf33", "#ede15b", "#bdcf32", "#87bc45", "#27aeef", "#b33dc6"]}
         },
         "tooltip": [
           {"field": "State", "type": "nominal", "title": "Region"},
