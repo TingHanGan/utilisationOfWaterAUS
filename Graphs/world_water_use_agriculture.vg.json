@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Total Water Use Efficiency in Agriculture (2017)",
   "width": "container",
-  "height": 400,
+  "height": 500,
   "data": {
     "url": "https://raw.githubusercontent.com/TingHanGan/utilisationOfWaterAUS/main/world_map.json",
     "format": {
@@ -13,31 +13,6 @@
   "projection": {
     "type": "equirectangular"
   },
-  "params": [
-        {
-          "name": "Continent_selection",
-          "bind": {
-            "input": "select",
-            "options": [
-              null,
-              "Americas",
-              "Europe",
-              "Africa",
-              "Asia",
-              "Oceania"
-            ],
-            "labels":[
-              "Show All",
-              "Americas",
-              "Europe",
-              "Africa",
-              "Asia",
-              "Oceania"
-            ],
-            "name": "Continent Selection: "
-          }
-        }
-      ],
   "layer": [
     {
       "data": {
@@ -67,8 +42,7 @@
             "key": "Country",
              "fields": ["Agriculture", "Continent"]
           }
-        },
-        {"filter": "Continent_selection == null || datum.Continent == Continent_selection"}
+        }
       ],
       "mark": {"type": "geoshape"},
       "encoding": {
